@@ -54,6 +54,24 @@
       "nombre": "Banano (unidad)",
       "referencia": true
     },
+    "15535": {
+      "nombre": "Aloe Del Monte 500 ml",
+      "archivo": "img/catalogo/15535.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-de-aloe-vera-del-monte-500ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15537": {
+      "nombre": "Aloe Del Monte lata 240 ml",
+      "archivo": "img/catalogo/15537.webp",
+      "fuente": "https://www.launion.com.ni/aloe-vera-del-monte-lata-240ml/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "15581": {
       "nombre": "Azúcar (libra)",
       "archivo": "img/catalogo/15581.webp",
@@ -122,6 +140,15 @@
       "archivo": "img/catalogo/15755.webp",
       "fuente": "https://compreloadomicilio.com/NI/producto/abarrotes-y-viveres/aceite-clover-500ml-4873",
       "autor": "Comprelo a Domicilio Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15945": {
+      "nombre": "Agua Brisa botella 500 ml",
+      "archivo": "img/catalogo/15945.webp",
+      "fuente": "https://www.walmart.com.ni/agua-brisa-botella-500-ml/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -324,6 +351,87 @@
       "nombre": "Chayote (unidad)",
       "referencia": true
     },
+    "16446": {
+      "nombre": "Big Cola negra 360 ml",
+      "archivo": "img/catalogo/16446.webp",
+      "fuente": "https://www.ajedelivery.ni/p/big-cola-pet-no-retornable-360-ml-24-pack-500032",
+      "autor": "AJE Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16449": {
+      "nombre": "Big Cola 2 L",
+      "archivo": "img/catalogo/16449.webp",
+      "fuente": "https://www.ajedelivery.ni/p/big-cola-pet-no-retornable-2000-ml-6-pack-500138",
+      "autor": "AJE Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16456": {
+      "nombre": "Big Cola naranja 360 ml",
+      "archivo": "img/catalogo/16456.webp",
+      "fuente": "https://res.cloudinary.com/riqra/image/upload/v1729281334/sellers/aje-nicaragua/products/vuggie3z7a6jjswgw28z.jpg",
+      "autor": "AJE Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16459": {
+      "nombre": "Big Cola roja 2 L",
+      "archivo": "img/catalogo/16459.webp",
+      "fuente": "https://res.cloudinary.com/riqra/image/upload/v1729806643/sellers/aje-nicaragua/products/bzv6pescperyxxbzo64c.jpg",
+      "autor": "AJE Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16461": {
+      "nombre": "Big Cola roja 1 L",
+      "archivo": "img/catalogo/16461.webp",
+      "fuente": "https://res.cloudinary.com/riqra/image/upload/v1730916364/sellers/aje-nicaragua/products/p2vulg5ic1opqz3qwexr.jpg",
+      "autor": "AJE Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16462": {
+      "nombre": "Big Cola toronja 360 ml",
+      "archivo": "img/catalogo/16462.webp",
+      "fuente": "https://res.cloudinary.com/riqra/image/upload/v1762277508/sellers/aje-nicaragua/products/wineynzxhqe9mnwnz0ug.jpg",
+      "autor": "AJE Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16463": {
+      "nombre": "Big Cola uva 360 ml",
+      "archivo": "img/catalogo/16463.webp",
+      "fuente": "https://www.ajedelivery.gt/p/big-uva-360-ml-12-501504",
+      "autor": "AJE Guatemala",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16470": {
+      "nombre": "California kiwi fresa 400 ml",
+      "archivo": "img/catalogo/16470.webp",
+      "fuente": "https://www.walmart.com.ni/nectar-california-kiwi-y-fresa-400ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16485": {
+      "nombre": "Cfrut fruit punch 360 ml",
+      "archivo": "img/catalogo/16485.webp",
+      "fuente": "https://www.ajedelivery.ni/p/cifrut-fruit-pet-no-retornable-360-ml-24-pack-509903",
+      "autor": "AJE Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "16552": {
       "nombre": "Carne de cerdo (libra)",
       "archivo": "img/catalogo/16552.webp",
@@ -459,6 +567,24 @@
       "nombre": "Chiltoma (unidad)",
       "referencia": true
     },
+    "17331": {
+      "nombre": "Coca Cola 355 ml",
+      "archivo": "img/catalogo/17331.webp",
+      "fuente": "https://www.walmart.com.ni/gaseosa-coca-cola-pet-355-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17334": {
+      "nombre": "Coca Cola 1 L",
+      "archivo": "img/catalogo/17334.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/gift-cards?view=productdetails&virtuemart_category_id=842&virtuemart_product_id=14827",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17335": {
       "archivo": "img/destacados/coca-cola-2l.webp",
       "autor": "Walmart Nicaragua",
@@ -486,11 +612,29 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "17342": {
+      "nombre": "Coca Cola ½ L (desechable)",
+      "archivo": "img/catalogo/17342.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/hogar?view=productdetails&virtuemart_category_id=842&virtuemart_product_id=577",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17348": {
       "nombre": "Coca Cola Zero 250 ml",
       "archivo": "img/catalogo/17348.webp",
       "fuente": "https://compreloadomicilio.com/ni/producto/refrescos/coca-cola-zero-250ml-86348",
       "autor": "Súper Empalme (Cómprelo a Domicilio)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17358": {
+      "nombre": "Del Valle limón 500 ml",
+      "archivo": "img/catalogo/17358.webp",
+      "fuente": "https://www.walmart.com.ni/refresco-del-valle-fresh-limon-500-ml-ni139/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -562,6 +706,24 @@
       "nombre": "Consomé de pollo Favora (vaso) 200 g",
       "archivo": "img/catalogo/18096.webp",
       "fuente": "https://www.walmart.com.ni/consome-de-pollo-favora-frasco-200gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18220": {
+      "nombre": "Fanta naranja 2 L",
+      "archivo": "img/catalogo/18220.webp",
+      "fuente": "https://www.walmart.com.ni/refresco-gaseoso-fanta-naranja-2000ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18221": {
+      "nombre": "Fanta naranja 3 L",
+      "archivo": "img/catalogo/18221.webp",
+      "fuente": "https://www.walmart.com.ni/refresco-gaseosa-fanta-naranja-3000ml/p",
       "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
@@ -675,6 +837,15 @@
       "nombre": "Guayaba (unidad)",
       "referencia": true
     },
+    "18986": {
+      "nombre": "Fresca toronja 3 L",
+      "archivo": "img/catalogo/18986.webp",
+      "fuente": "https://www.walmart.com.ni/gaseosa-fresca-regular-3-l-ni143/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19065": {
       "nombre": "Hígado de pollo Tip Top (libra)",
       "archivo": "img/catalogo/19065.webp",
@@ -689,6 +860,15 @@
       "archivo": "img/catalogo/19335.webp",
       "fuente": "https://www.launion.com.ni/frijol-naturas-molido-rojo-380g/p",
       "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19391": {
+      "nombre": "Gatorade uva 500 ml",
+      "archivo": "img/catalogo/19391.webp",
+      "fuente": "https://freshify.com.mx/products/gatorade-uva-500ml",
+      "autor": "Freshify Market México",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1006,6 +1186,15 @@
       "licencia": "",
       "licenciaUrl": "",
       "nombre": "Pepsi 3 L",
+      "referencia": false
+    },
+    "21666": {
+      "nombre": "Raptor 300 ml",
+      "archivo": "img/catalogo/21666.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-energetica-raptor-original-300ml-ni5621-2-0/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
       "referencia": false
     },
     "21667": {
@@ -1332,6 +1521,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24433": {
+      "nombre": "Monster Pipeline 473 ml",
+      "archivo": "img/catalogo/24433.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-ener-monster-pipeline-punch-473ml-7/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24540": {
       "nombre": "Sopa Cantonesa pollo (vaso)",
       "archivo": "img/catalogo/24540.webp",
@@ -1350,6 +1548,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24588": {
+      "nombre": "Agua Cielo limón 650 ml",
+      "archivo": "img/catalogo/24588.webp",
+      "fuente": "https://www.ajedelivery.ni/p/cielo-limon-pet-no-retornable-650-ml-12-524079",
+      "autor": "AJE Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24607": {
       "nombre": "Mayonesa Hellmann's 380 g",
       "archivo": "img/catalogo/24607.webp",
@@ -1359,11 +1566,29 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24682": {
+      "nombre": "Agua gasificada Cielo fresa kiwi 650 ml",
+      "archivo": "img/catalogo/24682.webp",
+      "fuente": "https://www.maxidespensa.com.sv/agua-cielo-con-gas-sabor-fresa-kiwi650ml-1/p",
+      "autor": "Maxi Despensa El Salvador",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24831": {
       "nombre": "Empanizador rostizador Ya Está 3.5 oz",
       "archivo": "img/catalogo/24831.webp",
       "fuente": "https://www.instacart.com/products/3141916-yaesta-breading-seasoned-3-5-oz",
       "autor": "Instacart",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24945": {
+      "nombre": "Agua Cielo maracuyá 650 ml",
+      "archivo": "img/catalogo/24945.webp",
+      "fuente": "https://www.ajedelivery.ni/p/cielo-agua-maracuya-pet-no-retornable-650-ml-12-524725",
+      "autor": "AJE Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1399,6 +1624,10 @@
       "nombre": "Aceite chorreado (botella)",
       "motivo": "Falta una foto de la botella en que se despacha el aceite chorreado en la tienda."
     },
+    "15944": {
+      "nombre": "Agua Brisa bolsa 500 ml",
+      "motivo": "Un distribuidor nicaragüense lista la bolsa Brisa de 500 ml, pero su imagen no abrió. Las imágenes alternativas corresponden a botella de 500 ml o a bolsas de otra capacidad."
+    },
     "16121": {
       "nombre": "Arroz Faisán 1 lb (empacado)",
       "motivo": "La distribuidora local indica 1 libra pero muestra un logotipo en lugar del empaque. El fabricante ofrece distintos porcentajes de grano entero. Falta confirmar el que vende la tienda."
@@ -1422,6 +1651,22 @@
     "16345": {
       "nombre": "Café Presto stick (caja 80 + 8)",
       "motivo": "Las cajas identificables tienen 40 u 80 sobres. Falta una foto legible de la caja promocional de 80 + 8."
+    },
+    "16460": {
+      "nombre": "Big Cola roja 3 L",
+      "motivo": "El fabricante en Nicaragua muestra Big Roja de 3.030 ml. Falta confirmar si el código registrado como 3 litros corresponde a esa botella."
+    },
+    "16475": {
+      "nombre": "Campestre 2 L",
+      "motivo": "Las fichas de distribuidores muestran Campestre de 3 L y de medio galón. Hace falta verificar la botella de 2 L y su sabor."
+    },
+    "16486": {
+      "nombre": "Cfrut naranja 1 L",
+      "motivo": "La presentación de 1 L que se encontró está etiquetada como naranja, mandarina y limón. Falta confirmar si es la registrada en la tienda como naranja."
+    },
+    "16488": {
+      "nombre": "Cfrut naranja 360 ml",
+      "motivo": "La presentación de 360 ml que se encontró está etiquetada como naranja, mandarina y limón. Falta confirmar si es la registrada en la tienda como naranja."
     },
     "16555": {
       "nombre": "Carne molida de res Tip Top",
@@ -1467,6 +1712,22 @@
       "nombre": "Sabor y Color + cúrcuma 10 g (sobre)",
       "motivo": "La ficha de Walmart muestra 5 sobres de 10 g. Falta verificar una foto legible del sobre individual de la versión con cúrcuma."
     },
+    "17333": {
+      "nombre": "Coca Cola 12 oz (vidrio)",
+      "motivo": "Falta una foto que confirme en la misma botella el envase de vidrio y el contenido de 12 oz. Las fichas locales abiertas muestran botella PET o lata."
+    },
+    "17341": {
+      "nombre": "Coca Cola 1 L (vidrio)",
+      "motivo": "La ficha local indica vidrio retornable de 1 L, pero su foto no muestra una Coca-Cola. Hace falta una foto legible de ese envase."
+    },
+    "17343": {
+      "nombre": "Coca Cola ½ L (vidrio)",
+      "motivo": "Las fotos locales de Coca-Cola de 500 ml muestran botellas de plástico. Hace falta una foto que confirme el envase de vidrio de medio litro."
+    },
+    "17346": {
+      "nombre": "Coca Cola 2 L (retornable)",
+      "motivo": "La ficha local distingue la presentación retornable de 2 L. Hace falta una foto abierta y legible en la que pueda verificarse el envase retornable."
+    },
     "17830": {
       "nombre": "Crema criolla",
       "motivo": "Falta confirmar si la crema criolla se vende a granel o en un empaque específico y conseguir una foto de esa presentación."
@@ -1475,9 +1736,13 @@
       "nombre": "Empanizador Sol Maya 150 g",
       "motivo": "La foto identificable de empanizador Sol Maya corresponde a la bolsa de 100 g. Falta una imagen de la de 150 g."
     },
-    "19391": {
-      "nombre": "Gatorade uva 500 ml",
-      "motivo": "Dos fichas locales identifican Gatorade uva de 500 ml, pero las fotos no abrieron en las rutas probadas."
+    "18204": {
+      "nombre": "Deporade uva 360 ml",
+      "motivo": "Las fichas encontradas alternan los nombres Deporade y Sporade. La foto disponible muestra un paquete que dificulta leer la botella individual. Falta confirmar etiqueta y presentación."
+    },
+    "19004": {
+      "nombre": "Hi-C pera (cajita) 250 ml",
+      "motivo": "La foto que acompaña la ficha de Hi-C pera de 250 ml muestra una caja Del Valle Fresh. Hace falta una foto de la caja con la marca Hi-C."
     },
     "19432": {
       "nombre": "Gelatina De La Familia fresa 450 g",
@@ -1506,6 +1771,10 @@
     "20028": {
       "nombre": "Jamón de pavo ahumado 250 g",
       "motivo": "Se encontraron presentaciones de pavo ahumado de 250 g de FUD y Cinta Azul. Confirmar la marca del producto."
+    },
+    "20224": {
+      "nombre": "Jugo Petit manzana 200 ml (cajita)",
+      "motivo": "Se localizaron cajitas de manzana de 200 ml de otra marca y Petit de manzana de 330 ml. Falta una foto de Petit manzana en cajita de 200 ml."
     },
     "20707": {
       "nombre": "Mostaza McCormick 180 g",
