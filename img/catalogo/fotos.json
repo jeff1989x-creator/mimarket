@@ -126,6 +126,15 @@
       "nombre": "Agua Fuente Pura galón",
       "referencia": false
     },
+    "15991": {
+      "nombre": "Ajo molido McCormick 4 g (sobre)",
+      "archivo": "img/catalogo/15991.webp",
+      "fuente": "https://www.superselectos.com/products?category=0315140&productId=17860",
+      "autor": "Súper Selectos El Salvador",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "16098": {
       "archivo": "img/destacados/arroz-80-20.webp",
       "autor": "Gaurav Dhwaj Khadka",
@@ -198,6 +207,24 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "16212": {
+      "nombre": "Avena molida Sasa 1 kg",
+      "archivo": "img/catalogo/16212.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/hogar?view=productdetails&virtuemart_category_id=832&virtuemart_product_id=13182",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16213": {
+      "nombre": "Avena Sasa en hojuelas 900 g",
+      "archivo": "img/catalogo/16213.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/hogar?view=productdetails&virtuemart_category_id=832&virtuemart_product_id=14437",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "16309": {
       "archivo": "img/catalogo/16309.webp",
       "autor": "AJE Nicaragua",
@@ -212,6 +239,24 @@
       "archivo": "img/catalogo/16342.webp",
       "fuente": "https://www.masxmenos.cr/cafe-1820",
       "autor": "Más x Menos Costa Rica",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16344": {
+      "nombre": "Café Presto stick (caja de 40)",
+      "archivo": "img/catalogo/16344.webp",
+      "fuente": "https://www.launion.com.ni/cafe-soluble-presto-stick-40und-68gr-4/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16347": {
+      "nombre": "Café Presto (vaso) 150 g",
+      "archivo": "img/catalogo/16347.webp",
+      "fuente": "https://www.walmart.com.ni/presto-cafe-instantaneo-frasco-150-gr-6/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -293,6 +338,15 @@
       "archivo": "img/catalogo/16933.webp",
       "fuente": "https://www.walmart.com.ni/cafe-toro-molido-113-g/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16934": {
+      "nombre": "Café Toro 25 g (unidad)",
+      "archivo": "img/catalogo/16934.webp",
+      "fuente": "https://www.cafesoluble.com/nuestras-marcas/cafe-toro/cafe-toro/",
+      "autor": "Café Soluble S.A.",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -387,6 +441,15 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "17624": {
+      "nombre": "Cocoa dulce instantánea 100 g",
+      "archivo": "img/catalogo/17624.webp",
+      "fuente": "https://compreloadomicilio.com/ni/producto/chocolates/cocoa-dulce-instantanea-100g-4972",
+      "autor": "Miscelánea Xochilt (Cómprelo a Domicilio)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18091": {
       "nombre": "Empanizador McCormick pollo 60 g",
       "archivo": "img/catalogo/18091.webp",
@@ -427,6 +490,33 @@
       "nombre": "Delisoya 1+ sin lactosa 360 g",
       "archivo": "img/catalogo/18418.webp",
       "fuente": "https://www.cafesoluble.com/nuestras-marcas/delisoy/delisoy-1-mas/",
+      "autor": "Café Soluble S.A.",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18421": {
+      "nombre": "Delisoya chocolate 36 g (sobre)",
+      "archivo": "img/catalogo/18421.webp",
+      "fuente": "https://www.cafesoluble.com/nuestras-marcas/delisoy/delisoy-chocolate/",
+      "autor": "Café Soluble S.A.",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18427": {
+      "nombre": "Delisoya fresa 36 g (sobre)",
+      "archivo": "img/catalogo/18427.webp",
+      "fuente": "https://www.cafesoluble.com/nuestras-marcas/delisoy/delisoy-fresa/",
+      "autor": "Café Soluble S.A.",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18428": {
+      "nombre": "Delisoya natural 30 g (sobre)",
+      "archivo": "img/catalogo/18428.webp",
+      "fuente": "https://www.cafesoluble.com/nuestras-marcas/delisoy/delisoy-natural/",
       "autor": "Café Soluble S.A.",
       "licencia": "",
       "licenciaUrl": "",
@@ -494,6 +584,15 @@
       "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "nombre": "Manzana roja (unidad)",
       "referencia": true
+    },
+    "19960": {
+      "nombre": "Leche Nido 1+ 1.6 kg",
+      "archivo": "img/catalogo/19960.webp",
+      "fuente": "https://www.walmart.com.ni/nido1-1-6-kg-8/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "20035": {
       "nombre": "Maicena natural 185 g",
@@ -603,6 +702,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "20972": {
+      "nombre": "Maruchan camarón con chile (bolsa)",
+      "archivo": "img/catalogo/20972.webp",
+      "fuente": "https://www.launion.com.ni/sopa-ramen-camaron-con-chile-85gr/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "20973": {
       "archivo": "img/catalogo/20973.webp",
       "autor": "Walmart Nicaragua",
@@ -648,11 +756,29 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "21029": {
+      "nombre": "Mayonesa Hellmann's 100 g",
+      "archivo": "img/catalogo/21029.webp",
+      "fuente": "https://compreloadomicilio.com/ni/producto/salsas-y-condimentos/mayonesa-hellmanns-100g-5079",
+      "autor": "Miscelánea Xochilt (Cómprelo a Domicilio)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "21030": {
       "nombre": "Mayonesa Hellmann's 190 g",
       "archivo": "img/catalogo/21030.webp",
       "fuente": "https://www.launion.com.ni/mayonesa-hellmanns-pura-en-doy-pack-190-g/p",
       "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21140": {
+      "nombre": "Mostaza Hellmann's 100 g",
+      "archivo": "img/catalogo/21140.webp",
+      "fuente": "https://compreloadomicilio.com/ni/producto/salsas-y-condimentos/mostaza-hellmanns-100g-4416",
+      "autor": "Miscelánea Xochilt (Cómprelo a Domicilio)",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -729,6 +855,15 @@
       "nombre": "Raptor 600 ml",
       "referencia": false
     },
+    "21751": {
+      "nombre": "Pinolillo Sasa 380 g",
+      "archivo": "img/catalogo/21751.webp",
+      "fuente": "https://tunicaragua.com/index.php/es/esteli?view=productdetails&virtuemart_category_id=871&virtuemart_product_id=645",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "21796": {
       "archivo": "img/destacados/pechuga-con-ala.webp",
       "autor": "Dennis Family Butchers",
@@ -801,6 +936,42 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "22588": {
+      "nombre": "Sopa Laky pollo (bolsa)",
+      "archivo": "img/catalogo/22588.webp",
+      "fuente": "https://www.walmart.com.ni/sopa-laky-pollo-sobre-80-g-ni148/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22591": {
+      "nombre": "Sopa Maggi de costilla 58 g",
+      "archivo": "img/catalogo/22591.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/esteli?view=productdetails&virtuemart_category_id=791&virtuemart_product_id=9606",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22592": {
+      "nombre": "Sopa Maggi de res 60 g",
+      "archivo": "img/catalogo/22592.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/component/virtuemart/?view=productdetails&virtuemart_category_id=791&virtuemart_product_id=9603",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22594": {
+      "nombre": "Sopa Maggi de pollo 55 g",
+      "archivo": "img/catalogo/22594.webp",
+      "fuente": "https://www.launion.com.ni/sopa-maggi-de-pollo-con-fideos-sobre-55g/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "22618": {
       "nombre": "Salchicha cocida Kimby 250 g",
       "archivo": "img/catalogo/22618.webp",
@@ -817,6 +988,51 @@
       "licencia": "",
       "licenciaUrl": "",
       "nombre": "Seltzer limón hierbabuena lata",
+      "referencia": false
+    },
+    "22766": {
+      "nombre": "Sandwich Spread Hellmann's 190 g",
+      "archivo": "img/catalogo/22766.webp",
+      "fuente": "https://www.walmart.com.ni/aderezo-hellmanns-para-sandwich-en-doypack-190-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22767": {
+      "nombre": "Sandwich Spread McCormick 180 g",
+      "archivo": "img/catalogo/22767.webp",
+      "fuente": "https://www.launion.com.ni/aderezo-mccormick-sandwich-spread-doypack-180-g-0/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22803": {
+      "nombre": "Sazón completo Badia 3.5 oz",
+      "archivo": "img/catalogo/22803.webp",
+      "fuente": "https://tunicaragua.com/index.php/es/component/virtuemart/?view=productdetails&virtuemart_category_id=1376&virtuemart_product_id=15151",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23138": {
+      "nombre": "Sopa de tomate Maggi 76 g",
+      "archivo": "img/catalogo/23138.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/hogar?view=productdetails&virtuemart_category_id=1346&virtuemart_product_id=6348",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23140": {
+      "nombre": "Sopa Laky camarón (bolsa)",
+      "archivo": "img/catalogo/23140.webp",
+      "fuente": "https://www.walmart.com.ni/sopa-laky-camaron-sobre-80-g-ni147/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
       "referencia": false
     },
     "23393": {
@@ -900,6 +1116,15 @@
       "nombre": "Zanahoria (libra)",
       "referencia": true
     },
+    "24540": {
+      "nombre": "Sopa Cantonesa pollo (vaso)",
+      "archivo": "img/catalogo/24540.webp",
+      "fuente": "https://www.walmart.com.ni/cantonesa-pollo-vaso-65gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24582": {
       "nombre": "Zucaritas Kellogg's 200 g",
       "archivo": "img/catalogo/24582.webp",
@@ -949,9 +1174,21 @@
       "nombre": "Aceite chorreado (botella)",
       "motivo": "Falta una foto de la botella en que se despacha el aceite chorreado en la tienda."
     },
+    "16121": {
+      "nombre": "Arroz Faisán 1 lb (empacado)",
+      "motivo": "La distribuidora local indica 1 libra pero muestra un logotipo en lugar del empaque. El fabricante ofrece distintos porcentajes de grano entero. Falta confirmar el que vende la tienda."
+    },
+    "16123": {
+      "nombre": "Arroz Faisán 2 kg",
+      "motivo": "Se encontraron referencias de 2 kg con 80 % y 96 % de grano entero. Falta confirmar el porcentaje de la bolsa del negocio."
+    },
     "16200": {
       "nombre": "Avena molida Sasa 50 g",
       "motivo": "El fabricante enumera 50 g, pero otras fichas muestran sobres de 45 o 48 g. Hace falta una foto legible del sobre de 50 g."
+    },
+    "16202": {
+      "nombre": "Avena Quaker 350 g",
+      "motivo": "Se encontró una bolsa Avena Mosh Nutremás de 350 g. Falta confirmar que corresponde a la avena Quaker de esa medida registrada en el POS."
     },
     "16334": {
       "nombre": "Café Casa del Café molido 454 g",
@@ -965,6 +1202,10 @@
       "nombre": "Carne molida de res Tip Top",
       "motivo": "El nombre del POS indica res Tip Top, pero las coincidencias verificadas de Tip Top son de pollo. Confirmar especie y marca en la etiqueta."
     },
+    "16901": {
+      "nombre": "Café instantáneo 1820 (vaso) 50 g",
+      "motivo": "Se encontró una ficha de catálogo que menciona 50 g, pero las fotos identificables de la marca corresponden a otros pesos o a bolsa. Falta verificar el frasco de 50 g."
+    },
     "16912": {
       "nombre": "Café molido 1820 400 g",
       "motivo": "Se encontraron bolsas de 400 g identificadas como Arábica y como Clásico. Falta confirmar cuál corresponde al código del POS."
@@ -976,6 +1217,10 @@
     "16930": {
       "nombre": "Café Selecto 400 g",
       "motivo": "El fabricante ofrece Selecto Clásico y Superior en 400 g. Falta confirmar la variedad que vende la tienda."
+    },
+    "17009": {
+      "nombre": "Capuccino 1820 20 g",
+      "motivo": "Las fotos de dos fichas tituladas 20 g muestran la caja de seis sobres de 120 g. Falta una foto verificable de un sobre individual de 20 g."
     },
     "17240": {
       "nombre": "Consomé de camarón 10 g (sobre)",
@@ -1004,6 +1249,10 @@
     "18094": {
       "nombre": "Empanizador Sol Maya 150 g",
       "motivo": "La foto identificable de empanizador Sol Maya corresponde a la bolsa de 100 g. Falta una imagen de la de 150 g."
+    },
+    "19848": {
+      "nombre": "Pasta lengua Roma 200 g",
+      "motivo": "La ficha local identifica Pasta Roma Lengua de 200 g. El archivo de la imagen frontal no abrió en las rutas probadas. Falta una copia accesible para comprobar el empaque."
     },
     "19851": {
       "motivo": "Confirmar la variedad local que se registra como limón castillo.",
@@ -1041,9 +1290,9 @@
       "motivo": "Verificar qué empaque corresponde al código indicado como bolsa nueva.",
       "nombre": "Maruchan pollo (bolsa, nuevo)"
     },
-    "21029": {
-      "nombre": "Mayonesa Hellmann's 100 g",
-      "motivo": "Se identificaron fotos de Hellmann’s de otras medidas. Falta una foto legible de la presentación de 100 g."
+    "21010": {
+      "nombre": "Maseca 410 g",
+      "motivo": "Hay harina Maseca regular y extra suave en bolsas de 410 g. Falta confirmar la variante que corresponde al código del POS."
     },
     "21041": {
       "nombre": "Mayonesa Regia reducida en lípidos 175 g",
@@ -1057,9 +1306,17 @@
       "nombre": "Piezas mixtas marinadas Kimby (libra)",
       "motivo": "El catálogo de Kimby muestra una mezcla de piernas y muslos, pero falta verificar que sea la mezcla marinada que se vende por libra."
     },
+    "22213": {
+      "nombre": "Harina Prima 454 g",
+      "motivo": "Se confirmó la marca Prima Harina, pero falta una foto legible del empaque de 454 g."
+    },
     "22447": {
       "nombre": "Sabor y Color Sol Maya 10 g (sobre)",
       "motivo": "La ficha encontrada de Sabor y Color Sol Maya es de 20 g. Falta verificar el sobre de 10 g."
+    },
+    "22589": {
+      "nombre": "Sopa Laky pollo (vaso)",
+      "motivo": "El catálogo local identifica el vaso de pollo de 64 g. Las fotos de distribuidores que se pudieron abrir corresponden a la presentación más grande. Falta verificar el vaso regular."
     },
     "22629": {
       "nombre": "Salchichón manguera picante (libra)",
@@ -1072,6 +1329,14 @@
     "22634": {
       "nombre": "Salchichón sin chile (unidad)",
       "motivo": "Falta confirmar la marca y el tamaño de la unidad sin chile."
+    },
+    "22748": {
+      "nombre": "Salsa pico de gallo Kerns 385 g",
+      "motivo": "Se encontraron salsa de tomate Kern’s de 385 g y salsa Chunky en otras medidas. Falta verificar una foto de pico de gallo Kern’s de 385 g."
+    },
+    "23142": {
+      "nombre": "Sopa Laky camarón (vaso)",
+      "motivo": "El fabricante distingue el vaso regular de 64 g del Jumbo de 75 g y del sabor camarón picante. Las fotos revisadas muestran el Jumbo o la variante picante. Falta verificar el vaso regular de camarón."
     },
     "23484": {
       "nombre": "Tang durazno 13 g",
