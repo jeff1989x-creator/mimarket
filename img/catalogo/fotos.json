@@ -324,6 +324,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "15992": {
+      "nombre": "Ajomix McCormick 148 ml",
+      "archivo": "img/catalogo/15992.webp",
+      "fuente": "https://www.launion.com.ni/salsa-ajomix-mccormick-148ml/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "16098": {
       "archivo": "img/destacados/arroz-80-20.webp",
       "autor": "Gaurav Dhwaj Khadka",
@@ -377,6 +386,16 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
+    },
+    "16200": {
+      "nombre": "Avena molida Sasa 50 g",
+      "archivo": "img/catalogo/16200.webp",
+      "fuente": "https://somossasa.com/producto/avena-molina/",
+      "autor": "SaSa / Café Soluble",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false,
+      "modificaciones": "Recorte del sobre de 50 g en la foto del fabricante y conversión a WebP"
     },
     "16205": {
       "nombre": "Avena Quaker fresa 330 g",
@@ -729,6 +748,15 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "17229": {
+      "nombre": "Chips sal 36 g",
+      "archivo": "img/catalogo/17229.webp",
+      "fuente": "https://www.kemik.gt/barcel-chips-sal-36-g",
+      "autor": "Kemik Guatemala",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17249": {
       "nombre": "Consomé Maggi de pollo vaso 225 g",
       "archivo": "img/catalogo/17249.webp",
@@ -797,6 +825,15 @@
       "archivo": "img/catalogo/17263.webp",
       "fuente": "https://www.walmart.com.ni/cloro-magia-blanca-1-l-4/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17270": {
+      "nombre": "Coffee-mate regular 160 g",
+      "archivo": "img/catalogo/17270.webp",
+      "fuente": "https://www.soriana.com/sustituto-de-crema-para-cafe-coffee-mate-polvo-original-160-g/11194837.html",
+      "autor": "Soriana México",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1024,6 +1061,24 @@
       "archivo": "img/catalogo/17624.webp",
       "fuente": "https://compreloadomicilio.com/ni/producto/chocolates/cocoa-dulce-instantanea-100g-4972",
       "autor": "Miscelánea Xochilt (Cómprelo a Domicilio)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17699": {
+      "nombre": "Enjuague Colgate Plax Ice 250 ml",
+      "archivo": "img/catalogo/17699.webp",
+      "fuente": "https://www.walmart.com.ni/enjuague-bucal-colgate-plax-ice-250ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17701": {
+      "nombre": "Enjuague Colgate Plax Ice 60 ml",
+      "archivo": "img/catalogo/17701.webp",
+      "fuente": "https://www.launion.com.ni/enjuague-bucal-colgate-plax-ice-60ml-4-6/p",
+      "autor": "La Unión Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1928,6 +1983,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "19972": {
+      "nombre": "Leche Nido 3+ 800 g",
+      "archivo": "img/catalogo/19972.webp",
+      "fuente": "https://www.launion.com.ni/leche-nestle-nido-3-desarrollo-alimento-lacteo-a-base-de-leche-instantanea-lata-800-g/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "20035": {
       "nombre": "Maicena natural 185 g",
       "archivo": "img/catalogo/20035.webp",
@@ -1936,6 +2000,15 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
+    },
+    "20048": {
+      "nombre": "Maní (libra)",
+      "archivo": "img/catalogo/20048.webp",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Peanuts_(shelled_raw_marketed).jpg",
+      "autor": "David E Mead",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "referencia": true
     },
     "20053": {
       "nombre": "Leche Nido 1+ 325 g",
@@ -1978,6 +2051,15 @@
       "archivo": "img/catalogo/20065.webp",
       "fuente": "https://www.walmart.com.ni/jabon-cremoso-original-75-gr/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20082": {
+      "nombre": "Jabón de baño Protex avena 110 g",
+      "archivo": "img/catalogo/20082.webp",
+      "fuente": "https://puntofarma.hn/153/jabon-protex-avena-barra-x-110-g-0010003033",
+      "autor": "PuntoFarma Honduras",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2315,6 +2397,15 @@
       "nombre": "Maruchan vaso pollo",
       "referencia": false
     },
+    "20983": {
+      "nombre": "Masa del Comal 400 g",
+      "archivo": "img/catalogo/20983.webp",
+      "fuente": "https://www.walmart.com.ni/harina-maiz-del-comal-maiz-bco-400-gr-1/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "20984": {
       "nombre": "Masa del Comal 800 g",
       "archivo": "img/catalogo/20984.webp",
@@ -2536,6 +2627,15 @@
       "archivo": "img/catalogo/21659.webp",
       "fuente": "https://www.walmart.com.ni/pulp-manzana-tetra-pack-manzana-145ml-7/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21665": {
+      "nombre": "Raptor 1.5 L",
+      "archivo": "img/catalogo/21665.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/hogar?view=productdetails&virtuemart_category_id=631&virtuemart_product_id=8443",
+      "autor": "Tu Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2771,6 +2871,15 @@
       "archivo": "img/catalogo/22581.webp",
       "fuente": "https://www.lacolonia.com/salsa-de-tomate-naturas-ketchup-385gr/p",
       "autor": "Supermercados La Colonia Honduras",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22582": {
+      "nombre": "Sopa Laky camarón picante (vaso)",
+      "archivo": "img/catalogo/22582.webp",
+      "fuente": "https://www.launion.com.ni/sopa-laky-men-vaso-camaron-picante-75gr-6/p",
+      "autor": "La Unión Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3234,6 +3343,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "23964": {
+      "nombre": "Tortrix limón 150 g",
+      "archivo": "img/catalogo/23964.webp",
+      "fuente": "https://www.walmart.com.ni/tortrix-limon-150-gr-2/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "23988": {
       "nombre": "Pastel tres leches",
       "archivo": "img/catalogo/23988.webp",
@@ -3513,6 +3631,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24932": {
+      "nombre": "Trululú Sabores 100 g",
+      "archivo": "img/catalogo/24932.webp",
+      "fuente": "https://www.farmatodo.com.ve/producto/116687596-gomitas-trululu-sabores-100g",
+      "autor": "Farmatodo Venezuela",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24945": {
       "nombre": "Agua Cielo maracuyá 650 ml",
       "archivo": "img/catalogo/24945.webp",
@@ -3536,6 +3663,15 @@
       "archivo": "img/catalogo/24963.webp",
       "fuente": "https://www.masxmenos.cr/paleta-choco-duo-dos-pinos-64-gr-0/p",
       "autor": "Más x Menos Costa Rica",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24966": {
+      "nombre": "Pingüinos 80 g",
+      "archivo": "img/catalogo/24966.webp",
+      "fuente": "https://www.walmart.com.ni/pinguino-marinela-navidad-80-g/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3567,6 +3703,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "25014": {
+      "nombre": "Queso crema Monteverde 100 g",
+      "archivo": "img/catalogo/25014.webp",
+      "fuente": "https://www.walmart.com.ni/queso-crema-monteverde-100-gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "25036": {
       "nombre": "Costillas de guayaba Zarcereña 240 g",
       "archivo": "img/catalogo/25036.webp",
@@ -3589,11 +3734,25 @@
   "porConfirmar": {
     "15435": {
       "nombre": "Botellón Fuente Pura (envase vacío)",
-      "motivo": "Las fichas de Fuente Pura muestran el botellón con agua o con dispensador. Hace falta una foto del envase vacío que se vende con este código."
+      "motivo": "Las fichas de Fuente Pura muestran el botellón con agua o con dispensador. Hace falta una foto del envase vacío que se vende con este código.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://distribuidorajiron.com.ni/es/agua-purificada/337-oasis-fuente-pura-oasis-y-envase-cagua.html"
+        ],
+        "resultado": "La ficha de Jirón muestra el envase con agua y equipo. Sigue haciendo falta la foto del bidón vacío."
+      }
     },
     "15463": {
       "nombre": "Alboroto Diana 19 g",
-      "motivo": "La presentación Diana de 19 g aparece en listados de inventario. Los catálogos con foto muestran bolsas de 185 o 200 g. Hace falta el frente de la bolsa de 19 g."
+      "motivo": "La presentación Diana de 19 g aparece en listados de inventario. Los catálogos con foto muestran bolsas de 185 o 200 g. Hace falta el frente de la bolsa de 19 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.tunicaragua.com/index.php/es/pastelerias?view=productdetails&virtuemart_category_id=192&virtuemart_product_id=1848"
+        ],
+        "resultado": "El catálogo Tu Nicaragua muestra 185 g. No se pudo identificar visualmente la bolsa de 19 g."
+      }
     },
     "15485": {
       "nombre": "Azistin manzana 900 ml",
@@ -3635,6 +3794,18 @@
       "nombre": "Acetaminofén 500 mg (tableta)",
       "motivo": "Hay tabletas de acetaminofén de 500 mg de varios laboratorios. Confirmar la marca y el blíster que se vende."
     },
+    "15629": {
+      "nombre": "Acetaminofén MK (tableta)",
+      "motivo": "La Unión y Medco ofrecen el Acetaminofén MK de 500 mg por tableta, pero muestran la caja de 100. Hace falta una foto del blíster individual o de la tableta que vende MiMarket.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/acetaminofen-mk-500mg-100-tabletas/p",
+          "https://medco.online.com.ni/Product/Detail/6650020"
+        ],
+        "resultado": "La Unión y Medco ofrecen el Acetaminofén MK de 500 mg por tableta, pero muestran la caja de 100. Hace falta una foto del blíster individual o de la tableta que vende MiMarket."
+      }
+    },
     "15630": {
       "nombre": "Acetaminofén niños (tableta)",
       "motivo": "El POS no indica laboratorio ni miligramos por tableta. Confirmar ambos datos con una foto del frente y del blíster."
@@ -3653,7 +3824,14 @@
     },
     "15727": {
       "nombre": "Ablandador McCormick 6 g (sobre)",
-      "motivo": "Las fichas localizadas muestran el sobre McCormick de 6.5 g. Confirmar si corresponde al código de 6 g del POS."
+      "motivo": "Las fichas localizadas muestran el sobre McCormick de 6.5 g. Confirmar si corresponde al código de 6 g del POS.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.pasionporelsabor.com/es-ni/productos/mccormick/hierbas-especias-y-sazonadores"
+        ],
+        "resultado": "McCormick muestra el sobre Centroamérica de 6.5 g. Confirmar si el peso se abrevia a 6 g en el POS."
+      }
     },
     "15750": {
       "nombre": "Aceite chorreado (botella)",
@@ -3661,19 +3839,30 @@
     },
     "15944": {
       "nombre": "Agua Brisa bolsa 500 ml",
-      "motivo": "Un distribuidor nicaragüense lista la bolsa Brisa de 500 ml, pero su imagen no abrió. Las imágenes alternativas corresponden a botella de 500 ml o a bolsas de otra capacidad."
+      "motivo": "Un distribuidor nicaragüense lista la bolsa Brisa de 500 ml, pero su imagen no abrió. Las imágenes alternativas corresponden a botella de 500 ml o a bolsas de otra capacidad.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/agua-brisa-botella-500-ml/p"
+        ],
+        "resultado": "Walmart Nicaragua muestra botella de 500 ml. Hace falta una foto de la bolsa de 500 ml."
+      }
     },
     "16121": {
       "nombre": "Arroz Faisán 1 lb (empacado)",
-      "motivo": "La distribuidora local indica 1 libra pero muestra un logotipo en lugar del empaque. El fabricante ofrece distintos porcentajes de grano entero. Falta confirmar el que vende la tienda."
+      "motivo": "La distribuidora local indica 1 libra pero muestra un logotipo en lugar del empaque. El fabricante ofrece distintos porcentajes de grano entero. Falta confirmar el que vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.elreal.com.ni/product-category/marca/arroz-faisan/",
+          "https://www.faisannicaragua.com/"
+        ],
+        "resultado": "Aceitera El Real y Agricorp muestran distintas variedades. Hace falta confirmar el porcentaje de grano entero del paquete de 1 lb."
+      }
     },
     "16123": {
       "nombre": "Arroz Faisán 2 kg",
       "motivo": "Se encontraron referencias de 2 kg con 80 % y 96 % de grano entero. Falta confirmar el porcentaje de la bolsa del negocio."
-    },
-    "16200": {
-      "nombre": "Avena molida Sasa 50 g",
-      "motivo": "El fabricante enumera 50 g, pero otras fichas muestran sobres de 45 o 48 g. Hace falta una foto legible del sobre de 50 g."
     },
     "16202": {
       "nombre": "Avena Quaker 350 g",
@@ -3685,11 +3874,25 @@
     },
     "16334": {
       "nombre": "Café Casa del Café molido 454 g",
-      "motivo": "Falta confirmar que el empaque sea el molido de tueste medio de 454 g. Las fotos identificables muestran otras presentaciones."
+      "motivo": "Falta confirmar que el empaque sea el molido de tueste medio de 454 g. Las fotos identificables muestran otras presentaciones.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/cafe-casa-del-cafe-hb-medio-molido-400gr-1/p"
+        ],
+        "resultado": "Walmart Nicaragua muestra Casa del Café House Blend medio molido de 400 g. Hace falta una foto del empaque de 454 g."
+      }
     },
     "16345": {
       "nombre": "Café Presto stick (caja 80 + 8)",
-      "motivo": "Las cajas identificables tienen 40 u 80 sobres. Falta una foto legible de la caja promocional de 80 + 8."
+      "motivo": "Las cajas identificables tienen 40 u 80 sobres. Falta una foto legible de la caja promocional de 80 + 8.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.pricesmart.com/site/ni/es/pagina-producto/234568"
+        ],
+        "resultado": "PriceSmart muestra dos dispensadores para 80 sobres. Hace falta una foto con la promoción 80 + 8 impresa."
+      }
     },
     "16358": {
       "nombre": "Bombón Colombina (unidad)",
@@ -3701,7 +3904,14 @@
     },
     "16465": {
       "nombre": "Bio Aloe uva 360 ml",
-      "motivo": "Las fichas del fabricante en Nicaragua muestran Bio Aloe natural de 360 ml. Las fuentes de uva muestran otros volúmenes. Falta confirmar una botella de uva de 360 ml."
+      "motivo": "Las fichas del fabricante en Nicaragua muestran Bio Aloe natural de 360 ml. Las fuentes de uva muestran otros volúmenes. Falta confirmar una botella de uva de 360 ml.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.ajedelivery.ni/p/bio-aloe-vera-natural-360-ml-6-pack-517499"
+        ],
+        "resultado": "El fabricante AJE Nicaragua muestra Bio Aloe natural de 360 ml. Sigue haciendo falta la foto de la versión de uva de ese volumen."
+      }
     },
     "16475": {
       "nombre": "Campestre 2 L",
@@ -3717,7 +3927,14 @@
     },
     "16506": {
       "nombre": "Cepillo Colgate Smiles (5 años o más)",
-      "motivo": "La foto local disponible es del Colgate Smiles para 2 a 5 años. Hace falta ver el empaque del cepillo para 5 años o más."
+      "motivo": "La foto local disponible es del Colgate Smiles para 2 a 5 años. Hace falta ver el empaque del cepillo para 5 años o más.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.hn/cepillo-dental-colgate-kids-tandy-5-anos-1u/p"
+        ],
+        "resultado": "La ficha de Walmart Honduras muestra Colgate Kids Tandy para 5 años o más. Hace falta confirmar que el empaque local sea Smiles, como en el POS."
+      }
     },
     "16555": {
       "nombre": "Carne molida de res Tip Top",
@@ -3761,7 +3978,15 @@
     },
     "16921": {
       "nombre": "Café Presto (sobrecito)",
-      "motivo": "La foto localizada muestra un surtido de sobres Presto. Falta una imagen clara del sobre individual de la tienda."
+      "motivo": "La foto localizada muestra un surtido de sobres Presto. Falta una imagen clara del sobre individual de la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com/ip/15780610342",
+          "https://www.minestle.com/cafes/presto"
+        ],
+        "resultado": "La ficha alternativa muestra el paquete Presto de 40 sobres. La marca también ofrece otras variantes. Confirmar el frente del sobre vendido por unidad."
+      }
     },
     "16930": {
       "nombre": "Café Selecto 400 g",
@@ -3778,6 +4003,19 @@
     "17110": {
       "nombre": "Cepillo dental Premier",
       "motivo": "La ficha Premier Clean x6 de Medco muestra un cepillo Colgate. Hace falta una foto del empaque Premier Clean."
+    },
+    "17227": {
+      "nombre": "Chicharrones Auténticos 18 g",
+      "motivo": "Las fichas identifican Del Rancho Auténticos de 18 g, pero el archivo de la foto no abre y la alternativa descargable muestra Picositos. Hace falta una foto legible del empaque Auténticos.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.ferreteriamonterroso.com/producto/del-rancho-chicharrones-autenticos-18gr/",
+          "https://prices.nedostavka.net/es/product/750894606955",
+          "https://www.ladespensadedonjuan.com.sv/chicharron-del-rancho-picosito-18-g/p"
+        ],
+        "resultado": "Las fichas identifican Del Rancho Auténticos de 18 g, pero el archivo de la foto no abre y la alternativa descargable muestra Picositos. Hace falta una foto legible del empaque Auténticos."
+      }
     },
     "17240": {
       "nombre": "Consomé de camarón 10 g (sobre)",
@@ -4355,6 +4593,18 @@
       "nombre": "Seltzer Triple Berry 350 ml",
       "motivo": "La Gaceta identifica la marca Spark Triple Berry. Falta una foto verificable de la lata de 350 ml."
     },
+    "22674": {
+      "nombre": "Smirnoff manzana botella",
+      "motivo": "Walmart Nicaragua muestra la botella Green Apple de 355 ml. La ficha regional de Alianza Licorera muestra una de 275 ml. Confirmar el volumen de la botella del negocio.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/bebida-saborizada-a-base-de-vodka-smirnoff-ice-green-apple-botella-355-ml-6/p",
+          "https://alianzalicorera.com/p/smirnoff-manzana-verde-botella-275ml"
+        ],
+        "resultado": "Walmart Nicaragua muestra la botella Green Apple de 355 ml. La ficha regional de Alianza Licorera muestra una de 275 ml. Confirmar el volumen de la botella del negocio."
+      }
+    },
     "22748": {
       "nombre": "Salsa pico de gallo Kerns 385 g",
       "motivo": "Se encontraron salsa de tomate Kern’s de 385 g y salsa Chunky en otras medidas. Falta verificar una foto de pico de gallo Kern’s de 385 g."
@@ -4382,6 +4632,18 @@
     "23340": {
       "nombre": "Toztecas moradas picantes Max 30 g",
       "motivo": "La línea Toztecas Max incluye otros sabores y tamaños. Hace falta una foto donde se vea la variante morada picante de 30 g."
+    },
+    "23349": {
+      "nombre": "Tipitín Colombina (unidad)",
+      "motivo": "La Unión muestra el surtido Tipitín de 180 g. El catálogo alternativo muestra distintas líneas Tipitín. Hace falta una foto del envoltorio vendido por unidad.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/paleta-colombina-tipitin-surtido-sabores-180gr/p",
+          "https://fliphtml5.com/maxysweet/wupy/"
+        ],
+        "resultado": "La Unión muestra el surtido Tipitín de 180 g. El catálogo alternativo muestra distintas líneas Tipitín. Hace falta una foto del envoltorio vendido por unidad."
+      }
     },
     "23390": {
       "nombre": "Tumix (unidad)",
@@ -4427,6 +4689,18 @@
       "nombre": "Victoria Frost lata 350 ml",
       "motivo": "CCN confirma Victoria Frost en lata de 350 ml. La foto frontal del comercio agrega una etiqueta errónea de 125 g. Hace falta una toma frontal donde se pueda verificar el volumen correcto."
     },
+    "23854": {
+      "nombre": "Tipitín cervecita",
+      "motivo": "Las fichas nicaragüenses muestran la bolsa Cervecita de 312 g o 24 paletas. Confirmar si el código corresponde a esa bolsa, a una bolsa más pequeña o a una unidad.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/paleta-colombina-tipitin-cervecita-312-g-5/p",
+          "https://www.tunicaragua.com/index.php/es/hogar?view=productdetails&virtuemart_category_id=1088&virtuemart_product_id=2086"
+        ],
+        "resultado": "Las fichas nicaragüenses muestran la bolsa Cervecita de 312 g o 24 paletas. Confirmar si el código corresponde a esa bolsa, a una bolsa más pequeña o a una unidad."
+      }
+    },
     "23873": {
       "nombre": "Toalla sanitaria Fiore con alas",
       "motivo": "Se encontraron Fiore con alas nocturnas y de flujo moderado. Hace falta confirmar la línea y la cantidad de la presentación local."
@@ -4455,6 +4729,18 @@
       "nombre": "Tozteca Max 45 g",
       "motivo": "Las fichas de Toztecas Max no identifican el sabor de este SKU ni muestran una envoltura legible de 45 g."
     },
+    "24125": {
+      "nombre": "Veladora pequeña",
+      "motivo": "Jirón muestra veladoras pequeñas de varios colores sin recipiente y Walmart muestra una individual con vaso. Confirmar el tipo, el color o surtido y si se vende unidad o paquete.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://distribuidorajiron.com.ni/es/accesorios-basicos-del-hogar/109-veladoras-pequenas-6-unidades.html",
+          "https://www.walmart.com.ni/veladora-favorita-vaso-vidrio-pequena/p"
+        ],
+        "resultado": "Jirón muestra veladoras pequeñas de varios colores sin recipiente y Walmart muestra una individual con vaso. Confirmar el tipo, el color o surtido y si se vende unidad o paquete."
+      }
+    },
     "24185": {
       "nombre": "Zambos ceviche Yummies 21 g",
       "motivo": "El fabricante lista Zambos Ceviche de 21 g junto a otros pesos. En la foto abierta no se distingue el gramaje. Falta comprobar que corresponde a 21 g."
@@ -4474,6 +4760,18 @@
     "24365": {
       "nombre": "Zambos yuquitas Yummies (unidad)",
       "motivo": "El fabricante confirma Zambos Yuquitas Originales y advierte que el tamaño varía por país. Hace falta confirmar el peso de la bolsa individual del negocio."
+    },
+    "24393": {
+      "nombre": "Barra Nutrix",
+      "motivo": "Los catálogos devuelven barras Nutrix de otro mercado o marcas distintas. Hace falta una foto del envoltorio con la marca, la variedad y el peso de la barra del POS.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://nutrixtienda.com/collections/barras-energeticas",
+          "https://contesa.com.ni/products/?id=16"
+        ],
+        "resultado": "Los catálogos devuelven barras Nutrix de otro mercado o marcas distintas. Hace falta una foto del envoltorio con la marca, la variedad y el peso de la barra del POS."
+      }
     },
     "24462": {
       "nombre": "Galleta Chiky vainilla (unidad)",
@@ -4547,6 +4845,18 @@
       "nombre": "Victoria Selección Maestro 350 ml",
       "motivo": "Una ficha de Victoria Selección Maestro de 350 ml muestra el cartón de 24. La botella individual disponible en otra ficha figura como 355 ml. Hace falta confirmar el volumen del envase individual."
     },
+    "24965": {
+      "nombre": "Sponch navideño 90 g",
+      "motivo": "La ficha de Auto Pulpe identifica el Sponch navideño de 90 g, pero el archivo de la foto no abre. Maxi Despensa muestra 240 g. Hace falta una foto legible del empaque de 90 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://autopulpe.com/products/galleta-sponch-navidad-90g",
+          "https://www.maxidespensa.com.gt/galletas-marinela-sponch-navidad-240-g-gt-24-10-8/p"
+        ],
+        "resultado": "La ficha de Auto Pulpe identifica el Sponch navideño de 90 g, pero el archivo de la foto no abre. Maxi Despensa muestra 240 g. Hace falta una foto legible del empaque de 90 g."
+      }
+    },
     "24969": {
       "nombre": "Merendina fresa (unidad)",
       "motivo": "Las fichas locales muestran el paquete Pozuelo de 240 g. Hace falta una foto del envoltorio de la Merendina fresa vendida por unidad."
@@ -4559,9 +4869,28 @@
       "nombre": "Lepo piña 375 ml",
       "motivo": "No apareció una foto verificable de Lepo piña en botella de 375 ml. Las fuentes alternativas muestran otras marcas o volúmenes."
     },
+    "24994": {
+      "nombre": "Café Agapito Díaz 1 libra",
+      "motivo": "Las notas de TN8 y Viva Nicaragua muestran la marca Agapito Díaz, pero el peso neto de las bolsas que aparecen no se lee. Hace falta una foto de frente de la bolsa de una libra.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.tn8.ni/nacionales/probaras-el-cafe-de-jr-lanzamiento-de-la-marca-agapito-diaz/",
+          "https://www.vivanicaragua.com.ni/2026/07/08/virales/jr-lanza-nuevo-proyecto/"
+        ],
+        "resultado": "Las notas de TN8 y Viva Nicaragua muestran la marca Agapito Díaz, pero el peso neto de las bolsas que aparecen no se lee. Hace falta una foto de frente de la bolsa de una libra."
+      }
+    },
     "24995": {
       "nombre": "Café Agapito Díaz (bolsita 25 g)",
-      "motivo": "Las imágenes localizadas de Café Agapito Díaz no identifican la bolsita de 25 g. Hace falta una foto propia del frente del producto."
+      "motivo": "Las imágenes localizadas de Café Agapito Díaz no identifican la bolsita de 25 g. Hace falta una foto propia del frente del producto.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.vivanicaragua.com.ni/2026/07/08/virales/jr-lanza-nuevo-proyecto/"
+        ],
+        "resultado": "Las fotos de la marca que aparecen en Viva Nicaragua no permiten comprobar un peso de 25 g. Hace falta una foto legible de la bolsita."
+      }
     },
     "25018": {
       "nombre": "Aderezo Spread Regia 175 g",
