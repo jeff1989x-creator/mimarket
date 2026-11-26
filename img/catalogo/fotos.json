@@ -126,6 +126,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "15622": {
+      "nombre": "Inhalador Vick VapoRub",
+      "archivo": "img/catalogo/15622.webp",
+      "fuente": "https://www.superxtra.com/vick-vaporub-inhalador--0-5-ml-1031001248060/p",
+      "autor": "Super Xtra Panamá",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "15673": {
       "nombre": "Alitas picantes (libra)",
       "archivo": "img/catalogo/15673.webp",
@@ -945,6 +954,16 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "17445": {
+      "nombre": "Curitas (unidad)",
+      "archivo": "img/catalogo/17445.webp",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Pl%C3%A5ster_-_Adhesive_bandage_-_2025.jpg",
+      "autor": "Foto: Jonn Leffmann / Wikipedia",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "referencia": true,
+      "modificaciones": "Recorte de una curita, ajuste de tamaño y conversión a WebP"
+    },
     "17447": {
       "nombre": "Chincaca de pollo (libra)",
       "archivo": "img/catalogo/17447.webp",
@@ -953,6 +972,16 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": true
+    },
+    "17471": {
+      "nombre": "Cortaúñas pequeño",
+      "archivo": "img/catalogo/17471.webp",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Fingernail_Clippers.jpg",
+      "autor": "Iain",
+      "licencia": "CC BY 2.5",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "referencia": true,
+      "modificaciones": "Conversión a WebP y ajuste de tamaño"
     },
     "17481": {
       "nombre": "Chicharrón Picositos Yummies 100 g",
@@ -1004,6 +1033,15 @@
       "archivo": "img/catalogo/17872.webp",
       "fuente": "https://www.walmart.com.ni/crema-acida-la-perfecta-210-gr-bol/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17949": {
+      "nombre": "Crema para peinar Sedal rizos (sobre)",
+      "archivo": "img/catalogo/17949.webp",
+      "fuente": "https://www.sedal.com.mx/p/crema-para-peinar-rizos-definidos-10ml.html/07501056340261",
+      "autor": "Sedal / Unilever México",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1224,6 +1262,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "18278": {
+      "nombre": "Detergente Espumil floral 500 g",
+      "archivo": "img/catalogo/18278.webp",
+      "fuente": "https://www.launion.com.ni/espumil-explos-flora/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18281": {
       "nombre": "Detergente Espumil limón 2 kg",
       "archivo": "img/catalogo/18281.webp",
@@ -1246,6 +1293,15 @@
       "nombre": "Fabuloso floral 900 ml",
       "archivo": "img/catalogo/18343.webp",
       "fuente": "https://www.walmart.com.ni/desinfectante-fabuloso-floral-900ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18374": {
+      "nombre": "Dolo-Vitalgia (sobre)",
+      "archivo": "img/catalogo/18374.webp",
+      "fuente": "https://www.walmart.com.ni/dolo-vitalgia-rarpe-4-tabletas/p",
       "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
@@ -1647,6 +1703,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "19714": {
+      "nombre": "Hilo dental flúor y menta",
+      "archivo": "img/catalogo/19714.webp",
+      "fuente": "https://www.colgate.com/es-ni/products/specialty/hilo-dental-menta-colgate",
+      "autor": "Colgate-Palmolive",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19716": {
       "nombre": "Hilo dental Total 12 (25 m)",
       "archivo": "img/catalogo/19716.webp",
@@ -1926,6 +1991,24 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "20088": {
+      "nombre": "Jabón de baño Protex Omega 3 110 g",
+      "archivo": "img/catalogo/20088.webp",
+      "fuente": "https://www.drogueriaspatria.com/producto/jabon-protex-omega-3-110-g-pte-c-110-gr/",
+      "autor": "Droguerías Patria",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20151": {
+      "nombre": "Jabón Palmolive Fusion Nutri 150 g",
+      "archivo": "img/catalogo/20151.webp",
+      "fuente": "https://super.walmart.com.mx/ip/jabon-de-tocador-palmolive-naturals-fusion-nutritiva-aceites-de-almendra-y-omega-3-150-g/00750954607467",
+      "autor": "Walmart México",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "20195": {
       "nombre": "Joyita 950 ml",
       "archivo": "img/catalogo/20195.webp",
@@ -1967,6 +2050,15 @@
       "archivo": "img/catalogo/20230.webp",
       "fuente": "https://www.walmart.com.ni/refresco-tropical-manzana-2-5lts/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20328": {
+      "nombre": "Lápiz Bic Cristal azul",
+      "archivo": "img/catalogo/20328.webp",
+      "fuente": "https://www.colortec.com.br/escrita/caneta-esferografica/caneta-esferografica-ponta-media-1-0mm-cristal-azul-bic",
+      "autor": "Colortec Papelaria Brasil",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2493,6 +2585,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "21745": {
+      "nombre": "Pasta dental Oral-B blancura 150 ml",
+      "archivo": "img/catalogo/21745.webp",
+      "fuente": "https://www.walmart.com.ni/crema-dental-oral-b-baking-soda-150ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "21751": {
       "nombre": "Pinolillo Sasa 380 g",
       "archivo": "img/catalogo/21751.webp",
@@ -2538,6 +2639,33 @@
       "nombre": "Papel higiénico Delsey 1000 hojas (rollo)",
       "referencia": false
     },
+    "21848": {
+      "nombre": "Papel higiénico Encanto 1000 hojas (6 rollos)",
+      "archivo": "img/catalogo/21848.webp",
+      "fuente": "https://www.lacolonia.com/papel-higienico-encanto-1000-hojas-6-un-ref7416502200511/p",
+      "autor": "Supermercados La Colonia Honduras",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21904": {
+      "nombre": "Pasta dental Colgate Máxima Protección 50 ml",
+      "archivo": "img/catalogo/21904.webp",
+      "fuente": "https://www.fahorro.com/c-d-colgate-mfp-ii-50-ml-tbo-1567.html",
+      "autor": "Farmacias del Ahorro México",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21986": {
+      "nombre": "Pega loca",
+      "archivo": "img/catalogo/21986.webp",
+      "fuente": "https://distribuidorajiron.com.ni/es/varios/3833-pega-loca-chemmer.html",
+      "autor": "Distribuidora Jirón Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "22038": {
       "nombre": "Petmaster adulto (libra)",
       "archivo": "img/catalogo/22038.webp",
@@ -2574,6 +2702,24 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "22427": {
+      "nombre": "Regla flexible Pelikan 30 cm",
+      "archivo": "img/catalogo/22427.webp",
+      "fuente": "https://papeleriaccc.com/products/reglas-plastica-12-30cms-flexibles",
+      "autor": "Papelería CCC",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22468": {
+      "nombre": "Suavitel primavera 80 ml",
+      "archivo": "img/catalogo/22468.webp",
+      "fuente": "https://www.maxipali.co.cr/suavizante-de-telas-suavitel-complete-fresca-primavera-sachet-80-ml/p",
+      "autor": "Maxi Palí Costa Rica",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "22520": {
       "nombre": "Shampoo Ricitos de Oro manzanilla 400 ml",
       "archivo": "img/catalogo/22520.webp",
@@ -2582,6 +2728,16 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
+    },
+    "22546": {
+      "nombre": "Servilletas",
+      "archivo": "img/catalogo/22546.webp",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Napkins_-_isolated.png",
+      "autor": "Alanthebox",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "referencia": true,
+      "modificaciones": "Conversión a WebP y ajuste de tamaño"
     },
     "22557": {
       "archivo": "img/catalogo/22557.webp",
@@ -3042,11 +3198,38 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "23898": {
+      "nombre": "Kotex Esencial con alas",
+      "archivo": "img/catalogo/23898.webp",
+      "fuente": "https://sirena.do/products/index/toallas-sanitarias-kotex-esencial-10-uds",
+      "autor": "Sirena",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23899": {
+      "nombre": "Kotex manzanilla con alas",
+      "archivo": "img/catalogo/23899.webp",
+      "fuente": "https://wecarepharma.mx/products/toallas-kotex-naturals-manzanilla-con-alas-con-10",
+      "autor": "WeCare Pharma México",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "23902": {
       "nombre": "Kotex nocturna con alas",
       "archivo": "img/catalogo/23902.webp",
       "fuente": "https://tunicaragua.com/index.php/es/salud?view=productdetails&virtuemart_category_id=186&virtuemart_product_id=1729",
       "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23904": {
+      "nombre": "Kotex nocturna sin alas",
+      "archivo": "img/catalogo/23904.webp",
+      "fuente": "https://medco.online.com.ni/Product/Detail/5827014",
+      "autor": "Super Farmacias Medco Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3132,6 +3315,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24255": {
+      "nombre": "Zepol adulto 30 g",
+      "archivo": "img/catalogo/24255.webp",
+      "fuente": "https://www.walmart.com.ni/unguento-zepol-adulto-resfrios-30-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24354": {
       "nombre": "Zafari (unidad)",
       "archivo": "img/catalogo/24354.webp",
@@ -3191,6 +3383,15 @@
       "archivo": "img/catalogo/24540.webp",
       "fuente": "https://www.walmart.com.ni/cantonesa-pollo-vaso-65gr/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24581": {
+      "nombre": "Detergente Irex floral 450 g",
+      "archivo": "img/catalogo/24581.webp",
+      "fuente": "https://superbaru.com/products/detergente-en-polvo-floral-450-gr-irex",
+      "autor": "Super Barú Panamá",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3430,6 +3631,26 @@
       "nombre": "Desodorante Lady Speed Stick 10 g",
       "motivo": "La foto local muestra sobres Lady Speed Stick Duo unidos. Hace falta confirmar qué variante y cuántos sobres corresponden al código de 10 g."
     },
+    "15625": {
+      "nombre": "Acetaminofén 500 mg (tableta)",
+      "motivo": "Hay tabletas de acetaminofén de 500 mg de varios laboratorios. Confirmar la marca y el blíster que se vende."
+    },
+    "15630": {
+      "nombre": "Acetaminofén niños (tableta)",
+      "motivo": "El POS no indica laboratorio ni miligramos por tableta. Confirmar ambos datos con una foto del frente y del blíster."
+    },
+    "15646": {
+      "nombre": "Alka-AD antidiarreico",
+      "motivo": "Las fuentes muestran un exhibidor de 72 tabletas, una caja de 60 o un blíster múltiple. Confirmar el formato vendido con este código."
+    },
+    "15647": {
+      "nombre": "Alka-Seltzer",
+      "motivo": "Jirón y otras farmacias muestran cajas de distintos tamaños. Confirmar si el código corresponde a un sobre, una tableta o una caja."
+    },
+    "15648": {
+      "nombre": "Alka-Seltzer Black",
+      "motivo": "La imagen regional de empaque negro y naranja no permite identificar la variante que el POS llama Black. Hace falta foto del frente del empaque."
+    },
     "15727": {
       "nombre": "Ablandador McCormick 6 g (sobre)",
       "motivo": "Las fichas localizadas muestran el sobre McCormick de 6.5 g. Confirmar si corresponde al código de 6 g del POS."
@@ -3550,6 +3771,14 @@
       "nombre": "Capuccino 1820 20 g",
       "motivo": "Las fotos de dos fichas tituladas 20 g muestran la caja de seis sobres de 120 g. Falta una foto verificable de un sobre individual de 20 g."
     },
+    "17078": {
+      "nombre": "Cepillo dental clásico duro",
+      "motivo": "La ficha de Jirón muestra cepillos clásicos de varias durezas. Falta una foto unitaria con la indicación duro y la marca del que vende MiMarket."
+    },
+    "17110": {
+      "nombre": "Cepillo dental Premier",
+      "motivo": "La ficha Premier Clean x6 de Medco muestra un cepillo Colgate. Hace falta una foto del empaque Premier Clean."
+    },
     "17240": {
       "nombre": "Consomé de camarón 10 g (sobre)",
       "motivo": "Se identificó un sobre Maggi de camarón, pero falta confirmar marca y peso de 10 g en la presentación de tienda."
@@ -3606,6 +3835,10 @@
       "nombre": "Chocolate Jouven espresso 50 g",
       "motivo": "La ficha de Jouven Espresso confirma la barra de 50 g. La imagen del importador muestra el exhibidor con varias barras. Hace falta una foto del frente de la unidad."
     },
+    "17431": {
+      "nombre": "Cigarro Fisher rojo (cajetilla)",
+      "motivo": "Los listados consultados no muestran una foto legible de la cajetilla Fisher roja. Hace falta foto del negocio."
+    },
     "17484": {
       "nombre": "Chicharrones limón y sal 20 g",
       "motivo": "Las búsquedas muestran chicharrones con limón en otras marcas o tamaños. Hace falta identificar la marca y el frente de la bolsa de 20 g."
@@ -3621,6 +3854,14 @@
     "17524": {
       "nombre": "Chobix queso 11 g",
       "motivo": "Las fotos de Chobix disponibles muestran otras variantes o pesos. Hace falta una foto de la bolsa de queso de 11 g."
+    },
+    "17565": {
+      "nombre": "Cigarro Belmont rojo (medio paquete)",
+      "motivo": "Las fichas de Belmont rojo muestran cajetillas completas. Confirmar qué cantidad y formato corresponden al medio paquete."
+    },
+    "17575": {
+      "nombre": "Cigarro Pall Mall tropical (10)",
+      "motivo": "La foto regional disponible muestra Pall Mall Mykonos de 10. Confirmar si el empaque vendido dice Mykonos o identifica otra variante tropical."
     },
     "17818": {
       "nombre": "Crema Chantilly",
@@ -3670,6 +3911,10 @@
       "nombre": "Detergente Xedex 115 g",
       "motivo": "Distribuidora Jirón lista Xedex de 115 g, pero su foto muestra varios sobres sin distinguir claramente la variante Máximo Poder. Hace falta una foto del sobre exacto."
     },
+    "18376": {
+      "nombre": "Dolofin (tableta)",
+      "motivo": "Medco muestra la caja mayorista de Dolofin. Hace falta una foto del blíster o empaque de la tableta vendida."
+    },
     "18538": {
       "nombre": "Detergente Blancanieves 100 g",
       "motivo": "Las fichas locales muestran Blanca Nieves de 250 g. Hace falta una foto con 100 g legible."
@@ -3678,9 +3923,37 @@
       "nombre": "Detergente Lariansa 500 g",
       "motivo": "Las fotos identificables muestran Lariansa en bolsas de 1 kg u otros tamaños. Hace falta confirmar una bolsa de 500 g."
     },
+    "18651": {
+      "nombre": "Colorante para ropa El Caballito azul",
+      "motivo": "El fabricante y Jirón muestran varios azules El Caballito, como profundo, cielo y mezclilla. Confirmar el tono impreso del sobre."
+    },
+    "18652": {
+      "nombre": "Colorante para ropa El Caballito negro",
+      "motivo": "Jirón muestra Negro Elegante y Negro Mezclilla El Caballito. Confirmar la variante del sobre."
+    },
     "19004": {
       "nombre": "Hi-C pera (cajita) 250 ml",
       "motivo": "La foto que acompaña la ficha de Hi-C pera de 250 ml muestra una caja Del Valle Fresh. Hace falta una foto de la caja con la marca Hi-C."
+    },
+    "19056": {
+      "nombre": "Ibuprofeno 400 mg gel (cápsula)",
+      "motivo": "La foto de Fenodol Max de 400 mg muestra una caja de 30 cápsulas. Confirmar el laboratorio y el blíster de la cápsula que se vende."
+    },
+    "19058": {
+      "nombre": "Ibuprofeno 600 mg (tableta)",
+      "motivo": "Las fuentes muestran tabletas de ibuprofeno de varios laboratorios. Confirmar fabricante y blíster de la tableta de 600 mg."
+    },
+    "19059": {
+      "nombre": "Ibuprofeno 600 mg gel (cápsula)",
+      "motivo": "Las fichas de MK Liqui-Gels 600 mg muestran un empaque de 50 cápsulas. Confirmar si es el fabricante y empaque que corresponde a este código."
+    },
+    "19060": {
+      "nombre": "Ibuprofeno 800 mg gel (cápsula)",
+      "motivo": "Las fichas de ibuprofeno de 800 mg encontradas no confirman una cápsula de gel. Hace falta una foto del blíster o del empaque."
+    },
+    "19061": {
+      "nombre": "Ibuprofeno 800 mg (tableta)",
+      "motivo": "Se encontraron fabricantes distintos para el ibuprofeno en tabletas de 800 mg. Confirmar cuál vende MiMarket."
     },
     "19071": {
       "nombre": "Galleta Best con maní (unidad)",
@@ -3770,6 +4043,10 @@
       "nombre": "Leche Vidamas fresa bolsa 200 ml",
       "motivo": "Se encontraron Lechelado Eskimo fresa de 200 ml, leche Eskimo fresa en bolsa y Vidamás fresa de 400 ml. Hace falta confirmar la bolsa con la marca Vidamás y 200 ml."
     },
+    "19833": {
+      "nombre": "Jabón de lavar Sol grande 400 g",
+      "motivo": "Las fotos encontradas de barras de 400 g corresponden a marcas distintas. Hace falta una foto del empaque Sol."
+    },
     "19843": {
       "nombre": "Jugo naranja y zanahoria La Perfecta 473 ml",
       "motivo": "Una ficha local lista la combinación de naranja y zanahoria de 473 ml. Las fotos que se pudieron abrir muestran otro sabor o tamaño. Falta verificar el frente del envase exacto."
@@ -3785,6 +4062,10 @@
     "19862": {
       "motivo": "Confirmar si la porción corresponde a manzanilla seca o fresca.",
       "nombre": "Manzanilla (porción de C$ 20)"
+    },
+    "19873": {
+      "nombre": "Jabón Zixx grande",
+      "motivo": "Se encontraron presentaciones Zixx de 400 g en distintos colores y formatos. Confirmar color y si se vende la unidad o el fardo."
     },
     "19891": {
       "nombre": "Kola Shaler",
@@ -3821,6 +4102,10 @@
     "20224": {
       "nombre": "Jugo Petit manzana 200 ml (cajita)",
       "motivo": "Se localizaron cajitas de manzana de 200 ml de otra marca y Petit de manzana de 330 ml. Falta una foto de Petit manzana en cajita de 200 ml."
+    },
+    "20514": {
+      "nombre": "Lima de metal Lola",
+      "motivo": "Las fotos de artículos similares muestran otras marcas. Hace falta una foto del producto Lola."
     },
     "20638": {
       "nombre": "Maní limón Pro 18 g",
@@ -3866,6 +4151,10 @@
       "nombre": "Mirinda 1 L",
       "motivo": "Los catálogos locales muestran Mirinda en otros volúmenes. Falta una foto legible de la presentación de 1 L que vende la tienda."
     },
+    "20874": {
+      "nombre": "Omeprazol 20 mg (cápsula)",
+      "motivo": "Hay cápsulas de omeprazol de 20 mg de varios laboratorios. Confirmar marca y empaque del producto del negocio."
+    },
     "20901": {
       "nombre": "Mortadela tubo chiltoma",
       "motivo": "Se encontró mortadela con chiltoma a granel, pero falta una foto legible que confirme la presentación en tubo."
@@ -3898,6 +4187,14 @@
       "nombre": "Mayonesa Regia reducida en lípidos 175 g",
       "motivo": "Hay fichas de mayonesa Regia de 175 g sin una etiqueta legible que confirme que es la reducida en lípidos."
     },
+    "21075": {
+      "nombre": "Marcador permanente Pelikan azul",
+      "motivo": "La ficha local muestra Artline 109 y Pelikan ofrece varios marcadores permanentes azules. Confirmar el número de modelo o la punta."
+    },
+    "21223": {
+      "nombre": "Papel higiénico Nevax rendidor (4 rollos)",
+      "motivo": "Las fichas de cuatro rollos muestran ExtraMás y EconoMax. Hace falta la foto del paquete Rendidor."
+    },
     "21319": {
       "nombre": "Paleta Suave (40 unidades)",
       "motivo": "Las búsquedas mostraron bolsas de 40 paletas de otras líneas. Hace falta confirmar la marca y el frente de Paleta Suave."
@@ -3922,6 +4219,10 @@
       "nombre": "Ranchitas nacho Cinema 35 g",
       "motivo": "Las fichas con imagen muestran Ranchita Cinema cheddar y jalapeño de 300 g. Hace falta confirmar la bolsa de 35 g."
     },
+    "21567": {
+      "nombre": "Porta cepillo",
+      "motivo": "Las fuentes muestran estuches completos y tapas para el cabezal. Confirmar cuál se vende y su marca."
+    },
     "21580": {
       "nombre": "Quesitos Max 35 g",
       "motivo": "Las fuentes consultadas muestran Quesitos Diana de 30 g y otros tamaños. Hace falta confirmar la marca y ver el frente de Quesitos Max de 35 g."
@@ -3933,6 +4234,10 @@
     "21586": {
       "nombre": "Pasas Sol Maya 45 g",
       "motivo": "Los catálogos de Sol Maya muestran pasas de 70 g, 150 g y otros pesos. Falta una foto verificable del empaque de 45 g."
+    },
+    "21589": {
+      "nombre": "Papel higiénico Nevax rendidor (6 rollos)",
+      "motivo": "Las fichas de seis rollos muestran variantes como ExtraMás y Maxi Resist. Confirmar el nombre exacto impreso en el paquete del negocio."
     },
     "21613": {
       "nombre": "Queso criollo (libra)",
@@ -3978,6 +4283,10 @@
       "nombre": "Pasta dental Doble Frescura 75 ml",
       "motivo": "La ficha local de Colgate Doble Frescura muestra 100 ml. Hace falta una foto identificable de la caja de 75 ml."
     },
+    "21923": {
+      "nombre": "Pasta de lustrar Nugget negra 12 g",
+      "motivo": "Las fuentes muestran betún en latas más grandes o sin peso visible. Hace falta una foto de la lata de 12 g."
+    },
     "22037": {
       "nombre": "Petmaster adulto 454 g",
       "motivo": "La ficha de 454 g usa una imagen genérica del saco de Petmaster adulto. Hace falta una foto donde se vea el peso de 454 g."
@@ -3989,6 +4298,10 @@
     "22173": {
       "nombre": "Ponche de frutas Eskimo 1.89 L",
       "motivo": "Las fichas consultadas nombran Ponche de Frutas Eskimo, pero ninguna foto verificable muestra el envase de 1.89 L."
+    },
+    "22210": {
+      "nombre": "Prestobarba Bic Confort",
+      "motivo": "Se encontró BIC Comfort 3 en azul y Comfort 2 verde en paquete doble. Confirmar modelo y presentación de la rasuradora verde."
     },
     "22213": {
       "nombre": "Harina Prima 454 g",
@@ -4089,6 +4402,10 @@
     "23486": {
       "nombre": "Tang guayaba 13 g",
       "motivo": "La variante de Nicaragua que se localizó dice piña y guayaba. Falta confirmar si coincide con el sobre registrado como guayaba."
+    },
+    "23562": {
+      "nombre": "Vitaflenaco (sobre)",
+      "motivo": "Las fuentes muestran cajas o cápsulas en otras cantidades. Hace falta una foto legible del sobre Vitaflenaco."
     },
     "23586": {
       "nombre": "Toña botella 350 ml",
@@ -4205,6 +4522,10 @@
     "24833": {
       "nombre": "Torta de res de la casa 454 g",
       "motivo": "Producto de la casa. Hace falta foto de la porción de 454 g del negocio."
+    },
+    "24865": {
+      "nombre": "Cuaderno cosido Smarty rayado 100 páginas",
+      "motivo": "Un listado nicaragüense confirma el cuaderno Smarty cosido rayado, pero no incluye foto del cuaderno de 100 páginas. Hace falta foto de la portada."
     },
     "24887": {
       "nombre": "Hueso especial (libra)",
