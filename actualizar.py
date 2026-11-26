@@ -3,15 +3,44 @@ Uso: python3 actualizar.py tienda.html   (escribe index.html y renueva sw.js)"""
 import sys, time
 OUT='.'
 ver = time.strftime('%Y%m%d%H%M')
-open(f'{OUT}/sw.js', 'w').write(f"""// Pedidos MiMarket: siempre intenta traer precios nuevos; sin señal muestra la última copia.
-const C='mimarket-{ver}';
-const BASE=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png','./destacados.css','./destacados.js'];
-self.addEventListener('install',e=>{{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(BASE)).catch(()=>{{}}))}});
-self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==C).map(x=>caches.delete(x)))).then(()=>self.clients.claim())));
-self.addEventListener('fetch',e=>{{
-  const r=e.request; if(r.method!=='GET')return;
-  const u=new URL(r.url); if(u.origin!==location.origin)return;
-  e.respondWith(fetch(r).then(res=>{{const cp=res.clone();caches.open(C).then(c=>c.put(r,cp));return res}}).catch(()=>caches.match(r).then(m=>m||caches.match('./index.html'))));
+open(f'{OUT}/sw.js', 'w').write(f"""// Pedidos MiMarket valida el catálogo al abrir y guarda una copia para cuando se pierde la conexión.
+const CACHE = 'mimarket-{ver}';
+const BASE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './destacados.css', './destacados.js'];
+
+self.addEventListener('install', event => {{
+  const files = BASE.map(file => new Request(new URL(file, self.registration.scope), {{ cache: 'reload' }}));
+  event.waitUntil(caches.open(CACHE)
+    .then(cache => cache.addAll(files))
+    .then(() => self.skipWaiting()));
+}});
+
+self.addEventListener('activate', event => {{
+  event.waitUntil(caches.keys()
+    .then(keys => Promise.all(keys
+      .filter(key => key.startsWith('mimarket-') && key !== CACHE)
+      .map(key => caches.delete(key))))
+    .then(() => self.clients.claim()));
+}});
+
+self.addEventListener('fetch', event => {{
+  const request = event.request;
+  if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin) return;
+
+  const navigation = request.mode === 'navigate';
+  const revalidate = navigation || ['script', 'style'].includes(request.destination);
+  const options = revalidate ? {{ cache: 'no-cache' }} : undefined;
+  event.respondWith(fetch(request, options).then(response => {{
+    if (response.ok) {{
+      const copy = response.clone();
+      event.waitUntil(caches.open(CACHE).then(cache => cache.put(request, copy)).catch(() => {{}}));
+    }}
+    return response;
+  }}).catch(async () => {{
+    const cache = await caches.open(CACHE);
+    const cached = await cache.match(request);
+    if (cached || !navigation) return cached || Response.error();
+    return (await cache.match('./')) || (await cache.match('./index.html')) || Response.error();
+  }}));
 }});
 """)
 
