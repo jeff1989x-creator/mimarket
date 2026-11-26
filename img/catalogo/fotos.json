@@ -54,6 +54,33 @@
       "nombre": "Arroz 80/20 (libra)",
       "referencia": true
     },
+    "16165": {
+      "archivo": "img/catalogo/16165.webp",
+      "autor": "TuNicaragua",
+      "fuente": "https://tunicaragua.com/index.php/es/managua?view=productdetails&virtuemart_category_id=343&virtuemart_product_id=11448",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Atún Gaviota en agua 140 g",
+      "referencia": false
+    },
+    "16166": {
+      "archivo": "img/catalogo/16166.webp",
+      "autor": "La Unión Nicaragua",
+      "fuente": "https://www.launion.com.ni/atun-gaviota-lomo-trocitos-c-veget-140gr/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Atún Gaviota vegetal 140 g",
+      "referencia": false
+    },
+    "16309": {
+      "archivo": "img/catalogo/16309.webp",
+      "autor": "AJE Nicaragua",
+      "fuente": "https://www.ajedelivery.ni/c/bebidas-r9g7nm7bxw/jugos-y-nectares-4kxv643zxj",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Cfrut ponche 2 L",
+      "referencia": false
+    },
     "16433": {
       "archivo": "img/catalogo/16433.webp",
       "autor": "Tahir mq",
@@ -153,6 +180,33 @@
       "nombre": "Papa (libra)",
       "referencia": true
     },
+    "20973": {
+      "archivo": "img/catalogo/20973.webp",
+      "autor": "Walmart Nicaragua",
+      "fuente": "https://www.walmart.com.ni/maruchan-sopa-ramen-de-camaron-bols-85gr/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Maruchan camarón (bolsa)",
+      "referencia": false
+    },
+    "20976": {
+      "archivo": "img/catalogo/20976.webp",
+      "autor": "Walmart Nicaragua",
+      "fuente": "https://www.walmart.com.ni/sopa-maruchan-instantanea-ramen-pollo-85gr/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Maruchan pollo (bolsa)",
+      "referencia": false
+    },
+    "20980": {
+      "archivo": "img/catalogo/20980.webp",
+      "autor": "Walmart Nicaragua",
+      "fuente": "https://www.walmart.com.ni/sopa-maruchan-instantanea-ramen-pollo-64-g/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Maruchan vaso pollo",
+      "referencia": false
+    },
     "21624": {
       "archivo": "img/catalogo/21624.webp",
       "autor": "Beeyah15",
@@ -207,6 +261,15 @@
       "nombre": "Repollo grande (unidad)",
       "referencia": true
     },
+    "21646": {
+      "archivo": "img/catalogo/21646.webp",
+      "autor": "La Unión Nicaragua",
+      "fuente": "https://www.launion.com.ni/refresco-gaseosa-pepsi-regular-3000ml/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Pepsi 3 L",
+      "referencia": false
+    },
     "21667": {
       "archivo": "img/destacados/raptor-600.webp",
       "autor": "Walmart Nicaragua",
@@ -233,6 +296,24 @@
       "licenciaUrl": "",
       "nombre": "Piernas con muslos (libra)",
       "referencia": true
+    },
+    "21846": {
+      "archivo": "img/catalogo/21846.webp",
+      "autor": "Arias Supermercado",
+      "fuente": "https://www.superarias.com/papel-higienico-delsey-1000-h/",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Papel higiénico Delsey 1000 hojas (rollo)",
+      "referencia": false
+    },
+    "22557": {
+      "archivo": "img/catalogo/22557.webp",
+      "autor": "Walmart Nicaragua",
+      "fuente": "https://www.walmart.com.ni/sardina-la-sirena-ovalada-picante-425gr/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Sardina La Sirena picante 425 g",
+      "referencia": false
     },
     "22559": {
       "archivo": "img/catalogo/22559.webp",
@@ -318,6 +399,10 @@
     "19862": {
       "motivo": "Confirmar si la porción corresponde a manzanilla seca o fresca.",
       "nombre": "Manzanilla (porción de C$ 20)"
+    },
+    "20977": {
+      "motivo": "Verificar qué empaque corresponde al código indicado como bolsa nueva.",
+      "nombre": "Maruchan pollo (bolsa, nuevo)"
     },
     "21384": {
       "motivo": "Pendiente de una foto identificable del Pan Norlan.",

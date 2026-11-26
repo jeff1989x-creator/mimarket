@@ -10,6 +10,7 @@
   };
   const porCodigo = new Map();
   const porNombre = new Map();
+  let cargandoFotos = false;
 
   function marcoFoto(archivo, clase, icono = '') {
     const marco = document.createElement('div');
@@ -25,53 +26,86 @@
     imagen.loading = 'lazy';
     imagen.decoding = 'async';
     imagen.addEventListener('error', () => {
-      if (icono) imagen.remove();
-      else marco.remove();
+      if (icono) {
+        imagen.remove();
+        marco.dataset.archivo = '';
+      } else marco.remove();
     }, { once: true });
     imagen.src = archivo;
     marco.append(imagen);
     return marco;
   }
 
+  function mostrarFoto(tarjeta, nombre, archivo, clase, icono = '') {
+    const anterior = tarjeta.querySelector(`.${clase}`);
+    if (!archivo && !icono) {
+      anterior?.remove();
+      return;
+    }
+
+    const ruta = archivo || '';
+    if (anterior?.dataset.archivo === ruta) return;
+    const marco = marcoFoto(archivo, clase, icono);
+    marco.dataset.archivo = ruta;
+    if (anterior) anterior.replaceWith(marco);
+    else nombre.before(marco);
+  }
+
   function mostrarCarruseles() {
     for (const tarjeta of destacados.querySelectorAll('.dcard')) {
+      const nombre = tarjeta.querySelector('.nm');
+      if (!nombre) continue;
       const codigo = tarjeta.querySelector('[data-inc]')?.dataset.inc;
       const archivo = porCodigo.get(codigo);
       const icono = tarjeta.closest('[data-k="d"]') ? iconosDestacados[codigo] : '';
-      if ((!archivo && !icono) || tarjeta.querySelector('.dcard-photo')) continue;
-      tarjeta.querySelector('.nm')?.before(marcoFoto(archivo, 'dcard-photo', icono));
+      mostrarFoto(tarjeta, nombre, archivo, 'dcard-photo', icono);
     }
   }
 
   function mostrarLista() {
     for (const fila of lista.querySelectorAll('.prod')) {
       const nombre = fila.querySelector('.n');
-      if (!nombre || fila.querySelector('.prod-photo')) continue;
+      if (!nombre) continue;
       const codigo = fila.querySelector('[data-inc]')?.dataset.inc;
       const archivo = codigo ? porCodigo.get(codigo) : porNombre.get(nombre.textContent.trim());
-      if (archivo) nombre.before(marcoFoto(archivo, 'prod-photo'));
+      mostrarFoto(fila, nombre, archivo, 'prod-photo');
     }
   }
 
-  async function iniciarFotos() {
-    const respuesta = await fetch('img/catalogo/fotos.json', { cache: 'no-cache' });
-    if (!respuesta.ok) return;
-    const { fotos } = await respuesta.json();
-    for (const [codigo, registro] of Object.entries(fotos || {})) {
-      const { archivo, nombre } = registro || {};
-      if (typeof nombre !== 'string' || !/^\d+$/.test(codigo)
-        || !/^img\/(catalogo|destacados)\/[a-z0-9-]+\.webp$/.test(archivo)) continue;
-      porCodigo.set(codigo, archivo);
-      if (porNombre.has(nombre)) porNombre.set(nombre, null);
-      else porNombre.set(nombre, archivo);
+  async function actualizarFotos() {
+    if (cargandoFotos || document.hidden) return;
+    cargandoFotos = true;
+    try {
+      const respuesta = await fetch('img/catalogo/fotos.json', { cache: 'no-cache' });
+      if (!respuesta.ok) return;
+      const { fotos } = await respuesta.json();
+      if (!fotos || typeof fotos !== 'object' || Array.isArray(fotos)) return;
+
+      porCodigo.clear();
+      porNombre.clear();
+      for (const [codigo, registro] of Object.entries(fotos)) {
+        const { archivo, nombre } = registro || {};
+        if (typeof nombre !== 'string' || !/^\d+$/.test(codigo)
+          || !/^img\/(catalogo|destacados)\/[a-z0-9-]+\.webp$/.test(archivo)) continue;
+        porCodigo.set(codigo, archivo);
+        if (porNombre.has(nombre)) porNombre.set(nombre, null);
+        else porNombre.set(nombre, archivo);
+      }
+      mostrarCarruseles();
+      mostrarLista();
+    } catch {
+      // Conserva las fotos cargadas si el catálogo queda sin conexión.
+    } finally {
+      cargandoFotos = false;
     }
-    mostrarCarruseles();
-    mostrarLista();
-    new MutationObserver(mostrarCarruseles).observe(destacados, { childList: true });
-    new MutationObserver(mostrarLista).observe(lista, { childList: true });
   }
 
-  iniciarFotos().catch(() => {});
+  new MutationObserver(mostrarCarruseles).observe(destacados, { childList: true });
+  new MutationObserver(mostrarLista).observe(lista, { childList: true });
+  document.addEventListener('visibilitychange', actualizarFotos);
+  window.addEventListener('online', actualizarFotos);
+  setInterval(actualizarFotos, 120_000);
+  actualizarFotos();
 
   const nota = document.querySelector('main > section > .note');
   if (nota) {
