@@ -1,5 +1,14 @@
 {
   "fotos": {
+    "15440": {
+      "nombre": "Agua Fuente Pura 355 ml",
+      "archivo": "img/catalogo/15440.webp",
+      "fuente": "https://www.walmart.com.ni/agua-fuente-pura-355-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "15466": {
       "nombre": "Aderezo Ana Belly 215 g",
       "archivo": "img/catalogo/15466.webp",
@@ -113,6 +122,33 @@
       "archivo": "img/catalogo/15755.webp",
       "fuente": "https://compreloadomicilio.com/NI/producto/abarrotes-y-viveres/aceite-clover-500ml-4873",
       "autor": "Comprelo a Domicilio Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15966": {
+      "nombre": "Agua Fuente Pura 1 L",
+      "archivo": "img/catalogo/15966.webp",
+      "fuente": "https://www.walmart.com.ni/fuente-pura-agua-botella-1000-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15967": {
+      "nombre": "Agua Fuente Pura 1.5 L",
+      "archivo": "img/catalogo/15967.webp",
+      "fuente": "https://www.walmart.com.ni/fuente-pura-agua-botella-1500-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15968": {
+      "nombre": "Agua Fuente Pura 600 ml",
+      "archivo": "img/catalogo/15968.webp",
+      "fuente": "https://www.walmart.com.ni/fuente-pura-agua-botella-600ml/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -432,6 +468,42 @@
       "nombre": "Coca Cola 2 L",
       "referencia": false
     },
+    "17337": {
+      "nombre": "Coca Cola 3 L",
+      "archivo": "img/catalogo/17337.webp",
+      "fuente": "https://www.walmart.com.ni/refresco-coca-cola-original-3000ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17338": {
+      "nombre": "Coca Cola 600 ml",
+      "archivo": "img/catalogo/17338.webp",
+      "fuente": "https://www.walmart.com.ni/coca-cola-sabor-original-600ml-2/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17348": {
+      "nombre": "Coca Cola Zero 250 ml",
+      "archivo": "img/catalogo/17348.webp",
+      "fuente": "https://compreloadomicilio.com/ni/producto/refrescos/coca-cola-zero-250ml-86348",
+      "autor": "Súper Empalme (Cómprelo a Domicilio)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17393": {
+      "nombre": "Cremora Seda stick (caja de 40)",
+      "archivo": "img/catalogo/17393.webp",
+      "fuente": "https://www.cafesoluble.com/nuestras-marcas/seda/mezcla-en-polvo-para-cafe/",
+      "autor": "Café Soluble S.A.",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17447": {
       "nombre": "Chincaca de pollo (libra)",
       "archivo": "img/catalogo/17447.webp",
@@ -441,11 +513,29 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "17504": {
+      "nombre": "Salsa Lizano",
+      "archivo": "img/catalogo/17504.webp",
+      "fuente": "https://www.walmart.com.ni/salsa-lizano-picante-en-chile-62-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17624": {
       "nombre": "Cocoa dulce instantánea 100 g",
       "archivo": "img/catalogo/17624.webp",
       "fuente": "https://compreloadomicilio.com/ni/producto/chocolates/cocoa-dulce-instantanea-100g-4972",
       "autor": "Miscelánea Xochilt (Cómprelo a Domicilio)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17962": {
+      "nombre": "Cremora Seda (sobre)",
+      "archivo": "img/catalogo/17962.webp",
+      "fuente": "https://www.cafesoluble.com/nuestras-marcas/seda/mezcla-en-polvo-para-cafe/",
+      "autor": "Café Soluble S.A.",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -531,6 +621,51 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "18655": {
+      "nombre": "Electrolit fresa 625 ml",
+      "archivo": "img/catalogo/18655.webp",
+      "fuente": "https://www.walmart.com.ni/electrolit-pisa-para-adulto-sabor-fresa-625ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18657": {
+      "nombre": "Electrolit jamaica 625 ml",
+      "archivo": "img/catalogo/18657.webp",
+      "fuente": "https://www.walmart.com.ni/suero-electrolit-adulto-sabor-jamaica-625ml-2/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18659": {
+      "nombre": "Electrolit manzana 625 ml",
+      "archivo": "img/catalogo/18659.webp",
+      "fuente": "https://www.launion.com.ni/suero-electrolit-adulto-sabor-manzana-625ml/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18663": {
+      "nombre": "Electrolit ponche de frutas 625 ml",
+      "archivo": "img/catalogo/18663.webp",
+      "fuente": "https://electrolit.com.ni/",
+      "autor": "Electrolit Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18664": {
+      "nombre": "Electrolit uva 625 ml",
+      "archivo": "img/catalogo/18664.webp",
+      "fuente": "https://www.walmart.com.ni/suero-electrolit-adulto-sabor-uva-625ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18979": {
       "archivo": "img/catalogo/18979.webp",
       "autor": "V.Thamaraiselvi",
@@ -558,6 +693,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "19433": {
+      "nombre": "Gelatina De La Familia limón 450 g",
+      "archivo": "img/catalogo/19433.webp",
+      "fuente": "https://www.maxidespensa.com.gt/gelatina-de-la-familia-limon-450-gr/p",
+      "autor": "Maxi Despensa Guatemala",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19802": {
       "archivo": "img/destacados/huevo-rojo.webp",
       "autor": "Garitzko",
@@ -566,6 +710,15 @@
       "licenciaUrl": "",
       "nombre": "Huevos rojos (unidad)",
       "referencia": true
+    },
+    "19848": {
+      "nombre": "Pasta lengua Roma 200 g",
+      "archivo": "img/catalogo/19848.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/hogar?view=productdetails&virtuemart_category_id=342&virtuemart_product_id=11197",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "19850": {
       "archivo": "img/catalogo/19850.webp",
@@ -656,6 +809,15 @@
       "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "nombre": "Papa (libra)",
       "referencia": true
+    },
+    "20803": {
+      "nombre": "Monster Energy 473 ml",
+      "archivo": "img/catalogo/20803.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-energetica-monster-original-en-lata-473-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "20823": {
       "nombre": "Maseca extra suave 410 g",
@@ -855,6 +1017,15 @@
       "nombre": "Raptor 600 ml",
       "referencia": false
     },
+    "21671": {
+      "nombre": "Raptor Lava lata 473 ml",
+      "archivo": "img/catalogo/21671.webp",
+      "fuente": "https://www.walmart.com.ni/raptor-bebida-energetica-lava-lata-473ml-8/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "21751": {
       "nombre": "Pinolillo Sasa 380 g",
       "archivo": "img/catalogo/21751.webp",
@@ -896,6 +1067,15 @@
       "archivo": "img/catalogo/22090.webp",
       "fuente": "https://www.tunicaragua.com/index.php/es/component/virtuemart/?view=productdetails&virtuemart_category_id=871&virtuemart_product_id=7460",
       "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22324": {
+      "nombre": "Red Bull 250 ml",
+      "archivo": "img/catalogo/22324.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-energetica-red-bull-original-en-lata-250-ml/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1053,6 +1233,15 @@
       "nombre": "Uva (libra)",
       "referencia": true
     },
+    "23396": {
+      "nombre": "Tang ponche de frutas 13 g",
+      "archivo": "img/catalogo/23396.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-en-polvo-tang-ponche-frutas-13gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "23485": {
       "nombre": "Tang fresa 13 g",
       "archivo": "img/catalogo/23485.webp",
@@ -1107,6 +1296,24 @@
       "nombre": "Toña lata 350 ml",
       "referencia": false
     },
+    "23649": {
+      "nombre": "Tang piña 13 g",
+      "archivo": "img/catalogo/23649.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-en-polvo-tang-pina-13gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23654": {
+      "nombre": "Tang uva 13 g",
+      "archivo": "img/catalogo/23654.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-tang-sabor-uva-13-g-5/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24217": {
       "archivo": "img/catalogo/24217.webp",
       "autor": "Evan-Amos",
@@ -1115,6 +1322,15 @@
       "licenciaUrl": "",
       "nombre": "Zanahoria (libra)",
       "referencia": true
+    },
+    "24225": {
+      "nombre": "Zuko cebada (sobre)",
+      "archivo": "img/catalogo/24225.webp",
+      "fuente": "https://www.walmart.com.ni/zuko-bebida-en-polvo-cebada-13-gr-4/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "24540": {
       "nombre": "Sopa Cantonesa pollo (vaso)",
@@ -1139,6 +1355,15 @@
       "archivo": "img/catalogo/24607.webp",
       "fuente": "https://www.walmart.com.ni/mayonesa-hellmanns-pura-en-doypack-380-g/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24831": {
+      "nombre": "Empanizador rostizador Ya Está 3.5 oz",
+      "archivo": "img/catalogo/24831.webp",
+      "fuente": "https://www.instacart.com/products/3141916-yaesta-breading-seasoned-3-5-oz",
+      "autor": "Instacart",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1250,9 +1475,21 @@
       "nombre": "Empanizador Sol Maya 150 g",
       "motivo": "La foto identificable de empanizador Sol Maya corresponde a la bolsa de 100 g. Falta una imagen de la de 150 g."
     },
-    "19848": {
-      "nombre": "Pasta lengua Roma 200 g",
-      "motivo": "La ficha local identifica Pasta Roma Lengua de 200 g. El archivo de la imagen frontal no abrió en las rutas probadas. Falta una copia accesible para comprobar el empaque."
+    "19391": {
+      "nombre": "Gatorade uva 500 ml",
+      "motivo": "Dos fichas locales identifican Gatorade uva de 500 ml, pero las fotos no abrieron en las rutas probadas."
+    },
+    "19432": {
+      "nombre": "Gelatina De La Familia fresa 450 g",
+      "motivo": "La ficha indica 450 g, pero su foto muestra la bolsa de 400 g. La presentación de 450 g aparece en el catálogo del fabricante sin una foto frontal accesible."
+    },
+    "19434": {
+      "nombre": "Gelatina De La Familia tutti frutti 450 g",
+      "motivo": "El fabricante enumera 450 g. Las fotos de supermercado verificables muestran 400 g. Falta una foto legible del empaque de 450 g."
+    },
+    "19443": {
+      "nombre": "Gelatina Nieve (paquete)",
+      "motivo": "Se encontró gelatina líquida Nieve de Frutas en paquete de 32 unidades. El registro del POS no indica cuántas unidades trae el paquete de la tienda."
     },
     "19851": {
       "motivo": "Confirmar la variedad local que se registra como limón castillo.",
@@ -1290,6 +1527,10 @@
       "motivo": "Verificar qué empaque corresponde al código indicado como bolsa nueva.",
       "nombre": "Maruchan pollo (bolsa, nuevo)"
     },
+    "20987": {
+      "nombre": "Masa Oro Maya",
+      "motivo": "Se encontraron bolsas Oro Maya con distintos gramajes. Falta confirmar el peso de la bolsa que vende la tienda."
+    },
     "21010": {
       "nombre": "Maseca 410 g",
       "motivo": "Hay harina Maseca regular y extra suave en bolsas de 410 g. Falta confirmar la variante que corresponde al código del POS."
@@ -1313,6 +1554,10 @@
     "22447": {
       "nombre": "Sabor y Color Sol Maya 10 g (sobre)",
       "motivo": "La ficha encontrada de Sabor y Color Sol Maya es de 20 g. Falta verificar el sobre de 10 g."
+    },
+    "22580": {
+      "nombre": "Sal fina (bolsa)",
+      "motivo": "El registro solo indica sal fina. Falta confirmar la marca y el peso, o si el negocio la empaca."
     },
     "22589": {
       "nombre": "Sopa Laky pollo (vaso)",
