@@ -36,6 +36,33 @@
       "nombre": "Banano (unidad)",
       "referencia": true
     },
+    "15581": {
+      "nombre": "Azúcar (libra)",
+      "archivo": "img/catalogo/15581.webp",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Bowl_of_white_sugar_without_background.jpg",
+      "autor": "Douglas P Perkins",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0",
+      "referencia": true
+    },
+    "15582": {
+      "nombre": "Azúcar Monte Rosa 400 g",
+      "archivo": "img/catalogo/15582.webp",
+      "fuente": "https://www.walmart.com.ni/azucar-mote-rosa-sulfitada-400gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15583": {
+      "nombre": "Azúcar Monte Rosa 2 kg",
+      "archivo": "img/catalogo/15583.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/component/virtuemart/?view=productdetails&virtuemart_category_id=336&virtuemart_product_id=1189",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "15673": {
       "nombre": "Alitas picantes (libra)",
       "archivo": "img/catalogo/15673.webp",
@@ -50,6 +77,24 @@
       "archivo": "img/catalogo/15674.webp",
       "fuente": "https://kimby.co/ni/productos/empanizados/aritos-de-pollo-180g",
       "autor": "Kimby Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15753": {
+      "nombre": "Aceite Clover 3 L",
+      "archivo": "img/catalogo/15753.webp",
+      "fuente": "https://www.walmart.com.ni/aceite-clover-de-soya-3000ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15755": {
+      "nombre": "Aceite Clover 500 ml",
+      "archivo": "img/catalogo/15755.webp",
+      "fuente": "https://compreloadomicilio.com/NI/producto/abarrotes-y-viveres/aceite-clover-500ml-4873",
+      "autor": "Comprelo a Domicilio Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -71,6 +116,24 @@
       "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "nombre": "Arroz 80/20 (libra)",
       "referencia": true
+    },
+    "16102": {
+      "nombre": "Arroz 96/4 (libra)",
+      "archivo": "img/catalogo/16102.webp",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Long_grain_rice.jpg",
+      "autor": "Gaurav Dhwaj Khadka",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "referencia": true
+    },
+    "16160": {
+      "nombre": "Atún Calvo en agua 142 g",
+      "archivo": "img/catalogo/16160.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/managua?view=productdetails&virtuemart_category_id=343&virtuemart_product_id=11449",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "16165": {
       "archivo": "img/catalogo/16165.webp",
@@ -153,6 +216,42 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "17249": {
+      "nombre": "Consomé Maggi de pollo vaso 225 g",
+      "archivo": "img/catalogo/17249.webp",
+      "fuente": "https://www.walmart.com.ni/consome-maggi-pollo-shaker-225-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17250": {
+      "nombre": "Consomé Maggi Sabor y Color + cúrcuma 225 g",
+      "archivo": "img/catalogo/17250.webp",
+      "fuente": "https://www.launion.com.ni/consome-maggi-sabor-y-color-curcuma-225-g/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17252": {
+      "nombre": "Consomé Mi Sazón 10 g (sobre)",
+      "archivo": "img/catalogo/17252.webp",
+      "fuente": "https://www.recetasnestlecam.com/maggi/productos/caldos/maggi-mi-sazon",
+      "autor": "Nestlé Centroamérica",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17314": {
+      "nombre": "Coditos Roma 200 g",
+      "archivo": "img/catalogo/17314.webp",
+      "fuente": "https://www.walmart.com.ni/pasta-roma-de-coditos-200-g-ni-1/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17321": {
       "archivo": "img/catalogo/17321.webp",
       "autor": "HaJunkiyada",
@@ -216,6 +315,15 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "19335": {
+      "nombre": "Frijol rojo volteado Natura 380 g",
+      "archivo": "img/catalogo/19335.webp",
+      "fuente": "https://www.launion.com.ni/frijol-naturas-molido-rojo-380g/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19802": {
       "archivo": "img/destacados/huevo-rojo.webp",
       "autor": "Garitzko",
@@ -243,6 +351,15 @@
       "nombre": "Manzana roja (unidad)",
       "referencia": true
     },
+    "20596": {
+      "nombre": "Maíz para palomitas (libra)",
+      "archivo": "img/catalogo/20596.webp",
+      "fuente": "https://calgramagranel.com/products/maiz-para-palomitas-granel",
+      "autor": "Calgram",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": true
+    },
     "20779": {
       "archivo": "img/catalogo/20779.webp",
       "autor": "Petr Kratochvil",
@@ -251,6 +368,15 @@
       "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "nombre": "Papa (libra)",
       "referencia": true
+    },
+    "20823": {
+      "nombre": "Maseca extra suave 410 g",
+      "archivo": "img/catalogo/20823.webp",
+      "fuente": "https://www.walmart.com.ni/harina-de-maiz-maseca-extra-suave-410gr-2/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "20888": {
       "nombre": "Medio pollo",
@@ -313,6 +439,15 @@
       "licencia": "",
       "licenciaUrl": "",
       "nombre": "Maruchan vaso pollo",
+      "referencia": false
+    },
+    "20984": {
+      "nombre": "Masa del Comal 800 g",
+      "archivo": "img/catalogo/20984.webp",
+      "fuente": "https://www.walmart.com.ni/harina-del-comal-de-maiz-800-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
       "referencia": false
     },
     "21624": {
@@ -414,6 +549,15 @@
       "nombre": "Papel higiénico Delsey 1000 hojas (rollo)",
       "referencia": false
     },
+    "22090": {
+      "nombre": "Pinolillo Sasa 1 kg",
+      "archivo": "img/catalogo/22090.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/component/virtuemart/?view=productdetails&virtuemart_category_id=871&virtuemart_product_id=7460",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "22557": {
       "archivo": "img/catalogo/22557.webp",
       "autor": "Walmart Nicaragua",
@@ -440,6 +584,15 @@
       "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "nombre": "Sandía pequeña (unidad)",
       "referencia": true
+    },
+    "22581": {
+      "nombre": "Salsa de tomate Natura 385 g",
+      "archivo": "img/catalogo/22581.webp",
+      "fuente": "https://www.lacolonia.com/salsa-de-tomate-naturas-ketchup-385gr/p",
+      "autor": "Supermercados La Colonia Honduras",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "22618": {
       "nombre": "Salchicha cocida Kimby 250 g",
@@ -476,6 +629,24 @@
       "licenciaUrl": "",
       "nombre": "Uva (libra)",
       "referencia": true
+    },
+    "23485": {
+      "nombre": "Tang fresa 13 g",
+      "archivo": "img/catalogo/23485.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-en-polvo-tang-fresa-13gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23487": {
+      "nombre": "Tang maracuya 13 g",
+      "archivo": "img/catalogo/23487.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-en-polvo-tang-maracuya-13gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "23571": {
       "nombre": "Tiras de cecina Carnic (libra)",
@@ -521,9 +692,22 @@
       "licenciaUrl": "",
       "nombre": "Zanahoria (libra)",
       "referencia": true
+    },
+    "24582": {
+      "nombre": "Zucaritas Kellogg's 200 g",
+      "archivo": "img/catalogo/24582.webp",
+      "fuente": "https://www.launion.com.ni/kelloggs-cereal-zucaritas-200g-ni5098-2-7/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     }
   },
   "porConfirmar": {
+    "15499": {
+      "nombre": "Aceite chorreado (bidón)",
+      "motivo": "Falta una foto del bidón que se usa en tienda. Las fichas encontradas muestran bidones de marca y capacidades distintas."
+    },
     "15515": {
       "motivo": "Confirmar si la porción es achiote en pasta, molido o en semilla.",
       "nombre": "Achiote (porción de C$ 10)"
@@ -532,9 +716,41 @@
       "motivo": "Confirmar si la porción es achiote en pasta, molido o en semilla.",
       "nombre": "Achiote (porción de C$ 5)"
     },
+    "15727": {
+      "nombre": "Ablandador McCormick 6 g (sobre)",
+      "motivo": "Las fichas localizadas muestran el sobre McCormick de 6.5 g. Confirmar si corresponde al código de 6 g del POS."
+    },
+    "15750": {
+      "nombre": "Aceite chorreado (botella)",
+      "motivo": "Falta una foto de la botella en que se despacha el aceite chorreado en la tienda."
+    },
     "16555": {
       "nombre": "Carne molida de res Tip Top",
       "motivo": "El nombre del POS indica res Tip Top, pero las coincidencias verificadas de Tip Top son de pollo. Confirmar especie y marca en la etiqueta."
+    },
+    "16921": {
+      "nombre": "Café Presto (sobrecito)",
+      "motivo": "La foto localizada muestra un surtido de sobres Presto. Falta una imagen clara del sobre individual de la tienda."
+    },
+    "17240": {
+      "nombre": "Consomé de camarón 10 g (sobre)",
+      "motivo": "Se identificó un sobre Maggi de camarón, pero falta confirmar marca y peso de 10 g en la presentación de tienda."
+    },
+    "17241": {
+      "nombre": "Consomé de pollo 10 g (sobre)",
+      "motivo": "Se encontraron varios consomés de pollo de 10 g. Falta confirmar la marca y la variante de este código."
+    },
+    "17247": {
+      "nombre": "Consomé de res 10 g (sobre)",
+      "motivo": "La ficha localizada corresponde a un sazonador Maggi de res de 10 g. Falta confirmar que sea la marca de este código."
+    },
+    "17257": {
+      "nombre": "Sabor y Color + cúrcuma 10 g (sobre)",
+      "motivo": "La ficha de Walmart muestra 5 sobres de 10 g. Falta verificar una foto legible del sobre individual de la versión con cúrcuma."
+    },
+    "17830": {
+      "nombre": "Crema criolla",
+      "motivo": "Falta confirmar si la crema criolla se vende a granel o en un empaque específico y conseguir una foto de esa presentación."
     },
     "19851": {
       "motivo": "Confirmar la variedad local que se registra como limón castillo.",
@@ -576,6 +792,10 @@
       "nombre": "Piezas mixtas marinadas Kimby (libra)",
       "motivo": "El catálogo de Kimby muestra una mezcla de piernas y muslos, pero falta verificar que sea la mezcla marinada que se vende por libra."
     },
+    "22447": {
+      "nombre": "Sabor y Color Sol Maya 10 g (sobre)",
+      "motivo": "La ficha encontrada de Sabor y Color Sol Maya es de 20 g. Falta verificar el sobre de 10 g."
+    },
     "22629": {
       "nombre": "Salchichón manguera picante (libra)",
       "motivo": "Falta confirmar marca y foto de la presentación picante en manguera."
@@ -587,6 +807,18 @@
     "22634": {
       "nombre": "Salchichón sin chile (unidad)",
       "motivo": "Falta confirmar la marca y el tamaño de la unidad sin chile."
+    },
+    "23484": {
+      "nombre": "Tang durazno 13 g",
+      "motivo": "Las fichas locales encontradas indican té de durazno. Falta confirmar si esa variante corresponde al código de la tienda."
+    },
+    "23486": {
+      "nombre": "Tang guayaba 13 g",
+      "motivo": "La variante de Nicaragua que se localizó dice piña y guayaba. Falta confirmar si coincide con el sobre registrado como guayaba."
+    },
+    "24829": {
+      "nombre": "Aceite Ambar 180 ml",
+      "motivo": "El catálogo del fabricante menciona la presentación de 180 ml. Las fotos comercializadas que se pudieron verificar son de otras medidas."
     },
     "24833": {
       "nombre": "Torta de res de la casa 454 g",
