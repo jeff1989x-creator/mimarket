@@ -225,6 +225,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "15919": {
+      "nombre": "Desodorante Nivea Beauty Touch (aerosol) 150 ml",
+      "archivo": "img/catalogo/15919.webp",
+      "fuente": "https://www.launion.com.ni/deo-nivea-spray-fem-acla-beauty-to-150ml/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "15939": {
       "nombre": "Agua Fuente Pura botellón (recarga)",
       "archivo": "img/catalogo/15939.webp",
@@ -589,6 +598,33 @@
       "nombre": "Cerveza Sol (botella)",
       "archivo": "img/catalogo/16574.webp",
       "fuente": "https://www.walmart.com.ni/cerveza-sol-unidad-botella-355ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16640": {
+      "nombre": "Betún líquido Nugget blanco 60 ml",
+      "archivo": "img/catalogo/16640.webp",
+      "fuente": "https://www.walmart.com.ni/betun-nugget-liquido-blanco-60ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16641": {
+      "nombre": "Betún líquido Nugget café 60 ml",
+      "archivo": "img/catalogo/16641.webp",
+      "fuente": "https://www.walmart.com.ni/betun-nugget-liquido-cafe-60ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16642": {
+      "nombre": "Betún líquido Nugget negro 60 ml",
+      "archivo": "img/catalogo/16642.webp",
+      "fuente": "https://www.walmart.com.ni/nugget-betun-liquido-negro-60ml/p",
       "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
@@ -1152,11 +1188,29 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "18274": {
+      "nombre": "Detergente Espumil frescura 500 g",
+      "archivo": "img/catalogo/18274.webp",
+      "fuente": "https://www.launion.com.ni/detergente-espumil-polvo-explos-frescura-500gr/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18275": {
       "nombre": "Detergente Espumil floral 5 kg",
       "archivo": "img/catalogo/18275.webp",
       "fuente": "https://www.walmart.com.ni/detergente-espumil-floral-multi-poder5kg/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18276": {
+      "nombre": "Detergente Espumil floral 1 kg",
+      "archivo": "img/catalogo/18276.webp",
+      "fuente": "https://tailem.com.mx/products/detergente-ropa-espumil-floral-con-suavisante-1-kg-10",
+      "autor": "Tailem Los Amoles México",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1170,11 +1224,47 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "18281": {
+      "nombre": "Detergente Espumil limón 2 kg",
+      "archivo": "img/catalogo/18281.webp",
+      "fuente": "https://www.launion.com.ni/detergente-espumil-explosion-citricos-en-polvo-2000-kg/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18282": {
+      "nombre": "Detergente Espumil limón 500 g",
+      "archivo": "img/catalogo/18282.webp",
+      "fuente": "https://www.lagranbodega.com.mx/detergente-espumil-explosion-citrica-500-gr/p",
+      "autor": "La Gran Bodega México",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18343": {
+      "nombre": "Fabuloso floral 900 ml",
+      "archivo": "img/catalogo/18343.webp",
+      "fuente": "https://www.walmart.com.ni/desinfectante-fabuloso-floral-900ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18400": {
       "nombre": "Dinos de pollo empanizado Tip Top",
       "archivo": "img/catalogo/18400.webp",
       "fuente": "https://tanbuenoquesenota.com/ni/product/dinos-tip-top/",
       "autor": "Tip Top Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18416": {
+      "nombre": "Detergente líquido Swift manzana 4.5 L",
+      "archivo": "img/catalogo/18416.webp",
+      "fuente": "https://www.walmart.com.ni/detergente-liquido-swift-fresh-apple-4-5lt-4/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1304,6 +1394,15 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": true
+    },
+    "18883": {
+      "nombre": "Fibra Scotch-Brite para parrillas",
+      "archivo": "img/catalogo/18883.webp",
+      "fuente": "https://www.launion.com.ni/fibra-limpieza-pesada-negra-parrilla-scotch-brite-1-unidad-7/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "18979": {
       "archivo": "img/catalogo/18979.webp",
@@ -1539,6 +1638,24 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "19610": {
+      "nombre": "Gotas L'Oréal Elvive óleo 100 ml",
+      "archivo": "img/catalogo/19610.webp",
+      "fuente": "https://www.walmart.com.ni/tratamiento-l-oreal-paris-elvive-oleo-extraordinario-100-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19716": {
+      "nombre": "Hilo dental Total 12 (25 m)",
+      "archivo": "img/catalogo/19716.webp",
+      "fuente": "https://medco.online.com.ni/Product/Detail/4163182",
+      "autor": "Super Farmacias Medco Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19723": {
       "nombre": "Hojaldras Valdez",
       "archivo": "img/catalogo/19723.webp",
@@ -1566,6 +1683,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "19785": {
+      "nombre": "Fósforos Águila (10 cajitas)",
+      "archivo": "img/catalogo/19785.webp",
+      "fuente": "https://www.walmart.com.ni/fosforos-el-aguila-10-unidades/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19802": {
       "archivo": "img/destacados/huevo-rojo.webp",
       "autor": "Garitzko",
@@ -1574,6 +1700,15 @@
       "licenciaUrl": "",
       "nombre": "Huevos rojos (unidad)",
       "referencia": true
+    },
+    "19831": {
+      "nombre": "Jabón Marfil pequeño 275 g",
+      "archivo": "img/catalogo/19831.webp",
+      "fuente": "https://distribuidorajiron.com.ni/es/jabon-de-ropa/4394-jabon-marfil-individual-275-gr-unidad.html",
+      "autor": "Distribuidora Jirón",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "19848": {
       "nombre": "Pasta lengua Roma 200 g",
@@ -1778,6 +1913,15 @@
       "archivo": "img/catalogo/20065.webp",
       "fuente": "https://www.walmart.com.ni/jabon-cremoso-original-75-gr/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20083": {
+      "nombre": "Jabón de baño Protex Balance 110 g",
+      "archivo": "img/catalogo/20083.webp",
+      "fuente": "https://distribuidorajiron.com.ni/es/jabon-de-bano/2767-jabon-protex-balance-110-gr.html",
+      "autor": "Distribuidora Jirón",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2340,6 +2484,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "21731": {
+      "nombre": "Desodorante Rexona Varón V8 50 g",
+      "archivo": "img/catalogo/21731.webp",
+      "fuente": "https://distribuidorajiron.com.ni/es/desodorante/2645-desodorante-rexona-v-8-hombre-50-gr.html",
+      "autor": "Distribuidora Jirón",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "21751": {
       "nombre": "Pinolillo Sasa 380 g",
       "archivo": "img/catalogo/21751.webp",
@@ -2417,6 +2570,15 @@
       "archivo": "img/catalogo/22324.webp",
       "fuente": "https://www.walmart.com.ni/bebida-energetica-red-bull-original-en-lata-250-ml/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22520": {
+      "nombre": "Shampoo Ricitos de Oro manzanilla 400 ml",
+      "archivo": "img/catalogo/22520.webp",
+      "fuente": "https://www.launion.com.ni/shampoo-ricitos-de-oro-bebe-manzanilla-400ml/p",
+      "autor": "La Unión Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2561,6 +2723,15 @@
       "archivo": "img/catalogo/22675.webp",
       "fuente": "https://www.walmart.com.ni/bebida-saborizada-a-base-de-vodka-smirnoff-ice-original-botella-355-ml-1/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22679": {
+      "nombre": "Toalla sanitaria Saba clásica con alas",
+      "archivo": "img/catalogo/22679.webp",
+      "fuente": "https://www.saba-centroamerica.com/ni/nuestros-productos/disponible-en-tiendas/toallas-femeninas/toalla-clasica-con-alas/",
+      "autor": "Saba Centroamérica / Essity",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2844,6 +3015,42 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "23869": {
+      "nombre": "Toalla de cocina Nevax (2 rollos)",
+      "archivo": "img/catalogo/23869.webp",
+      "fuente": "https://www.launion.com.ni/toalla-nevax-coc-blanc-100h-dobles-2roll/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23881": {
+      "nombre": "Toallitas húmedas Huggies (16)",
+      "archivo": "img/catalogo/23881.webp",
+      "fuente": "https://www.launion.com.ni/toallas-hum-huggies-limp-efectiva-16ea/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23896": {
+      "nombre": "Kotex Esencial sin alas",
+      "archivo": "img/catalogo/23896.webp",
+      "fuente": "https://www.walmart.com.ni/toalla-sanitaria-kotex-esencial-sin-alas-aloe-10-unidades/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23902": {
+      "nombre": "Kotex nocturna con alas",
+      "archivo": "img/catalogo/23902.webp",
+      "fuente": "https://tunicaragua.com/index.php/es/salud?view=productdetails&virtuemart_category_id=186&virtuemart_product_id=1729",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "23988": {
       "nombre": "Pastel tres leches",
       "archivo": "img/catalogo/23988.webp",
@@ -2947,6 +3154,15 @@
       "nombre": "Zibas miel y mostaza Yummies 80 g",
       "archivo": "img/catalogo/24371.webp",
       "fuente": "https://www.walmart.com.ni/papas-tostadas-yummies-zibas-mostaza-miel-80gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24408": {
+      "nombre": "Pasta dental Triple Acción 100 ml",
+      "archivo": "img/catalogo/24408.webp",
+      "fuente": "https://www.walmart.com.ni/colgate-crema-dentral-triple-accion-100m/p",
       "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
@@ -3132,6 +3348,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24993": {
+      "nombre": "Desodorante Rexona Clinical Men 150 ml",
+      "archivo": "img/catalogo/24993.webp",
+      "fuente": "https://www.walmart.com.ni/rexona-clini-deo-aer-intense-fresh-150ml-ni719/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "25011": {
       "nombre": "Yuquitas Zambos ajo parmesano 130 g",
       "archivo": "img/catalogo/25011.webp",
@@ -3268,6 +3493,10 @@
     "16488": {
       "nombre": "Cfrut naranja 360 ml",
       "motivo": "La presentación de 360 ml que se encontró está etiquetada como naranja, mandarina y limón. Falta confirmar si es la registrada en la tienda como naranja."
+    },
+    "16506": {
+      "nombre": "Cepillo Colgate Smiles (5 años o más)",
+      "motivo": "La foto local disponible es del Colgate Smiles para 2 a 5 años. Hace falta ver el empaque del cepillo para 5 años o más."
     },
     "16555": {
       "nombre": "Carne molida de res Tip Top",
@@ -3437,9 +3666,17 @@
       "nombre": "Detergente Espumil 1 kg",
       "motivo": "La ficha localizada muestra Espumil Explosión Frescura de 1 kg. Hace falta confirmar que ese es el Espumil de 1 kg de este código."
     },
+    "18295": {
+      "nombre": "Detergente Xedex 115 g",
+      "motivo": "Distribuidora Jirón lista Xedex de 115 g, pero su foto muestra varios sobres sin distinguir claramente la variante Máximo Poder. Hace falta una foto del sobre exacto."
+    },
     "18538": {
       "nombre": "Detergente Blancanieves 100 g",
       "motivo": "Las fichas locales muestran Blanca Nieves de 250 g. Hace falta una foto con 100 g legible."
+    },
+    "18550": {
+      "nombre": "Detergente Lariansa 500 g",
+      "motivo": "Las fotos identificables muestran Lariansa en bolsas de 1 kg u otros tamaños. Hace falta confirmar una bolsa de 500 g."
     },
     "19004": {
       "nombre": "Hi-C pera (cajita) 250 ml",
@@ -3560,6 +3797,18 @@
     "20028": {
       "nombre": "Jamón de pavo ahumado 250 g",
       "motivo": "Se encontraron presentaciones de pavo ahumado de 250 g de FUD y Cinta Azul. Confirmar la marca del producto."
+    },
+    "20072": {
+      "nombre": "Jabón de baño Palmolive avena y azúcar 100 g",
+      "motivo": "Las fichas muestran distintos productos Palmolive con avena. Hace falta una foto de la barra de 100 g que identifique también el azúcar."
+    },
+    "20073": {
+      "nombre": "Jabón de baño Palmolive Fusion 100 g",
+      "motivo": "Se encontraron presentaciones Palmolive Fusion de otros pesos y distintas variantes. Hace falta confirmar el envase de 100 g de la tienda."
+    },
+    "20074": {
+      "nombre": "Jabón de baño Palmolive humectante 100 g",
+      "motivo": "Las fichas locales de Oliva y Aloe muestran paquetes de 3 o 6 barras o una barra sin envoltorio. Hace falta confirmar el frente del empaque individual de 100 g."
     },
     "20196": {
       "nombre": "Joyita Fina 1.75 L",
@@ -3693,6 +3942,10 @@
       "nombre": "Pepsi 12 oz (vidrio)",
       "motivo": "Se confirmó que una agencia local ofrece Pepsi en vidrio. La foto legible de 12 oz corresponde a Pepsi mexicana. Falta verificar visualmente la botella vendida en Nicaragua."
     },
+    "21743": {
+      "nombre": "Pasta dental Colgate Kids 50 ml",
+      "motivo": "Se encontraron varias presentaciones Colgate Kids. Hace falta confirmar el sabor y la presentación de 50 ml."
+    },
     "21801": {
       "nombre": "Piezas mixtas marinadas Kimby (libra)",
       "motivo": "El catálogo de Kimby muestra una mezcla de piernas y muslos, pero falta verificar que sea la mezcla marinada que se vende por libra."
@@ -3716,6 +3969,14 @@
     "21889": {
       "nombre": "Pañal desechable XXG (paquete de 5)",
       "motivo": "Se encontraron pañales XXG en paquetes mayores. Hace falta una foto del paquete de cinco y confirmar la marca."
+    },
+    "21903": {
+      "nombre": "Pasta dental Colgate Máxima Protección 100 ml",
+      "motivo": "La ficha local de 100 ml identifica la versión Doble Frescura. El fabricante muestra también Máxima Protección Anticaries original. Hace falta confirmar cuál corresponde al código."
+    },
+    "21919": {
+      "nombre": "Pasta dental Doble Frescura 75 ml",
+      "motivo": "La ficha local de Colgate Doble Frescura muestra 100 ml. Hace falta una foto identificable de la caja de 75 ml."
     },
     "22037": {
       "nombre": "Petmaster adulto 454 g",
@@ -3817,6 +4078,10 @@
       "nombre": "Tampico citrus punch ½ L",
       "motivo": "Una ficha nicaragüense muestra 480 ml y un catálogo de otro país indica 500 ml. Falta confirmar el volumen impreso en la botella de la tienda."
     },
+    "23478": {
+      "nombre": "Toallitas húmedas Huggies limpieza (112)",
+      "motivo": "Las fichas locales muestran Huggies Limpieza Diaria de 80 unidades. Se encontró una ficha extranjera de 112 sin foto verificable del frente. Hace falta confirmar la presentación de 112."
+    },
     "23484": {
       "nombre": "Tang durazno 13 g",
       "motivo": "Las fichas locales encontradas indican té de durazno. Falta confirmar si esa variante corresponde al código de la tienda."
@@ -3844,6 +4109,22 @@
     "23600": {
       "nombre": "Victoria Frost lata 350 ml",
       "motivo": "CCN confirma Victoria Frost en lata de 350 ml. La foto frontal del comercio agrega una etiqueta errónea de 125 g. Hace falta una toma frontal donde se pueda verificar el volumen correcto."
+    },
+    "23873": {
+      "nombre": "Toalla sanitaria Fiore con alas",
+      "motivo": "Se encontraron Fiore con alas nocturnas y de flujo moderado. Hace falta confirmar la línea y la cantidad de la presentación local."
+    },
+    "23874": {
+      "nombre": "Toalla sanitaria Fiore sin alas",
+      "motivo": "Se identificó una ficha Fiore Anatómica sin alas de 8 unidades. Hace falta una foto de la presentación local que muestre que es sin alas."
+    },
+    "23883": {
+      "nombre": "Toallitas húmedas Huggies (80)",
+      "motivo": "Huggies ofrece varios paquetes de 80 unidades, incluidos Limpieza Diaria, Cuidado 4 en 1 y Manitos y Carita. Hace falta confirmar cuál vende la tienda."
+    },
+    "23901": {
+      "nombre": "Kotex manzanilla sin alas",
+      "motivo": "Las fichas de Kotex Naturals Manzanilla muestran principalmente la presentación con alas. Hace falta una foto que verifique la versión sin alas."
     },
     "23950": {
       "nombre": "Torti Chips chile 16 g",
@@ -3885,6 +4166,14 @@
       "nombre": "Takis original 49 g",
       "motivo": "Se encontró una tienda que lista Takis Original de 49 g. Las fotos legibles revisadas son de otros pesos. Falta la foto del empaque de 49 g."
     },
+    "24580": {
+      "nombre": "Detergente Irex floral 125 g",
+      "motivo": "El distribuidor local muestra ORIX Floral en 125 g. El fabricante de Irex no lista ese peso en su línea floral actual. Hace falta confirmar la marca impresa en el sobre."
+    },
+    "24622": {
+      "nombre": "Detergente en barra Espumil cítrico 450 g",
+      "motivo": "La foto de la barra Espumil Explosión Cítrica localizada muestra 425 g. Hace falta una foto donde se lea 450 g."
+    },
     "24691": {
       "nombre": "Apagador tortuga Ragely",
       "motivo": "Las fuentes locales muestran otros apagadores y no identifican el modelo tortuga Ragely. Hace falta una foto del artículo o de su empaque."
@@ -3893,9 +4182,17 @@
       "nombre": "Café instantáneo Coex (sobre)",
       "motivo": "Hace falta confirmar el gramaje y la variante del sobre individual de café Coex."
     },
+    "24706": {
+      "nombre": "Jabón de baño Protex carbón 110 g",
+      "motivo": "Las fotos verificadas muestran el paquete de tres Protex Carbón Detox de 110 g por barra. Hace falta una foto de la unidad con el peso visible."
+    },
     "24731": {
       "nombre": "Palomitas Pops chile Yummies 30 g",
       "motivo": "Las fotos encontradas no permiten verificar que sea la bolsa Yummies Pops sabor chile de 30 g."
+    },
+    "24791": {
+      "nombre": "Pasta dental Crest 170 ml",
+      "motivo": "Se encontró Crest Complete de 170 ml, pero el POS no especifica la línea ni el sabor. Hace falta confirmar el tubo que vende la tienda."
     },
     "24804": {
       "nombre": "Chocolate Sprinter",
