@@ -1,5 +1,14 @@
 {
   "fotos": {
+    "15466": {
+      "nombre": "Aderezo Ana Belly 215 g",
+      "archivo": "img/catalogo/15466.webp",
+      "fuente": "https://www.latorre.com.gt/aderezo-sandwich-spread-ana-belly-2050391/p",
+      "autor": "Supermercados La Torre",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "15518": {
       "archivo": "img/catalogo/15518.webp",
       "autor": "JJ Harrison (https://www.jjharrison.com.au/)",
@@ -59,6 +68,15 @@
       "archivo": "img/catalogo/15583.webp",
       "fuente": "https://www.tunicaragua.com/index.php/es/component/virtuemart/?view=productdetails&virtuemart_category_id=336&virtuemart_product_id=1189",
       "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15600": {
+      "nombre": "Avena Quaker con linaza 300 g",
+      "archivo": "img/catalogo/15600.webp",
+      "fuente": "https://www.walmart.com.ni/avena-quaker-corazon-con-linaza-molida-300-g/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -153,6 +171,33 @@
       "nombre": "Atún Gaviota vegetal 140 g",
       "referencia": false
     },
+    "16199": {
+      "nombre": "Avena molida Sasa 400 g",
+      "archivo": "img/catalogo/16199.webp",
+      "fuente": "https://www.walmart.com.ni/avena-sasa-molida-400-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16205": {
+      "nombre": "Avena Quaker fresa 330 g",
+      "archivo": "img/catalogo/16205.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?view=productdetails&virtuemart_category_id=832&virtuemart_product_id=14438",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16210": {
+      "nombre": "Avena Sasa en hojuelas 360 g",
+      "archivo": "img/catalogo/16210.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?view=productdetails&virtuemart_category_id=832&virtuemart_product_id=13181",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "16309": {
       "archivo": "img/catalogo/16309.webp",
       "autor": "AJE Nicaragua",
@@ -160,6 +205,15 @@
       "licencia": "",
       "licenciaUrl": "",
       "nombre": "Cfrut ponche 2 L",
+      "referencia": false
+    },
+    "16342": {
+      "nombre": "Café Mokaccino 1820 20 g",
+      "archivo": "img/catalogo/16342.webp",
+      "fuente": "https://www.masxmenos.cr/cafe-1820",
+      "autor": "Más x Menos Costa Rica",
+      "licencia": "",
+      "licenciaUrl": "",
       "referencia": false
     },
     "16433": {
@@ -207,6 +261,42 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "16903": {
+      "nombre": "Café instantáneo 1820 (vaso) 100 g",
+      "archivo": "img/catalogo/16903.webp",
+      "fuente": "https://www.walmart.com.ni/cafe-1820-instantaneo-bote-100gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16925": {
+      "nombre": "Café Presto (vaso) 250 g",
+      "archivo": "img/catalogo/16925.webp",
+      "fuente": "https://www.minestle.com/cafes/presto",
+      "autor": "Nestlé Centroamérica",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16929": {
+      "nombre": "Café Selecto 300 g",
+      "archivo": "img/catalogo/16929.webp",
+      "fuente": "https://www.walmart.com.ni/cafe-selecto-superior-medio-300-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16933": {
+      "nombre": "Café Toro 113 g",
+      "archivo": "img/catalogo/16933.webp",
+      "fuente": "https://www.walmart.com.ni/cafe-toro-molido-113-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17189": {
       "nombre": "Brisket de res Carnic (libra)",
       "archivo": "img/catalogo/17189.webp",
@@ -239,6 +329,15 @@
       "archivo": "img/catalogo/17252.webp",
       "fuente": "https://www.recetasnestlecam.com/maggi/productos/caldos/maggi-mi-sazon",
       "autor": "Nestlé Centroamérica",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17254": {
+      "nombre": "Consomé Mi Sazón (frasco) 225 g",
+      "archivo": "img/catalogo/17254.webp",
+      "fuente": "https://www.launion.com.ni/sazonador-gallina-maggi-mi-sazon-225-gr/p",
+      "autor": "La Unión Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -288,11 +387,56 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "18091": {
+      "nombre": "Empanizador McCormick pollo 60 g",
+      "archivo": "img/catalogo/18091.webp",
+      "fuente": "https://www.walmart.com.ni/empanizador-mccormick-para-pollo-60gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18093": {
+      "nombre": "Empanizador Sol Maya 100 g",
+      "archivo": "img/catalogo/18093.webp",
+      "fuente": "https://www.walmart.com.ni/empanizador-sol-maya-mix-bolsa-100gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18096": {
+      "nombre": "Consomé de pollo Favora (vaso) 200 g",
+      "archivo": "img/catalogo/18096.webp",
+      "fuente": "https://www.walmart.com.ni/consome-de-pollo-favora-frasco-200gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18400": {
       "nombre": "Dinos de pollo empanizado Tip Top",
       "archivo": "img/catalogo/18400.webp",
       "fuente": "https://tanbuenoquesenota.com/ni/product/dinos-tip-top/",
       "autor": "Tip Top Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18418": {
+      "nombre": "Delisoya 1+ sin lactosa 360 g",
+      "archivo": "img/catalogo/18418.webp",
+      "fuente": "https://www.cafesoluble.com/nuestras-marcas/delisoy/delisoy-1-mas/",
+      "autor": "Café Soluble S.A.",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18429": {
+      "nombre": "Delisoya natural 360 g",
+      "archivo": "img/catalogo/18429.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-en-polvo-delisoy-natural-360-g/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -350,6 +494,51 @@
       "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "nombre": "Manzana roja (unidad)",
       "referencia": true
+    },
+    "20035": {
+      "nombre": "Maicena natural 185 g",
+      "archivo": "img/catalogo/20035.webp",
+      "fuente": "https://www.walmart.com.ni/fecula-maizena-original-en-polvo-185-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20053": {
+      "nombre": "Leche Nido 1+ 325 g",
+      "archivo": "img/catalogo/20053.webp",
+      "fuente": "https://www.maxidespensa.com.sv/leche-nido-1mas-protectus-bolsa-325g-sv5247-5-6/p",
+      "autor": "Maxi Despensa El Salvador",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20059": {
+      "nombre": "Leche Pinito 1.5 kg",
+      "archivo": "img/catalogo/20059.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?view=productdetails&virtuemart_category_id=831&virtuemart_product_id=2273",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20060": {
+      "nombre": "Leche Pinito 110 g",
+      "archivo": "img/catalogo/20060.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?view=productdetails&virtuemart_category_id=831&virtuemart_product_id=15035",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20061": {
+      "nombre": "Leche Pinito 350 g",
+      "archivo": "img/catalogo/20061.webp",
+      "fuente": "https://www.walmart.com.ni/leche-en-polvo-pinito-de-350gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "20596": {
       "nombre": "Maíz para palomitas (libra)",
@@ -446,6 +635,24 @@
       "archivo": "img/catalogo/20984.webp",
       "fuente": "https://www.walmart.com.ni/harina-del-comal-de-maiz-800-g/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21026": {
+      "nombre": "Mayonesa McCormick 180 g",
+      "archivo": "img/catalogo/21026.webp",
+      "fuente": "https://www.walmart.com.ni/mayonesa-mccormick-doypack-180gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21030": {
+      "nombre": "Mayonesa Hellmann's 190 g",
+      "archivo": "img/catalogo/21030.webp",
+      "fuente": "https://www.launion.com.ni/mayonesa-hellmanns-pura-en-doy-pack-190-g/p",
+      "autor": "La Unión Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -701,6 +908,24 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
+    },
+    "24607": {
+      "nombre": "Mayonesa Hellmann's 380 g",
+      "archivo": "img/catalogo/24607.webp",
+      "fuente": "https://www.walmart.com.ni/mayonesa-hellmanns-pura-en-doypack-380-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24947": {
+      "nombre": "Ajo en polvo Badia 1 oz",
+      "archivo": "img/catalogo/24947.webp",
+      "fuente": "https://www.walmart.com.ni/ajo-en-polvo-badia-libre-de-gluten-28-g-2/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     }
   },
   "porConfirmar": {
@@ -724,13 +949,33 @@
       "nombre": "Aceite chorreado (botella)",
       "motivo": "Falta una foto de la botella en que se despacha el aceite chorreado en la tienda."
     },
+    "16200": {
+      "nombre": "Avena molida Sasa 50 g",
+      "motivo": "El fabricante enumera 50 g, pero otras fichas muestran sobres de 45 o 48 g. Hace falta una foto legible del sobre de 50 g."
+    },
+    "16334": {
+      "nombre": "Café Casa del Café molido 454 g",
+      "motivo": "Falta confirmar que el empaque sea el molido de tueste medio de 454 g. Las fotos identificables muestran otras presentaciones."
+    },
+    "16345": {
+      "nombre": "Café Presto stick (caja 80 + 8)",
+      "motivo": "Las cajas identificables tienen 40 u 80 sobres. Falta una foto legible de la caja promocional de 80 + 8."
+    },
     "16555": {
       "nombre": "Carne molida de res Tip Top",
       "motivo": "El nombre del POS indica res Tip Top, pero las coincidencias verificadas de Tip Top son de pollo. Confirmar especie y marca en la etiqueta."
     },
+    "16912": {
+      "nombre": "Café molido 1820 400 g",
+      "motivo": "Se encontraron bolsas de 400 g identificadas como Arábica y como Clásico. Falta confirmar cuál corresponde al código del POS."
+    },
     "16921": {
       "nombre": "Café Presto (sobrecito)",
       "motivo": "La foto localizada muestra un surtido de sobres Presto. Falta una imagen clara del sobre individual de la tienda."
+    },
+    "16930": {
+      "nombre": "Café Selecto 400 g",
+      "motivo": "El fabricante ofrece Selecto Clásico y Superior en 400 g. Falta confirmar la variedad que vende la tienda."
     },
     "17240": {
       "nombre": "Consomé de camarón 10 g (sobre)",
@@ -739,6 +984,10 @@
     "17241": {
       "nombre": "Consomé de pollo 10 g (sobre)",
       "motivo": "Se encontraron varios consomés de pollo de 10 g. Falta confirmar la marca y la variante de este código."
+    },
+    "17246": {
+      "nombre": "Consomé de pollo Sol Maya 8 g (sobre)",
+      "motivo": "Falta una foto legible del consomé de pollo Sol Maya en sobre individual de 8 g."
     },
     "17247": {
       "nombre": "Consomé de res 10 g (sobre)",
@@ -751,6 +1000,10 @@
     "17830": {
       "nombre": "Crema criolla",
       "motivo": "Falta confirmar si la crema criolla se vende a granel o en un empaque específico y conseguir una foto de esa presentación."
+    },
+    "18094": {
+      "nombre": "Empanizador Sol Maya 150 g",
+      "motivo": "La foto identificable de empanizador Sol Maya corresponde a la bolsa de 100 g. Falta una imagen de la de 150 g."
     },
     "19851": {
       "motivo": "Confirmar la variedad local que se registra como limón castillo.",
@@ -768,6 +1021,10 @@
       "nombre": "Jamón de pavo ahumado 250 g",
       "motivo": "Se encontraron presentaciones de pavo ahumado de 250 g de FUD y Cinta Azul. Confirmar la marca del producto."
     },
+    "20707": {
+      "nombre": "Mostaza McCormick 180 g",
+      "motivo": "Hay varias variedades de mostaza McCormick de 180 g. Falta confirmar la variante asociada al código del POS."
+    },
     "20901": {
       "nombre": "Mortadela tubo chiltoma",
       "motivo": "Se encontró mortadela con chiltoma a granel, pero falta una foto legible que confirme la presentación en tubo."
@@ -783,6 +1040,14 @@
     "20977": {
       "motivo": "Verificar qué empaque corresponde al código indicado como bolsa nueva.",
       "nombre": "Maruchan pollo (bolsa, nuevo)"
+    },
+    "21029": {
+      "nombre": "Mayonesa Hellmann's 100 g",
+      "motivo": "Se identificaron fotos de Hellmann’s de otras medidas. Falta una foto legible de la presentación de 100 g."
+    },
+    "21041": {
+      "nombre": "Mayonesa Regia reducida en lípidos 175 g",
+      "motivo": "Hay fichas de mayonesa Regia de 175 g sin una etiqueta legible que confirme que es la reducida en lípidos."
     },
     "21384": {
       "motivo": "Pendiente de una foto identificable del Pan Norlan.",
@@ -816,6 +1081,10 @@
       "nombre": "Tang guayaba 13 g",
       "motivo": "La variante de Nicaragua que se localizó dice piña y guayaba. Falta confirmar si coincide con el sobre registrado como guayaba."
     },
+    "24702": {
+      "nombre": "Café instantáneo Coex (sobre)",
+      "motivo": "Hace falta confirmar el gramaje y la variante del sobre individual de café Coex."
+    },
     "24829": {
       "nombre": "Aceite Ambar 180 ml",
       "motivo": "El catálogo del fabricante menciona la presentación de 180 ml. Las fotos comercializadas que se pudieron verificar son de otras medidas."
@@ -827,6 +1096,18 @@
     "24887": {
       "nombre": "Hueso especial (libra)",
       "motivo": "El nombre Hueso especial no permite verificar el tipo de carne ni el corte de la foto."
+    },
+    "24891": {
+      "nombre": "Delisoya 3+ sin lactosa 360 g",
+      "motivo": "Falta una foto legible que confirme que la bolsa Delisoy 3+ de 360 g corresponde a la variante sin lactosa."
+    },
+    "24995": {
+      "nombre": "Café Agapito Díaz (bolsita 25 g)",
+      "motivo": "Las imágenes localizadas de Café Agapito Díaz no identifican la bolsita de 25 g. Hace falta una foto propia del frente del producto."
+    },
+    "25018": {
+      "nombre": "Aderezo Spread Regia 175 g",
+      "motivo": "Se encontraron aderezo Regia de 100 g y mayonesa Regia de 175 g. Falta una foto del aderezo Spread de 175 g."
     }
   }
 }
