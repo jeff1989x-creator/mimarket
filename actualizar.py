@@ -5,7 +5,7 @@ OUT='.'
 ver = time.strftime('%Y%m%d%H%M')
 open(f'{OUT}/sw.js', 'w').write(f"""// Pedidos MiMarket: siempre intenta traer precios nuevos; sin señal muestra la última copia.
 const C='mimarket-{ver}';
-const BASE=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
+const BASE=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png','./destacados.css','./destacados.js'];
 self.addEventListener('install',e=>{{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(BASE)).catch(()=>{{}}))}});
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==C).map(x=>caches.delete(x)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{{
@@ -27,6 +27,8 @@ HEAD = """<link rel="manifest" href="manifest.webmanifest">
 <meta property="og:title" content="Pedidos MiMarket">
 <meta property="og:description" content="Arma tu pedido y envíalo por WhatsApp. Entrega a domicilio.">
 <meta property="og:image" content="icon-512.png">
+<link rel="stylesheet" href="destacados.css">
+<script src="destacados.js" defer></script>
 <style>
 #inst{position:fixed;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:60;display:flex;gap:10px;align-items:center;background:#111;color:#fff;border-radius:14px;padding:10px 12px;box-shadow:0 8px 24px #0005;max-width:520px;margin:0 auto}
 #inst[hidden]{display:none}#inst img{width:40px;height:40px;border-radius:10px}
