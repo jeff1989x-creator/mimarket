@@ -369,6 +369,24 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "16359": {
+      "nombre": "Bombón Cool Colombina (24 unidades)",
+      "archivo": "img/catalogo/16359.webp",
+      "fuente": "https://labendicion502.com/products/bon-bon-bum-colombina-cool-24-unidades-1",
+      "autor": "La Bendición 502",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16360": {
+      "nombre": "Bombón fresa Colombina (bolsa)",
+      "archivo": "img/catalogo/16360.webp",
+      "fuente": "https://tunicaragua.com/index.php/es/component/virtuemart/?view=productdetails&virtuemart_category_id=799&virtuemart_product_id=2088",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "16433": {
       "archivo": "img/catalogo/16433.webp",
       "autor": "Tahir mq",
@@ -540,6 +558,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "16999": {
+      "nombre": "Canelita 60 g",
+      "archivo": "img/catalogo/16999.webp",
+      "fuente": "https://www.launion.com.ni/galleta-marinela-canelitas-60gr/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17005": {
       "nombre": "Cappy Infladito familiar 70 g",
       "archivo": "img/catalogo/17005.webp",
@@ -590,6 +617,15 @@
       "archivo": "img/catalogo/17254.webp",
       "fuente": "https://www.launion.com.ni/sazonador-gallina-maggi-mi-sazon-225-gr/p",
       "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17278": {
+      "nombre": "Chiclín mix (bolsa)",
+      "archivo": "img/catalogo/17278.webp",
+      "fuente": "https://distribuidorajiron.com.ni/es/caramelo/3372-caramelo-relleno-de-chicle-chiclin-mix-100-uni.html",
+      "autor": "Distribuidora Jirón",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1107,6 +1143,24 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "19079": {
+      "nombre": "Galleta Canasta guayaba (paquete)",
+      "archivo": "img/catalogo/19079.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/managua?view=productdetails&virtuemart_category_id=796&virtuemart_product_id=1878",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19087": {
+      "nombre": "Galleta Chiky chips (paquete de 6)",
+      "archivo": "img/catalogo/19087.webp",
+      "fuente": "https://www.walmart.com.ni/galleta-pozuelo-chiky-chips-240-g-7/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19094": {
       "nombre": "Galleta Chips Ahoy 57 g (unidad)",
       "archivo": "img/catalogo/19094.webp",
@@ -1116,11 +1170,56 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "19105": {
+      "nombre": "Galleta Club Max (paquete de 9)",
+      "archivo": "img/catalogo/19105.webp",
+      "fuente": "https://www.launion.com.ni/galleta-gama-salada-club-max-9-uds-306-g/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19108": {
+      "nombre": "Galleta Crema Dark (paquete)",
+      "archivo": "img/catalogo/19108.webp",
+      "fuente": "https://www.walmart.com.ni/cremas-dark-432-gr-6/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19110": {
+      "nombre": "Galleta Crema estrella (paquete)",
+      "archivo": "img/catalogo/19110.webp",
+      "fuente": "https://www.walmart.com.ni/galletas-pozuelo-cremas-estrella-chocolate-265g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19111": {
+      "nombre": "Galleta Crema fresa (paquete)",
+      "archivo": "img/catalogo/19111.webp",
+      "fuente": "https://super-del-corral.myshopify.com/products/galletas-cremas-fresa-pozuelo-1",
+      "autor": "Super del Corral Honduras",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19135": {
       "nombre": "Galleta María Pozuelo 252 g",
       "archivo": "img/catalogo/19135.webp",
       "fuente": "https://www.walmart.com.ni/galleta-pozuelo-maria-12-unidades-252gr/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19145": {
+      "nombre": "Galleta Oreo (paquete de 12)",
+      "archivo": "img/catalogo/19145.webp",
+      "fuente": "https://www.launion.com.ni/galleta-nabisco-oreo-regular-432gr/p",
+      "autor": "La Unión Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1148,6 +1247,15 @@
       "archivo": "img/catalogo/19335.webp",
       "fuente": "https://www.launion.com.ni/frijol-naturas-molido-rojo-380g/p",
       "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19376": {
+      "nombre": "Galleta Gama soda (paquete de 8)",
+      "archivo": "img/catalogo/19376.webp",
+      "fuente": "https://tunicaragua.com/index.php/es/chinandegaa?view=productdetails&virtuemart_category_id=796&virtuemart_product_id=15243",
+      "autor": "TuNicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1314,6 +1422,33 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "20633": {
+      "nombre": "Maní garapiñado Pro 80 g",
+      "archivo": "img/catalogo/20633.webp",
+      "fuente": "https://www.launion.com.ni/mani-pro-garapinado-80-g-ni43/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20639": {
+      "nombre": "Maní limón Pro 80 g",
+      "archivo": "img/catalogo/20639.webp",
+      "fuente": "https://www.walmart.com.ni/mani-pro-limon-y-sal-80-g-ni55/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20735": {
+      "nombre": "Mini Angelitos 40 g",
+      "archivo": "img/catalogo/20735.webp",
+      "fuente": "https://mundoabras.com/index.php?id=2133&mod=1&page=single",
+      "autor": "Mundo Abras",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "20779": {
       "archivo": "img/catalogo/20779.webp",
       "autor": "Petr Kratochvil",
@@ -1463,6 +1598,24 @@
       "archivo": "img/catalogo/21030.webp",
       "fuente": "https://www.launion.com.ni/mayonesa-hellmanns-pura-en-doy-pack-190-g/p",
       "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21115": {
+      "nombre": "Mini barrita piña 104 g",
+      "archivo": "img/catalogo/21115.webp",
+      "fuente": "https://www.paiz.com.gt/mini-barritas-pina-1p-104-gr-mla-3/p",
+      "autor": "Paiz Guatemala",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21124": {
+      "nombre": "Mini paletas Payaso",
+      "archivo": "img/catalogo/21124.webp",
+      "fuente": "https://supermercadolasamericasllc.com/collections/dulces-y-snacks/products/base-upc-074323078879",
+      "autor": "Supermercado Las Américas",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1809,10 +1962,46 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "23164": {
+      "nombre": "Sponch chocolate 90 g",
+      "archivo": "img/catalogo/23164.webp",
+      "fuente": "https://www.lacolonia.com/galleta-marinela-sponch-sabor-chocolate-90-gr-ref7441029516951/p",
+      "autor": "La Colonia Honduras",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "23165": {
       "nombre": "Sponch fresa 90 g",
       "archivo": "img/catalogo/23165.webp",
       "fuente": "https://www.walmart.com.ni/galleta-marinela-sponch-fresa-90-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23366": {
+      "nombre": "Trident 18 sandía",
+      "archivo": "img/catalogo/23366.webp",
+      "fuente": "https://www.walmart.com.ni/sandia-trident-val-pack-18-unidades-30-6gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23368": {
+      "nombre": "Trident 5 fresa",
+      "archivo": "img/catalogo/23368.webp",
+      "fuente": "https://www.launion.com.ni/chicles-fresa-trident-8-5-gr/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23371": {
+      "nombre": "Trident 5 sandía",
+      "archivo": "img/catalogo/23371.webp",
+      "fuente": "https://www.walmart.com.ni/goma-mascar-trident-sandia-6-unidades-10-2gr-7/p",
       "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
@@ -1944,6 +2133,24 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24367": {
+      "nombre": "Zibas clásicas Yummies 80 g",
+      "archivo": "img/catalogo/24367.webp",
+      "fuente": "https://www.walmart.com.ni/snack-papas-zibas-classic-original-con-sal-80-g-0/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24371": {
+      "nombre": "Zibas miel y mostaza Yummies 80 g",
+      "archivo": "img/catalogo/24371.webp",
+      "fuente": "https://www.walmart.com.ni/papas-tostadas-yummies-zibas-mostaza-miel-80gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24433": {
       "nombre": "Monster Pipeline 473 ml",
       "archivo": "img/catalogo/24433.webp",
@@ -1976,6 +2183,15 @@
       "archivo": "img/catalogo/24588.webp",
       "fuente": "https://www.ajedelivery.ni/p/cielo-limon-pet-no-retornable-650-ml-12-524079",
       "autor": "AJE Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24598": {
+      "nombre": "Trululú Nanos gomitas 100 g",
+      "archivo": "img/catalogo/24598.webp",
+      "fuente": "https://www.farmatodo.com.ve/producto/116205569-gomitas-trululu-con-nanos-100gr",
+      "autor": "Farmatodo Venezuela",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2048,6 +2264,15 @@
       "archivo": "img/catalogo/24987.webp",
       "fuente": "https://zonatronik.com/producto/lotte-lets-be-cappuccino-240ml/",
       "autor": "ZonaTronik",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "25011": {
+      "nombre": "Yuquitas Zambos ajo parmesano 130 g",
+      "archivo": "img/catalogo/25011.webp",
+      "fuente": "https://www.ladespensadedonjuan.com.sv/sv-zambo-yuquita-ajo-parmesano-130g-sv9140-5-8/p",
+      "autor": "La Despensa de Don Juan El Salvador",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2198,6 +2423,10 @@
       "nombre": "Del Valle Fresh 3 L",
       "motivo": "El nombre del POS no indica sabor. Las fichas de 3 L muestran variantes como naranja, cítricos y ponche de frutas. Falta confirmar la variante vendida."
     },
+    "17418": {
+      "nombre": "Chocolate Jouven espresso 50 g",
+      "motivo": "La ficha de Jouven Espresso confirma la barra de 50 g. La imagen del importador muestra el exhibidor con varias barras. Hace falta una foto del frente de la unidad."
+    },
     "17830": {
       "nombre": "Crema criolla",
       "motivo": "Falta confirmar si la crema criolla se vende a granel o en un empaque específico y conseguir una foto de esa presentación."
@@ -2222,13 +2451,49 @@
       "nombre": "Hi-C pera (cajita) 250 ml",
       "motivo": "La foto que acompaña la ficha de Hi-C pera de 250 ml muestra una caja Del Valle Fresh. Hace falta una foto de la caja con la marca Hi-C."
     },
+    "19074": {
+      "nombre": "Galleta Bridge fresa (paquete)",
+      "motivo": "Los catálogos alternativos confirman la familia Bridge, pero falta una foto donde se vea el sabor fresa y el formato del paquete vendido."
+    },
+    "19075": {
+      "nombre": "Galleta Bridge naranja (paquete)",
+      "motivo": "Hace falta una foto del paquete exterior Bridge naranja que muestre el sabor y cuántas unidades incluye."
+    },
+    "19076": {
+      "nombre": "Galleta Bridge naranja (unidad)",
+      "motivo": "Las fuentes consultadas muestran paquetes de la línea Bridge. Hace falta una foto del envoltorio individual sabor naranja."
+    },
+    "19077": {
+      "nombre": "Galleta Bridge vainilla (paquete)",
+      "motivo": "Los catálogos regionales listan obleas Bridge en paquete. Falta una foto del paquete con el sabor vainilla legible."
+    },
+    "19080": {
+      "nombre": "Galleta Canasta guayaba (unidad)",
+      "motivo": "La ficha local y las fichas alternativas muestran el paquete de Canasta guayaba. Hace falta una foto del envoltorio individual."
+    },
+    "19091": {
+      "nombre": "Galleta Chiky (tubo)",
+      "motivo": "Se encontraron Chiky en bolsa y en paquete rectangular. Hace falta una foto que confirme el formato de tubo y el sabor que vende la tienda."
+    },
+    "19106": {
+      "nombre": "Galleta Club Max (unidad)",
+      "motivo": "El fabricante lista Club Max en unidades de 34 g. Las fotos localizadas muestran paquetes múltiples. Falta el frente del sobre individual."
+    },
+    "19115": {
+      "nombre": "Galleta Crema vainilla (paquete de 12)",
+      "motivo": "La ficha local de 12 sobres muestra Cremas Mixtas, con galletas de chocolate y vainilla. Hace falta confirmar si la tienda vende Cremas Mixtas o la variedad de vainilla."
+    },
     "19136": {
       "nombre": "Galleta María (tubo) 135 g",
       "motivo": "Hay varios tubos de galletas María de 135 g de marcas distintas. Falta confirmar cuál vende la tienda."
     },
-    "19145": {
-      "nombre": "Galleta Oreo (paquete de 12)",
-      "motivo": "Las fichas indican 12 unidades, pero una imagen muestra un sobre individual. Falta confirmar el tamaño de cada sobre y el empaque exterior del paquete de la tienda."
+    "19152": {
+      "nombre": "Galleta Pindi chocolate (unidad)",
+      "motivo": "El catálogo del distribuidor identifica Pindi chocolate. Hace falta una foto legible del empaque individual, separado del paquete mayorista."
+    },
+    "19157": {
+      "nombre": "Galleta Pindi vainilla (unidad)",
+      "motivo": "El catálogo del distribuidor identifica Pindi vainilla. Hace falta una foto legible del empaque individual sabor vainilla."
     },
     "19320": {
       "nombre": "Fresca toronja 355 ml",
@@ -2274,9 +2539,21 @@
       "nombre": "Jugo Petit manzana 200 ml (cajita)",
       "motivo": "Se localizaron cajitas de manzana de 200 ml de otra marca y Petit de manzana de 330 ml. Falta una foto de Petit manzana en cajita de 200 ml."
     },
+    "20638": {
+      "nombre": "Maní limón Pro 18 g",
+      "motivo": "Las fichas de Maní Pro limón y sal muestran la bolsa de 80 g. Falta una foto que identifique el sobre de limón de 18 g."
+    },
+    "20642": {
+      "nombre": "Maní picante Pro 80 g",
+      "motivo": "Distribuidora Jirón muestra Maní Pro japonés con jalapeño picante en 80 g. Hace falta confirmar si el SKU de la tienda corresponde a la variedad japonesa."
+    },
     "20707": {
       "nombre": "Mostaza McCormick 180 g",
       "motivo": "Hay varias variedades de mostaza McCormick de 180 g. Falta confirmar la variante asociada al código del POS."
+    },
+    "20716": {
+      "nombre": "Mini gelatina 24/7 (unidad)",
+      "motivo": "Las fichas locales muestran una bolsa surtida de 306 g. Hace falta una foto de la copa 24/7 vendida por unidad."
     },
     "20792": {
       "nombre": "Mirinda 1 L",
@@ -2318,6 +2595,10 @@
       "motivo": "Pendiente de una foto identificable del Pan Norlan.",
       "nombre": "Pan Norlan"
     },
+    "21580": {
+      "nombre": "Quesitos Max 35 g",
+      "motivo": "Las fuentes consultadas muestran Quesitos Diana de 30 g y otros tamaños. Hace falta confirmar la marca y ver el frente de Quesitos Max de 35 g."
+    },
     "21583": {
       "nombre": "Ranchitas nacho queso 25 g",
       "motivo": "El fabricante enumera Ranchitas Nacho Queso de 25 g. Las fotos abiertas muestran bolsas de otro peso. Falta una imagen legible del empaque de 25 g."
@@ -2333,6 +2614,10 @@
     "21801": {
       "nombre": "Piezas mixtas marinadas Kimby (libra)",
       "motivo": "El catálogo de Kimby muestra una mezcla de piernas y muslos, pero falta verificar que sea la mezcla marinada que se vende por libra."
+    },
+    "22079": {
+      "nombre": "Pindi chocolate (paquete de 12)",
+      "motivo": "El catálogo del distribuidor identifica Pindi chocolate. Hace falta una foto que muestre el empaque exterior y confirme las 12 unidades."
     },
     "22213": {
       "nombre": "Harina Prima 454 g",
@@ -2374,10 +2659,6 @@
       "nombre": "Splash V8 fresa y mora 473 ml",
       "motivo": "La foto del envase de 473 ml dice Berry Blend, mientras el POS indica fresa y mora. Falta confirmar que el código corresponde a esa mezcla y no a otra variante."
     },
-    "23164": {
-      "nombre": "Sponch chocolate 90 g",
-      "motivo": "La ficha local indica 90 g, pero el gráfico de la foto muestra 220 ml y no deja leer el peso del empaque. Falta comprobar el frente de la bolsa de 90 g."
-    },
     "23413": {
       "nombre": "Tampico citrus punch ½ L",
       "motivo": "Una ficha nicaragüense muestra 480 ml y un catálogo de otro país indica 500 ml. Falta confirmar el volumen impreso en la botella de la tienda."
@@ -2398,6 +2679,14 @@
       "nombre": "Zambos ceviche Yummies 21 g",
       "motivo": "El fabricante lista Zambos Ceviche de 21 g junto a otros pesos. En la foto abierta no se distingue el gramaje. Falta comprobar que corresponde a 21 g."
     },
+    "24357": {
+      "nombre": "Zambos con chicharrón 19 g",
+      "motivo": "Las fuentes regionales listan Zambos picositas y chicharrón por separado. Hace falta comprobar el frente de la bolsa Zambos con chicharrón de 19 g."
+    },
+    "24462": {
+      "nombre": "Galleta Chiky vainilla (unidad)",
+      "motivo": "Se hallaron paquetes múltiples de Chiky vainilla. Hace falta una foto donde se identifique la unidad que vende la tienda."
+    },
     "24522": {
       "nombre": "Takis original 49 g",
       "motivo": "Se encontró una tienda que lista Takis Original de 49 g. Las fotos legibles revisadas son de otros pesos. Falta la foto del empaque de 49 g."
@@ -2409,6 +2698,10 @@
     "24731": {
       "nombre": "Palomitas Pops chile Yummies 30 g",
       "motivo": "Las fotos encontradas no permiten verificar que sea la bolsa Yummies Pops sabor chile de 30 g."
+    },
+    "24749": {
+      "nombre": "Galleta Club Max queso (paquete de 6)",
+      "motivo": "La ficha local confirma Gama Max Queso de 180 g. Hace falta una foto o ficha que confirme que el paquete contiene 6 unidades."
     },
     "24829": {
       "nombre": "Aceite Ambar 180 ml",
