@@ -1165,6 +1165,15 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "18086": {
+      "nombre": "Elotito con piquete 21 g",
+      "archivo": "img/catalogo/18086.webp",
+      "fuente": "https://puntojv.com/products/e7f927a2-f8de-4107-bdb8-4053cc6e88ec/",
+      "autor": "Punto JV",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18091": {
       "nombre": "Empanizador McCormick pollo 60 g",
       "archivo": "img/catalogo/18091.webp",
@@ -1723,6 +1732,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "19115": {
+      "nombre": "Galleta Crema vainilla (paquete de 12)",
+      "archivo": "img/catalogo/19115.webp",
+      "fuente": "https://www.walmart.com.hn/galleta-pozuelo-estrella-crema-vainilla-265gr/p",
+      "autor": "Walmart Honduras",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19135": {
       "nombre": "Galleta María Pozuelo 252 g",
       "archivo": "img/catalogo/19135.webp",
@@ -1782,6 +1800,15 @@
       "archivo": "img/catalogo/19376.webp",
       "fuente": "https://tunicaragua.com/index.php/es/chinandegaa?view=productdetails&virtuemart_category_id=796&virtuemart_product_id=15243",
       "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19386": {
+      "nombre": "Gati gatitos 454 g",
+      "archivo": "img/catalogo/19386.webp",
+      "fuente": "https://www.super99.com/20147141-gati-comida-gatitos-454g",
+      "autor": "Super 99 Panamá",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1902,6 +1929,17 @@
       "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "nombre": "Lechuga (unidad)",
       "referencia": true
+    },
+    "19852": {
+      "nombre": "Limón mandarina (unidad)",
+      "archivo": "img/catalogo/19852.webp",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Citrus_x_limonia.jpg",
+      "autor": "Rodrigo.Argenton",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "referencia": true,
+      "modificaciones": "Redimensionada y convertida a WebP bajo CC BY-SA 4.0",
+      "fichaReferencia": "https://bosque-americas.iica.int/catalogo/limon-mandarina"
     },
     "19858": {
       "archivo": "img/catalogo/19858.webp",
@@ -2398,6 +2436,24 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "20901": {
+      "nombre": "Mortadela tubo chiltoma",
+      "archivo": "img/catalogo/20901.webp",
+      "fuente": "https://www.launion.com.ni/mortadela-chiltoma-tocino-granel-cainsa-lb-4-8-0-8-8-1/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": true
+    },
+    "20902": {
+      "nombre": "Mortadela tubo de pollo (libra)",
+      "archivo": "img/catalogo/20902.webp",
+      "fuente": "https://supercarnes.com/albrook/mortadela-tubo-del-dia-1-lb-7451080800425",
+      "autor": "Super Carnes Panamá",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": true
+    },
     "20910": {
       "nombre": "Nuggies de pollo Tip Top",
       "archivo": "img/catalogo/20910.webp",
@@ -2587,6 +2643,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "21556": {
+      "nombre": "Ranchitas nacho Cinema 35 g",
+      "archivo": "img/catalogo/21556.webp",
+      "fuente": "https://www.walmart.com.sv/ranchitas-sabor-nachocinema-35-g-2/p",
+      "autor": "Walmart El Salvador",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "21583": {
       "nombre": "Ranchitas nacho queso 25 g",
       "archivo": "img/catalogo/21583.webp",
@@ -2664,6 +2729,15 @@
       "archivo": "img/catalogo/21643.webp",
       "fuente": "https://www.walmart.com.ni/refresco-gaseoso-pepsi-regular-pet-355ml-8/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21644": {
+      "nombre": "Pepsi 12 oz (vidrio)",
+      "archivo": "img/catalogo/21644.webp",
+      "fuente": "https://www.chefstore.com/p/pepsi-glass-bottles-made-in-mexico_2893642/",
+      "autor": "US Foods CHEF’STORE",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2835,6 +2909,15 @@
       "archivo": "img/catalogo/21986.webp",
       "fuente": "https://distribuidorajiron.com.ni/es/varios/3833-pega-loca-chemmer.html",
       "autor": "Distribuidora Jirón Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22037": {
+      "nombre": "Petmaster adulto 454 g",
+      "archivo": "img/catalogo/22037.webp",
+      "fuente": "https://www.super99.com/20142959-pet-master-adulto-12-1lb",
+      "autor": "Super 99 Panamá",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3061,6 +3144,15 @@
       "archivo": "img/catalogo/22669.webp",
       "fuente": "https://www.walmart.com.ni/bebida-hard-seltzer-spark-manzana-verde-350ml/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22670": {
+      "nombre": "Seltzer Spark Raspbex 350 ml",
+      "archivo": "img/catalogo/22670.webp",
+      "fuente": "https://licorerialareserva.com/product/cerveza-hard-seltzer-spark-lata-350-ml/",
+      "autor": "Licorería La Reserva Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3605,6 +3697,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24522": {
+      "nombre": "Takis original 49 g",
+      "archivo": "img/catalogo/24522.webp",
+      "fuente": "https://www.jumbo.com.ar/snacks-original-49-grs-takis/p",
+      "autor": "Jumbo Argentina",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24540": {
       "nombre": "Sopa Cantonesa pollo (vaso)",
       "archivo": "img/catalogo/24540.webp",
@@ -3785,6 +3886,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24969": {
+      "nombre": "Merendina fresa (unidad)",
+      "archivo": "img/catalogo/24969.webp",
+      "fuente": "https://www.doitcenter.com.pa/productos/merendina-fresa-20-gramos-do-it-botanas-1007860-495p1007860",
+      "autor": "Do it Center Panamá",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24987": {
       "nombre": "Café Let's Be cappuccino (lata) 240 ml",
       "archivo": "img/catalogo/24987.webp",
@@ -3865,7 +3975,14 @@
     },
     "15485": {
       "nombre": "Azistin manzana 900 ml",
-      "motivo": "El catálogo ubica este código en Bebidas, pero dos fichas nicaragüenses identifican Azistín manzana de 900 ml como desinfectante multiusos. Hace falta revisar la clasificación antes de publicar su foto."
+      "motivo": "El catálogo ubica este código en Bebidas, pero dos fichas nicaragüenses identifican Azistín manzana de 900 ml como desinfectante multiusos. Hace falta revisar la clasificación antes de publicar su foto.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/desinfectante-multiusos-azistin-forta-manzana-900ml/p"
+        ],
+        "resultado": "La ficha local confirma que Azistín Manzana 900 ml es un desinfectante. El código está clasificado en Bebidas. Hace falta revisar esa clasificación antes de mostrar la foto."
+      }
     },
     "15495": {
       "nombre": "Barra masticable Colombina (unidad)",
@@ -3900,7 +4017,15 @@
     },
     "15531": {
       "nombre": "Adrenalina pequeña",
-      "motivo": "Se encontraron presentaciones locales de Adrenaline Rush de 296 ml y de 10,5 oz. Falta confirmar qué tamaño y envase vende la tienda como pequeña."
+      "motivo": "Se encontraron presentaciones locales de Adrenaline Rush de 296 ml y de 10,5 oz. Falta confirmar qué tamaño y envase vende la tienda como pequeña.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.pricesmart.com/es-ni/producto/adrenaline-rush-bebida-energizante-24-unidades-296-ml-402139/402139",
+          "https://distribuidorajiron.com.ni/es/37-bebidas-energizantes"
+        ],
+        "resultado": "PriceSmart Nicaragua identifica una lata de 296 ml. Confirmar si corresponde al producto que el POS llama Adrenalina pequeña."
+      }
     },
     "15546": {
       "nombre": "Desodorante Lady Speed Stick 10 g",
@@ -4039,7 +4164,15 @@
     },
     "16460": {
       "nombre": "Big Cola roja 3 L",
-      "motivo": "El fabricante en Nicaragua muestra Big Roja de 3.030 ml. Falta confirmar si el código registrado como 3 litros corresponde a esa botella."
+      "motivo": "El fabricante en Nicaragua muestra Big Roja de 3.030 ml. Falta confirmar si el código registrado como 3 litros corresponde a esa botella.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.ajedelivery.ni/p/big-roja-pet-no-retornable-3030-ml-6-500862",
+          "https://almaceneselrey.com/refresco-gaseoso-big-roja-0057370.html"
+        ],
+        "resultado": "AJE Nicaragua y la foto de Almacenes El Rey muestran Big Roja de 3.030 ml. Confirmar si el POS abrevia ese volumen como 3 L."
+      }
     },
     "16465": {
       "nombre": "Bio Aloe uva 360 ml",
@@ -4054,15 +4187,37 @@
     },
     "16475": {
       "nombre": "Campestre 2 L",
-      "motivo": "Las fichas de distribuidores muestran Campestre de 3 L y de medio galón. Hace falta verificar la botella de 2 L y su sabor."
+      "motivo": "Las fichas de distribuidores muestran Campestre de 3 L y de medio galón. Hace falta verificar la botella de 2 L y su sabor.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/bebida-campestre-naranja-3lt/p",
+          "https://www.walmart.com.ni/campestre"
+        ],
+        "resultado": "El catálogo local muestra Campestre naranja de 3 L. Falta comprobar el sabor y la botella de 2 L."
+      }
     },
     "16486": {
       "nombre": "Cfrut naranja 1 L",
-      "motivo": "La presentación de 1 L que se encontró está etiquetada como naranja, mandarina y limón. Falta confirmar si es la registrada en la tienda como naranja."
+      "motivo": "La presentación de 1 L que se encontró está etiquetada como naranja, mandarina y limón. Falta confirmar si es la registrada en la tienda como naranja.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/jugo-cifrut-citrus-punch-1000ml/p"
+        ],
+        "resultado": "La Unión identifica el Cifrut de 1 L como Citrus Punch. Confirmar la variedad impresa en la botella del negocio."
+      }
     },
     "16488": {
       "nombre": "Cfrut naranja 360 ml",
-      "motivo": "La presentación de 360 ml que se encontró está etiquetada como naranja, mandarina y limón. Falta confirmar si es la registrada en la tienda como naranja."
+      "motivo": "La presentación de 360 ml que se encontró está etiquetada como naranja, mandarina y limón. Falta confirmar si es la registrada en la tienda como naranja.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.ajedelivery.ni/c/bebidas-r9g7nm7bxw/jugos-y-nectares-4kxv643zxj"
+        ],
+        "resultado": "La foto del catálogo de AJE muestra Cifrut Citrus Punch de 360 ml. Confirmar si es ese envase, con mezcla cítrica, el que figura como naranja en el POS."
+      }
     },
     "16506": {
       "nombre": "Cepillo Colgate Smiles (5 años o más)",
@@ -4077,7 +4232,15 @@
     },
     "16555": {
       "nombre": "Carne molida de res Tip Top",
-      "motivo": "El nombre del POS indica res Tip Top, pero las coincidencias verificadas de Tip Top son de pollo. Confirmar especie y marca en la etiqueta."
+      "motivo": "El nombre del POS indica res Tip Top, pero las coincidencias verificadas de Tip Top son de pollo. Confirmar especie y marca en la etiqueta.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/carne-molida-tiptop-de-pollo-1-lb-1/p",
+          "https://distribuidorajiron.com.ni/es/pollo/828-carne-molida-de-pollo-1-lb.html"
+        ],
+        "resultado": "La Unión y Jirón identifican la carne molida Tip Top como pollo. Confirmar la especie y la marca que realmente vende MiMarket."
+      }
     },
     "16563": {
       "nombre": "Bolsas para helado 3½ x 8",
@@ -4256,7 +4419,15 @@
     },
     "17356": {
       "nombre": "Del Valle Fresh 3 L",
-      "motivo": "El nombre del POS no indica sabor. Las fichas de 3 L muestran variantes como naranja, cítricos y ponche de frutas. Falta confirmar la variante vendida."
+      "motivo": "El nombre del POS no indica sabor. Las fichas de 3 L muestran variantes como naranja, cítricos y ponche de frutas. Falta confirmar la variante vendida.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/jugo-del-valle-fresh-naranja-3-l-ni133/p",
+          "https://www.coca-cola.com/bo/es/brands/del-valle/del-valle-fresh"
+        ],
+        "resultado": "Se encontraron envases Del Valle Fresh de 3 L con distintos sabores. Confirmar el de este código con el frente de la etiqueta."
+      }
     },
     "17405": {
       "nombre": "Purina pollo inicio (libra)",
@@ -4276,11 +4447,26 @@
     },
     "17486": {
       "nombre": "Chicharrones Picositos Yummies (unidad)",
-      "motivo": "Las fichas con foto muestran Del Rancho Picositos de 100 g. Hace falta confirmar el peso y ver el empaque individual que vende la tienda."
+      "motivo": "Las fichas con foto muestran Del Rancho Picositos de 100 g. Hace falta confirmar el peso y ver el empaque individual que vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.ladespensadedonjuan.com.sv/chicharron-del-rancho-picosito-18-g/p"
+        ],
+        "resultado": "Se encontró una ficha Del Rancho Picositos de 18 g, pero la imagen original no abrió. Confirmar si es ese peso y fotografiar la bolsa unitaria."
+      }
     },
     "17524": {
       "nombre": "Chobix queso 11 g",
-      "motivo": "Las fotos de Chobix disponibles muestran otras variantes o pesos. Hace falta una foto de la bolsa de queso de 11 g."
+      "motivo": "Las fotos de Chobix disponibles muestran otras variantes o pesos. Hace falta una foto de la bolsa de queso de 11 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.paiz.com.gt/senorial-chobix-chipotle-100-g-7/p",
+          "https://www.launion.com.ni/senorial"
+        ],
+        "resultado": "La foto disponible muestra Chobix Chipotle de 100 g. Hace falta el frente de Chobix Queso de 11 g."
+      }
     },
     "17565": {
       "nombre": "Cigarro Belmont rojo (medio paquete)",
@@ -4305,10 +4491,6 @@
         "resultado": "El catálogo local no identifica el empaque de este código. Confirmar si la crema criolla se despacha por porción o en un envase de marca."
       }
     },
-    "18086": {
-      "nombre": "Elotito con piquete 21 g",
-      "motivo": "Las fichas abiertas muestran Elotitos con Piquete de un peso mayor. Falta una foto legible de la bolsa de 21 g."
-    },
     "18094": {
       "nombre": "Empanizador Sol Maya 150 g",
       "motivo": "La foto identificable de empanizador Sol Maya corresponde a la bolsa de 100 g. Falta una imagen de la de 150 g.",
@@ -4323,7 +4505,15 @@
     },
     "18147": {
       "nombre": "Eskimo chocolate ½ L",
-      "motivo": "Las fichas locales muestran otros sabores de Eskimo en tamaño cercano al medio litro y chocolate en otros tamaños o marcas. Hace falta una foto del envase Eskimo chocolate de ½ L."
+      "motivo": "Las fichas locales muestran otros sabores de Eskimo en tamaño cercano al medio litro y chocolate en otros tamaños o marcas. Hace falta una foto del envase Eskimo chocolate de ½ L.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/helado-eskimo-chocolate-galon-484gr/p",
+          "https://distribuidorajiron.com.ni/es/productos-helados/5192-helado-eskimo-12-galon.html"
+        ],
+        "resultado": "La ficha local encontrada para Eskimo chocolate muestra una tarrina de otro tamaño. Hace falta el frente del envase de medio litro."
+      }
     },
     "18179": {
       "nombre": "Eskimo ron con pasas 1 L",
@@ -4331,19 +4521,49 @@
     },
     "18193": {
       "nombre": "Eskimo vaso 8 oz napolitano",
-      "motivo": "Las fichas de Eskimo napolitano muestran tarrinas grandes o sándwiches. Hace falta identificar el vaso individual de 8 oz."
+      "motivo": "Las fichas de Eskimo napolitano muestran tarrinas grandes o sándwiches. Hace falta identificar el vaso individual de 8 oz.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/helado-napolitano-eskimo-lt-484gr/p"
+        ],
+        "resultado": "Las fichas Eskimo muestran la tarrina de 484 g. Hace falta la foto del vaso napolitano de 8 oz."
+      }
     },
     "18194": {
       "nombre": "Eskimo vaso 8 oz ron con pasas",
-      "motivo": "Las fichas con imagen muestran tarrinas de ron con pasas de mayor tamaño. Hace falta una foto del vaso Eskimo de 8 oz."
+      "motivo": "Las fichas con imagen muestran tarrinas de ron con pasas de mayor tamaño. Hace falta una foto del vaso Eskimo de 8 oz.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/helado-ron-con-pasas-eskimo-lt-484gr/p",
+          "https://www.launion.com.ni/helado-eskimo-ron-con-pasas-1960gr/p"
+        ],
+        "resultado": "La Unión muestra ron con pasas en tarrinas de otros tamaños. Hace falta la foto del vaso Eskimo de 8 oz."
+      }
     },
     "18204": {
       "nombre": "Deporade uva 360 ml",
-      "motivo": "Las fichas encontradas alternan los nombres Deporade y Sporade. La foto disponible muestra un paquete que dificulta leer la botella individual. Falta confirmar etiqueta y presentación."
+      "motivo": "Las fichas encontradas alternan los nombres Deporade y Sporade. La foto disponible muestra un paquete que dificulta leer la botella individual. Falta confirmar etiqueta y presentación.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.maxidespensa.com.gt/deporade-uva-360-ml-8-pack/p"
+        ],
+        "resultado": "Maxi Despensa muestra Deporade Uva de 360 ml en paquete de ocho. Se ve la variante, pero hace falta una foto frontal de la botella individual."
+      }
     },
     "18225": {
       "nombre": "Fanta 2 L (retornable)",
-      "motivo": "Las fichas locales de Fanta de 2 L no confirman si el envase es retornable. Falta verificar el envase y el sabor del producto de la tienda."
+      "motivo": "Las fichas locales de Fanta de 2 L no confirman si el envase es retornable. Falta verificar el envase y el sabor del producto de la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.cofas.com.uy/producto/fanta-2-lt-retornable/",
+          "https://www.walmart.com.ni/fanta"
+        ],
+        "resultado": "Cofas muestra Fanta naranja retornable de 2 L en Uruguay. Falta confirmar si en MiMarket la retornable es naranja y qué botella usa."
+      }
     },
     "18273": {
       "nombre": "Detergente Espumil 1 kg",
@@ -4399,39 +4619,96 @@
     },
     "19074": {
       "nombre": "Galleta Bridge fresa (paquete)",
-      "motivo": "Los catálogos alternativos confirman la familia Bridge, pero falta una foto donde se vea el sabor fresa y el formato del paquete vendido."
+      "motivo": "Los catálogos alternativos confirman la familia Bridge, pero falta una foto donde se vea el sabor fresa y el formato del paquete vendido.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://horeca.makro.com.co/p/galleta-wafer-bridge-fresa-30gx8u-140810",
+          "https://www.maxidespensa.com.gt/bridge-colombina-fresa-30-g-5-1-3-0-4-8/p"
+        ],
+        "resultado": "Makro lista ocho sobres de 30 g. La foto que abrió en otra ficha es de un sobre de 30 g. Confirmar cantidad de sobres del paquete de fresa."
+      }
     },
     "19075": {
       "nombre": "Galleta Bridge naranja (paquete)",
-      "motivo": "Hace falta una foto del paquete exterior Bridge naranja que muestre el sabor y cuántas unidades incluye."
+      "motivo": "Hace falta una foto del paquete exterior Bridge naranja que muestre el sabor y cuántas unidades incluye.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.supermercadosla80.com/pedir/fvTPrgcMzxPxZXzHs/galletas-wafer-bridge-colombina-naranja-x-240-grs-8-paquetes"
+        ],
+        "resultado": "La ficha colombiana muestra un paquete de ocho sobres y 240 g. Confirmar que coincide el número de unidades con el paquete local."
+      }
     },
     "19076": {
       "nombre": "Galleta Bridge naranja (unidad)",
-      "motivo": "Las fuentes consultadas muestran paquetes de la línea Bridge. Hace falta una foto del envoltorio individual sabor naranja."
+      "motivo": "Las fuentes consultadas muestran paquetes de la línea Bridge. Hace falta una foto del envoltorio individual sabor naranja.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.supermercadosla80.com/pedir/fvTPrgcMzxPxZXzHs/galletas-wafer-bridge-colombina-naranja-x-240-grs-8-paquetes"
+        ],
+        "resultado": "Se encontraron paquetes múltiples Bridge naranja. Hace falta un frente legible del sobre individual para comprobar la presentación local."
+      }
     },
     "19077": {
       "nombre": "Galleta Bridge vainilla (paquete)",
-      "motivo": "Los catálogos regionales listan obleas Bridge en paquete. Falta una foto del paquete con el sabor vainilla legible."
+      "motivo": "Los catálogos regionales listan obleas Bridge en paquete. Falta una foto del paquete con el sabor vainilla legible.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://shop.superfreshfood.com/store/superfresh/products/1392423-colombina-bridge-vanilla-milk-5-33-oz"
+        ],
+        "resultado": "La foto de SuperFresh es de un envoltorio de 5.33 oz. Confirmar si el paquete de vainilla del negocio corresponde a esa presentación o a un multipack."
+      }
     },
     "19080": {
       "nombre": "Galleta Canasta guayaba (unidad)",
-      "motivo": "La ficha local y las fichas alternativas muestran el paquete de Canasta guayaba. Hace falta una foto del envoltorio individual."
+      "motivo": "La ficha local y las fichas alternativas muestran el paquete de Canasta guayaba. Hace falta una foto del envoltorio individual.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://distribuidorajiron.com.ni/es/165-galletas",
+          "https://www.tunicaragua.com/index.php/es/hogar?view=productdetails&virtuemart_category_id=1098&virtuemart_product_id=1878"
+        ],
+        "resultado": "La foto de Jirón corresponde al empaque exterior de 12 paquetitos Canasta Guayaba. Hace falta el envoltorio que se vende por unidad."
+      }
     },
     "19091": {
       "nombre": "Galleta Chiky (tubo)",
-      "motivo": "Se encontraron Chiky en bolsa y en paquete rectangular. Hace falta una foto que confirme el formato de tubo y el sabor que vende la tienda."
+      "motivo": "Se encontraron Chiky en bolsa y en paquete rectangular. Hace falta una foto que confirme el formato de tubo y el sabor que vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.efastonline.com/product/1043111",
+          "https://www.walmart.com.ni/chiky"
+        ],
+        "resultado": "La foto de Efast confirma un tubo Chiky Choco de 153 g. El POS no indica el sabor. Confirmar si el tubo de MiMarket es ese."
+      }
     },
     "19095": {
       "nombre": "Galleta Choco Mad (paquete)",
-      "motivo": "Distribuidora Jirón indica 12 sobres y 552 g, pero muestra un sobre individual. Otra ficha de 12 sobres reporta un peso distinto. Hace falta el frente del paquete exterior."
+      "motivo": "Distribuidora Jirón indica 12 sobres y 552 g, pero muestra un sobre individual. Otra ficha de 12 sobres reporta un peso distinto. Hace falta el frente del paquete exterior.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://distribuidorajiron.com.ni/es/galletas/2802-galleta-choco-mad-chocolate-12-pack-552-gr.html",
+          "https://www.horizonwebmall.com/en/33-confituras"
+        ],
+        "resultado": "Jirón lista 12 sobres de 552 g. Otra foto reúne sobres sueltos sin el envoltorio exterior. Hace falta el frente del paquete que se vende."
+      }
     },
     "19113": {
       "nombre": "Galleta Crema mixtas (unidad)",
-      "motivo": "Se encontraron sobres de Cremas Mixtas de 31.5 g y de 47.25 g. Hace falta confirmar el peso de la unidad que vende la tienda."
-    },
-    "19115": {
-      "nombre": "Galleta Crema vainilla (paquete de 12)",
-      "motivo": "La ficha local de 12 sobres muestra Cremas Mixtas, con galletas de chocolate y vainilla. Hace falta confirmar si la tienda vende Cremas Mixtas o la variedad de vainilla."
+      "motivo": "Se encontraron sobres de Cremas Mixtas de 31.5 g y de 47.25 g. Hace falta confirmar el peso de la unidad que vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.maxipali.co.cr/cremas-pozuelo-cremas-mixtas-47-25g/p",
+          "https://www.walmart.com.ni/galleta-cremas-mixtas-47-25g/p"
+        ],
+        "resultado": "Maxi Palí y Walmart muestran Cremas Mixtas de 47.25 g. Confirmar si es esa unidad o la de 31.5 g."
+      }
     },
     "19136": {
       "nombre": "Galleta María (tubo) 135 g",
@@ -4465,15 +4742,26 @@
     },
     "19185": {
       "nombre": "Galletas Del Carmen avena con chocolate",
-      "motivo": "Las fichas locales muestran Del Carmen avena con chocolate en 44 y 264 g. Hace falta confirmar el peso que corresponde al código."
+      "motivo": "Las fichas locales muestran Del Carmen avena con chocolate en 44 y 264 g. Hace falta confirmar el peso que corresponde al código.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/galleta-del-carmen-avena-con-choco-44gr/p",
+          "https://www.launion.com.ni/galleta-del-carmen-avena-con-chocolate-264-g/p"
+        ],
+        "resultado": "La Unión muestra Del Carmen avena con chocolate tanto de 44 como de 264 g. Confirmar el tamaño que corresponde a este código."
+      }
     },
     "19320": {
       "nombre": "Fresca toronja 355 ml",
-      "motivo": "Se encontraron versiones de Fresca toronja de 355 ml en lata y en botella. Falta confirmar qué envase corresponde al código del POS."
-    },
-    "19386": {
-      "nombre": "Gati gatitos 454 g",
-      "motivo": "Se encontró Gati Gatitos en el distribuidor local y una ficha de 1 kg. Las fotos revisadas no confirman 454 g ni la leyenda Defensas Activas en el mismo empaque."
+      "motivo": "Se encontraron versiones de Fresca toronja de 355 ml en lata y en botella. Falta confirmar qué envase corresponde al código del POS.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.pricesmart.com/es-ni/producto/fresca-bebida-gaseosa-en-lata-refrescante-sabor-toronja-12-unidades-355-ml-12-oz-287483/287483"
+        ],
+        "resultado": "PriceSmart confirma Fresca de toronja en lata de 355 ml. Falta confirmar si MiMarket vende la lata o la botella bajo este código."
+      }
     },
     "19432": {
       "nombre": "Gelatina De La Familia fresa 450 g",
@@ -4536,11 +4824,14 @@
     },
     "19851": {
       "motivo": "Confirmar la variedad local que se registra como limón castillo.",
-      "nombre": "Limón castillo (unidad)"
-    },
-    "19852": {
-      "motivo": "Verificar una foto de la variedad local llamada limón mandarina.",
-      "nombre": "Limón mandarina (unidad)"
+      "nombre": "Limón castillo (unidad)",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://cenida.una.edu.ni/Tesis/tnl01t315.pdf"
+        ],
+        "resultado": "La fuente alternativa identifica limón criollo, pero el término local limón castillo no identifica con claridad la variedad. Hace falta una foto con el fruto entero y partido."
+      }
     },
     "19862": {
       "motivo": "Confirmar si la porción corresponde a manzanilla seca o fresca.",
@@ -4552,7 +4843,15 @@
     },
     "19891": {
       "nombre": "Kola Shaler",
-      "motivo": "El POS indica 3.54 ml. El catálogo nicaragüense vende versiones de 354 ml y varios sabores. Falta confirmar el volumen y la variante."
+      "motivo": "El POS indica 3.54 ml. El catálogo nicaragüense vende versiones de 354 ml y varios sabores. Falta confirmar el volumen y la variante.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/kola-shaler",
+          "https://www.launion.com.ni/soda-shaler-354-ml/p"
+        ],
+        "resultado": "El catálogo Shaler incluye distintos sabores en 354 ml. Hace falta confirmar el sabor y el volumen real del código que dice 3.54 ml."
+      }
     },
     "19929": {
       "nombre": "Leche Eskimo descremada 1 L",
@@ -4560,7 +4859,15 @@
     },
     "20028": {
       "nombre": "Jamón de pavo ahumado 250 g",
-      "motivo": "Se encontraron presentaciones de pavo ahumado de 250 g de FUD y Cinta Azul. Confirmar la marca del producto."
+      "motivo": "Se encontraron presentaciones de pavo ahumado de 250 g de FUD y Cinta Azul. Confirmar la marca del producto.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/jamon-fud-con-pavo-ahumado-250g/p",
+          "https://lacolonia.com.ni/categoria/JamonesBacon"
+        ],
+        "resultado": "La Unión muestra FUD con pavo ahumado de 250 g. Confirmar la marca del empaque que vende la tienda."
+      }
     },
     "20072": {
       "nombre": "Jabón de baño Palmolive avena y azúcar 100 g",
@@ -4576,11 +4883,27 @@
     },
     "20196": {
       "nombre": "Joyita Fina 1.75 L",
-      "motivo": "El catálogo de CLN lista Joyita en 1.75 L, pero usa una sola foto para cuatro tamaños. Hace falta una imagen donde se lea 1.75 L en el envase."
+      "motivo": "El catálogo de CLN lista Joyita en 1.75 L, pero usa una sola foto para cuatro tamaños. Hace falta una imagen donde se lea 1.75 L en el envase.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://tienda505.com/product/joyita-1750/",
+          "https://distribuidoracln.com/wp-content/uploads/2024/06/Catalogo-CLN2024_1505_compressed.pdf"
+        ],
+        "resultado": "Tienda 505 tiene una ficha de 1.75 L, pero no se pudo abrir una foto del envase. Hace falta una foto de frente con 1.75 L legible."
+      }
     },
     "20197": {
       "nombre": "Joyita Fina 360 ml (pacha)",
-      "motivo": "CLN lista Joyita y Joyita Suave en 360 ml. Hace falta ver qué variante y qué envase corresponden a la pacha de la tienda."
+      "motivo": "CLN lista Joyita y Joyita Suave en 360 ml. Hace falta ver qué variante y qué envase corresponden a la pacha de la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://distribuidoracln.com/wp-content/uploads/2024/06/Catalogo-CLN2024_1505_compressed.pdf",
+          "https://tienda505.com/aguardientes/"
+        ],
+        "resultado": "El catálogo de CLN no muestra un frente separado de la pacha de 360 ml. Hace falta confirmar el envase y la variante Joyita que vende MiMarket."
+      }
     },
     "20514": {
       "nombre": "Lima de metal Lola",
@@ -4588,7 +4911,15 @@
     },
     "20638": {
       "nombre": "Maní limón Pro 18 g",
-      "motivo": "Las fichas de Maní Pro limón y sal muestran la bolsa de 80 g. Falta una foto que identifique el sobre de limón de 18 g."
+      "motivo": "Las fichas de Maní Pro limón y sal muestran la bolsa de 80 g. Falta una foto que identifique el sobre de limón de 18 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.masxmenos.cr/mani-pro-limon-sal-80gr/p",
+          "https://lacolonia.com.ni/producto/1280656"
+        ],
+        "resultado": "Se verificó Maní Pro limón y sal en 80 g. Hace falta una foto del sobre de 18 g."
+      }
     },
     "20642": {
       "nombre": "Maní picante Pro 80 g",
@@ -4596,7 +4927,14 @@
     },
     "20699": {
       "nombre": "Palito Diana chilimón 40 g",
-      "motivo": "El fabricante muestra Palitos Chilimón Diana y las fichas alternas tienen otros pesos. Hace falta una foto con 40 g visible."
+      "motivo": "El fabricante muestra Palitos Chilimón Diana y las fichas alternas tienen otros pesos. Hace falta una foto con 40 g visible.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.productosdiana.com/productos/palitos-chilimon"
+        ],
+        "resultado": "Diana muestra Palitos Chilimón, pero no se encontró una imagen con 40 g impreso. Hace falta el frente de ese paquete."
+      }
     },
     "20707": {
       "nombre": "Mostaza McCormick 180 g",
@@ -4612,7 +4950,15 @@
     },
     "20716": {
       "nombre": "Mini gelatina 24/7 (unidad)",
-      "motivo": "Las fichas locales muestran una bolsa surtida de 306 g. Hace falta una foto de la copa 24/7 vendida por unidad."
+      "motivo": "Las fichas locales muestran una bolsa surtida de 306 g. Hace falta una foto de la copa 24/7 vendida por unidad.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/mini-gelatina-24-siete-de-frutas-306gr/p",
+          "https://www.mercadolibre.com.mx/mini-gelatina-frutales-sabores-surtidos-50-piezas-24siete/p/MLM37278357"
+        ],
+        "resultado": "Las fichas muestran el surtido o la bolsa grande. Hace falta una foto del vasito individual 24/7 que despacha el negocio."
+      }
     },
     "20743": {
       "nombre": "Paleta Beny (unidad)",
@@ -4636,27 +4982,42 @@
     },
     "20792": {
       "nombre": "Mirinda 1 L",
-      "motivo": "Los catálogos locales muestran Mirinda en otros volúmenes. Falta una foto legible de la presentación de 1 L que vende la tienda."
+      "motivo": "Los catálogos locales muestran Mirinda en otros volúmenes. Falta una foto legible de la presentación de 1 L que vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.daraz.lk/products/mirinda-orange-1l-i174443956.html",
+          "https://www.walmart.com.ni/refresco-gaseoso-mirinda-3000ml/p"
+        ],
+        "resultado": "Daraz muestra Mirinda Orange de 1 L en otro mercado. La ficha local localizada es de 3 L. Hace falta verificar el sabor y el envase local de 1 L."
+      }
     },
     "20874": {
       "nombre": "Omeprazol 20 mg (cápsula)",
       "motivo": "Hay cápsulas de omeprazol de 20 mg de varios laboratorios. Confirmar marca y empaque del producto del negocio."
     },
-    "20901": {
-      "nombre": "Mortadela tubo chiltoma",
-      "motivo": "Se encontró mortadela con chiltoma a granel, pero falta una foto legible que confirme la presentación en tubo."
-    },
-    "20902": {
-      "nombre": "Mortadela tubo de pollo (libra)",
-      "motivo": "Se encontraron mortadelas de pollo en distintos tamaños y marcas. Falta foto del tubo que se vende por libra."
-    },
     "20912": {
       "nombre": "Papas para freír Tip Top (libra)",
-      "motivo": "Se encontraron papas para freír de otras marcas. Confirmar el fabricante o conseguir foto del empaque Tip Top."
+      "motivo": "Se encontraron papas para freír de otras marcas. Confirmar el fabricante o conseguir foto del empaque Tip Top.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/papas-fritas-golden-25kg-ni6948-2-7/p"
+        ],
+        "resultado": "La alternativa local es de marca Golden. Hace falta confirmar el fabricante de las papas atribuidas a Tip Top."
+      }
     },
     "20916": {
       "nombre": "Miller Lite botella",
-      "motivo": "La ficha vende Miller Lite en botella, pero indica 330 ml en el título y 355 ml en la imagen. CCN también lista botella retornable y desechable. Hace falta confirmar la botella de este código."
+      "motivo": "La ficha vende Miller Lite en botella, pero indica 330 ml en el título y 355 ml en la imagen. CCN también lista botella retornable y desechable. Hace falta confirmar la botella de este código.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/miller-lite-botella-330ml/p",
+          "https://www.ccn.com.ni/wp-content/uploads/2023/11/PreciosServicioalhogar.pdf"
+        ],
+        "resultado": "Walmart indica 330 ml y presenta una botella de volumen distinto. Confirmar el volumen y si es retornable."
+      }
     },
     "20977": {
       "motivo": "Verificar qué empaque corresponde al código indicado como bolsa nueva.",
@@ -4717,7 +5078,15 @@
     },
     "21367": {
       "nombre": "Palomitas queso Yummies 30 g",
-      "motivo": "Las fichas disponibles muestran palomitas Yummies de queso de 120 g. Falta verificar la bolsa de 30 g."
+      "motivo": "Las fichas disponibles muestran palomitas Yummies de queso de 120 g. Falta verificar la bolsa de 30 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.ferreteriamonterroso.com/producto/yummi-pops-palomitas-queso-30gr/",
+          "https://www.launion.com.ni/yummies-pop-palomitas-queso-120gr/p"
+        ],
+        "resultado": "Ferretería Monterroso lista Yummi Pops Queso de 30 g, pero no se pudo abrir su foto. Hace falta una foto legible de 30 g."
+      }
     },
     "21382": {
       "nombre": "Pan Maryuri",
@@ -4731,21 +5100,31 @@
       "nombre": "Pan San Miguel (24 unidades)",
       "motivo": "Las fuentes encontradas no identifican un Pan San Miguel de 24 unidades que corresponda a este código. Hace falta una foto del empaque completo."
     },
-    "21556": {
-      "nombre": "Ranchitas nacho Cinema 35 g",
-      "motivo": "Las fichas con imagen muestran Ranchita Cinema cheddar y jalapeño de 300 g. Hace falta confirmar la bolsa de 35 g."
-    },
     "21567": {
       "nombre": "Porta cepillo",
       "motivo": "Las fuentes muestran estuches completos y tapas para el cabezal. Confirmar cuál se vende y su marca."
     },
     "21580": {
       "nombre": "Quesitos Max 35 g",
-      "motivo": "Las fuentes consultadas muestran Quesitos Diana de 30 g y otros tamaños. Hace falta confirmar la marca y ver el frente de Quesitos Max de 35 g."
+      "motivo": "Las fuentes consultadas muestran Quesitos Diana de 30 g y otros tamaños. Hace falta confirmar la marca y ver el frente de Quesitos Max de 35 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.productosdiana.com/maxquesitos/p"
+        ],
+        "resultado": "La foto oficial de Diana confirma Max Quesitos. No indica 35 g en el frente ni en la ficha. Hace falta una foto con el peso legible."
+      }
     },
     "21586": {
       "nombre": "Pasas Sol Maya 45 g",
-      "motivo": "Los catálogos de Sol Maya muestran pasas de 70 g, 150 g y otros pesos. Falta una foto verificable del empaque de 45 g."
+      "motivo": "Los catálogos de Sol Maya muestran pasas de 70 g, 150 g y otros pesos. Falta una foto verificable del empaque de 45 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/pasas-sol-maya-bolsita-70gr/p"
+        ],
+        "resultado": "La alternativa disponible muestra pasas Sol Maya de 70 g. Hace falta el frente de la bolsa de 45 g."
+      }
     },
     "21589": {
       "nombre": "Papel higiénico Nevax rendidor (6 rollos)",
@@ -4755,25 +5134,44 @@
       "nombre": "Queso criollo (libra)",
       "motivo": "Las fuentes locales muestran varios quesos frescos y secos de venta al corte. Hace falta confirmar si el queso criollo de la tienda es fresco, semiseco o seco para elegir una referencia del mismo tipo."
     },
-    "21644": {
-      "nombre": "Pepsi 12 oz (vidrio)",
-      "motivo": "Se confirmó que una agencia local ofrece Pepsi en vidrio. La foto legible de 12 oz corresponde a Pepsi mexicana. Falta verificar visualmente la botella vendida en Nicaragua."
-    },
     "21743": {
       "nombre": "Pasta dental Colgate Kids 50 ml",
       "motivo": "Se encontraron varias presentaciones Colgate Kids. Hace falta confirmar el sabor y la presentación de 50 ml."
     },
     "21801": {
       "nombre": "Piezas mixtas marinadas Kimby (libra)",
-      "motivo": "El catálogo de Kimby muestra una mezcla de piernas y muslos, pero falta verificar que sea la mezcla marinada que se vende por libra."
+      "motivo": "El catálogo de Kimby muestra una mezcla de piernas y muslos, pero falta verificar que sea la mezcla marinada que se vende por libra.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://kimby.co/ni/productos/pollo/mix-2-piernas-2-muslos-de-pollo-450g",
+          "https://kimby.co/hn/productos/pollo/pollo-en-piezas-mixto"
+        ],
+        "resultado": "Kimby publica un mix de piernas y muslos de 450 g y pollo mixto en otro mercado. Hace falta confirmar que el mix vendido por libra sea el marinado."
+      }
     },
     "21809": {
       "nombre": "Queso mozzarella Tip Top 180 g",
-      "motivo": "Se halló mozzarella de 180 g de otra marca. Las fuentes locales no muestran una ficha con Tip Top, mozzarella y 180 g en el mismo empaque."
+      "motivo": "Se halló mozzarella de 180 g de otra marca. Las fuentes locales no muestran una ficha con Tip Top, mozzarella y 180 g en el mismo empaque.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/queso-premier-blanco-mozzarella-180-g/p"
+        ],
+        "resultado": "La ficha de mozzarella de 180 g corresponde a Premier. Hace falta una foto del empaque vendido con la marca Tip Top o confirmar el fabricante."
+      }
     },
     "21814": {
       "nombre": "Rosquillas mixtas Valdez",
-      "motivo": "Se confirmó el nombre comercial Rosquillas Mixtas Valdez en una ficha nutricional sin foto. Hace falta una foto que distinga el surtido de las bolsas de otras variedades Valdez."
+      "motivo": "Se confirmó el nombre comercial Rosquillas Mixtas Valdez en una ficha nutricional sin foto. Hace falta una foto que distinga el surtido de las bolsas de otras variedades Valdez.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/rosquillas-mixtas-alondra-113-g-ni125/p",
+          "https://fitia.app/es/calorias-informacion-nutricional/rosquillas-mixtas-F7549lsk2a/"
+        ],
+        "resultado": "La foto de rosquillas mixtas que se pudo localizar es de Alondra. La ficha nutricional de Valdez confirma el nombre sin una foto del empaque."
+      }
     },
     "21849": {
       "nombre": "Papel higiénico Encanto 1000 hojas (rollo)",
@@ -4799,17 +5197,20 @@
       "nombre": "Pasta de lustrar Nugget negra 12 g",
       "motivo": "Las fuentes muestran betún en latas más grandes o sin peso visible. Hace falta una foto de la lata de 12 g."
     },
-    "22037": {
-      "nombre": "Petmaster adulto 454 g",
-      "motivo": "La ficha de 454 g usa una imagen genérica del saco de Petmaster adulto. Hace falta una foto donde se vea el peso de 454 g."
-    },
     "22079": {
       "nombre": "Pindi chocolate (paquete de 12)",
       "motivo": "El catálogo del distribuidor identifica Pindi chocolate. Hace falta una foto que muestre el empaque exterior y confirme las 12 unidades."
     },
     "22173": {
       "nombre": "Ponche de frutas Eskimo 1.89 L",
-      "motivo": "Las fichas consultadas nombran Ponche de Frutas Eskimo, pero ninguna foto verificable muestra el envase de 1.89 L."
+      "motivo": "Las fichas consultadas nombran Ponche de Frutas Eskimo, pero ninguna foto verificable muestra el envase de 1.89 L.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.pricesmart.com/site/ni/es/pagina-producto/240923"
+        ],
+        "resultado": "PriceSmart muestra Eskimo Fruit Punch de 3.78 L. Hace falta una foto del envase de 1.89 L."
+      }
     },
     "22210": {
       "nombre": "Prestobarba Bic Confort",
@@ -4837,7 +5238,15 @@
     },
     "22311": {
       "nombre": "Rastrillo plástico económico",
-      "motivo": "Las fotos locales muestran rastrillos plásticos de otras marcas. Hace falta una imagen que identifique el modelo económico Proplast."
+      "motivo": "Las fotos locales muestran rastrillos plásticos de otras marcas. Hace falta una imagen que identifique el modelo económico Proplast.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.pronisa.com.ni/shop/07-014-rastrillo-plastico-grande-1513",
+          "https://distribuidorajiron.com.ni/es/jardineria/2997-rastrillo-de-plastico-gde-eterna.html"
+        ],
+        "resultado": "Pronisa y Jirón muestran rastrillos plásticos grandes de otras marcas. Hace falta confirmar el modelo económico Proplast con una foto."
+      }
     },
     "22447": {
       "nombre": "Sabor y Color Sol Maya 10 g (sobre)",
@@ -4865,23 +5274,49 @@
     },
     "22629": {
       "nombre": "Salchichón manguera picante (libra)",
-      "motivo": "Falta confirmar marca y foto de la presentación picante en manguera."
+      "motivo": "Falta confirmar marca y foto de la presentación picante en manguera.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/salchichon-picante-kimby-granel-lb-4/p",
+          "https://www.walmart.com.ni/salchichon-picante-delicia-200-g-5/p"
+        ],
+        "resultado": "La Unión identifica un salchichón Kimby picante por libra. La foto del producto no abrió y otra ficha es de Delicia de 200 g. Confirmar marca y manguera."
+      }
     },
     "22630": {
       "nombre": "Salchichón manguera sin chile (libra)",
-      "motivo": "Falta una foto identificable del salchichón en manguera sin chile que se vende por libra."
+      "motivo": "Falta una foto identificable del salchichón en manguera sin chile que se vende por libra.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/salchichon-simple-delicia-200-g-4/p",
+          "https://lacolonia.com.ni/categoria/SalchicasMortadelas"
+        ],
+        "resultado": "La foto de salchichón simple corresponde a una unidad Delicia de 200 g. Falta una foto de la manguera sin chile que se vende por libra."
+      }
     },
     "22634": {
       "nombre": "Salchichón sin chile (unidad)",
-      "motivo": "Falta confirmar la marca y el tamaño de la unidad sin chile."
-    },
-    "22670": {
-      "nombre": "Seltzer Spark Raspbex 350 ml",
-      "motivo": "Las fichas dicen Raspberry de 350 ml, pero la imagen comercial rotula el sabor como fresa y el nombre de la lata no se lee con claridad. Hace falta un frente legible de la variante del POS."
+      "motivo": "Falta confirmar la marca y el tamaño de la unidad sin chile.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/salchichon-simple-delicia-200-g-4/p"
+        ],
+        "resultado": "Walmart muestra Salchichón Simple Delicia de 200 g. Confirmar la marca y el peso de la unidad sin chile del negocio."
+      }
     },
     "22671": {
       "nombre": "Seltzer Spark Raspbex naked 350 ml",
-      "motivo": "El catálogo comercial muestra Spark Naked sin sabor, con 350 ml en la foto y 355 ml en el título. Hace falta confirmar si el código del POS corresponde a Naked sin sabor o a Raspberry."
+      "motivo": "El catálogo comercial muestra Spark Naked sin sabor, con 350 ml en la foto y 355 ml en el título. Hace falta confirmar si el código del POS corresponde a Naked sin sabor o a Raspberry.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/seltzer-spark-naked-350ml-lata/p"
+        ],
+        "resultado": "La foto de Naked no lleva Raspberry y la ficha alterna 350 ml y 355 ml. Confirmar si el código corresponde a Naked sin sabor y leer el volumen de la lata."
+      }
     },
     "22672": {
       "nombre": "Seltzer Triple Berry 350 ml",
@@ -4919,7 +5354,15 @@
     },
     "23159": {
       "nombre": "Splash V8 fresa y mora 473 ml",
-      "motivo": "La foto del envase de 473 ml dice Berry Blend, mientras el POS indica fresa y mora. Falta confirmar que el código corresponde a esa mezcla y no a otra variante."
+      "motivo": "La foto del envase de 473 ml dice Berry Blend, mientras el POS indica fresa y mora. Falta confirmar que el código corresponde a esa mezcla y no a otra variante.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/bebida-campbells-frutas-berry-blend-473ml/p",
+          "https://www.walmart.com/ip/15686251"
+        ],
+        "resultado": "La botella local de 473 ml aparece rotulada Berry Blend. Confirmar si el nombre fresa y mora del POS corresponde a esa etiqueta."
+      }
     },
     "23255": {
       "nombre": "Taco chile Yummies 18 g",
@@ -4935,7 +5378,15 @@
     },
     "23331": {
       "nombre": "Taquerito queso fusión 34 g",
-      "motivo": "El fabricante confirma Queso Fusión en 34 g y en otros pesos. Hace falta una foto donde el empaque de 34 g sea identificable."
+      "motivo": "El fabricante confirma Queso Fusión en 34 g y en otros pesos. Hace falta una foto donde el empaque de 34 g sea identificable.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.maxidespensa.com.sv/taqueritos-sabor-quesofusion-34-g/p",
+          "https://super.masmoni.com/productos/taqueritos-sabor-quesofusion-34-g"
+        ],
+        "resultado": "Los distribuidores identifican Taqueritos Quesofusión de 34 g, pero las imágenes verificables no muestran el paquete. Hace falta un frente legible de 34 g."
+      }
     },
     "23333": {
       "nombre": "Torti Chip 30 g",
@@ -4943,7 +5394,15 @@
     },
     "23340": {
       "nombre": "Toztecas moradas picantes Max 30 g",
-      "motivo": "La línea Toztecas Max incluye otros sabores y tamaños. Hace falta una foto donde se vea la variante morada picante de 30 g."
+      "motivo": "La línea Toztecas Max incluye otros sabores y tamaños. Hace falta una foto donde se vea la variante morada picante de 30 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.productosdiana.com/productos/toztecas-max",
+          "https://www.productosdiana.com/renderstoztecasoriginalmax/p"
+        ],
+        "resultado": "El fabricante muestra el empaque Toztecas Original Max. Hace falta identificar el sabor y el rotulado de 30 g de la bolsa morada picante."
+      }
     },
     "23349": {
       "nombre": "Tipitín Colombina (unidad)",
@@ -4963,7 +5422,15 @@
     },
     "23413": {
       "nombre": "Tampico citrus punch ½ L",
-      "motivo": "Una ficha nicaragüense muestra 480 ml y un catálogo de otro país indica 500 ml. Falta confirmar el volumen impreso en la botella de la tienda."
+      "motivo": "Una ficha nicaragüense muestra 480 ml y un catálogo de otro país indica 500 ml. Falta confirmar el volumen impreso en la botella de la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://lacolonia.com.ni/producto/1530202",
+          "https://www.ecomarket-ci.com/produits/jus-tampico-citron500ml"
+        ],
+        "resultado": "La Colonia declara 480 ml para Citrus Punch. La ficha alternativa de 500 ml es de otro mercado. Confirmar el volumen de la botella del negocio."
+      }
     },
     "23478": {
       "nombre": "Toallitas húmedas Huggies limpieza (112)",
@@ -4999,15 +5466,38 @@
     },
     "23586": {
       "nombre": "Toña botella 350 ml",
-      "motivo": "Hay fotos de Toña de 350 ml desechable y fichas de 12 oz retornable. Hace falta distinguir qué botella corresponde a este código."
+      "motivo": "Hay fotos de Toña de 350 ml desechable y fichas de 12 oz retornable. Hace falta distinguir qué botella corresponde a este código.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.tunicaragua.com/index.php/es/managua?view=productdetails&virtuemart_category_id=631&virtuemart_product_id=2221",
+          "https://www.ccn.com.ni/wp-content/uploads/2020/05/RSCCN2019VF.pdf"
+        ],
+        "resultado": "Se encontró Toña no retornable de 12 oz y otras fichas de botella. Confirmar si el código de 350 ml se vende en retornable."
+      }
     },
     "23591": {
       "nombre": "Toña Light 350 ml",
-      "motivo": "Se encontró Toña Light en botella de 350 ml, pero la fuente no permite distinguirla de la presentación desechable con código separado. Hace falta confirmar si esta es retornable o en lata."
+      "motivo": "Se encontró Toña Light en botella de 350 ml, pero la fuente no permite distinguirla de la presentación desechable con código separado. Hace falta confirmar si esta es retornable o en lata.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/cerveza-tona-light-lata-350ml/p"
+        ],
+        "resultado": "Walmart confirma una lata Toña Light de 350 ml. Hace falta confirmar si este código corresponde a la lata o a otra botella distinta de la desechable del catálogo."
+      }
     },
     "23595": {
       "nombre": "Victoria Clásica botella",
-      "motivo": "La Colonia muestra Victoria Clásica en botella de 12 oz y hay otro código para Victoria Clásica de 350 ml. Hace falta confirmar el volumen y si este código corresponde a la retornable."
+      "motivo": "La Colonia muestra Victoria Clásica en botella de 12 oz y hay otro código para Victoria Clásica de 350 ml. Hace falta confirmar el volumen y si este código corresponde a la retornable.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://lacolonia.com.ni/producto/1640029",
+          "https://prices.nedostavka.net/es/product/641194001000"
+        ],
+        "resultado": "La Colonia lista botella Victoria Clásica de 12 oz. Ya existe otro código para la botella de 350 ml. Confirmar si la de este código es retornable y su volumen."
+      }
     },
     "23854": {
       "nombre": "Tipitín cervecita",
@@ -5039,11 +5529,25 @@
     },
     "23950": {
       "nombre": "Torti Chips chile 16 g",
-      "motivo": "Las fotos de Torti Chips muestran otros gramajes. Falta confirmar el empaque de chile de 16 g."
+      "motivo": "Las fotos de Torti Chips muestran otros gramajes. Falta confirmar el empaque de chile de 16 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/tortichips-chile-limon-150-gr/p"
+        ],
+        "resultado": "La foto de Tortichips Chile Limón corresponde a 150 g. Hace falta confirmar la variante y ver la bolsa de 16 g."
+      }
     },
     "23953": {
       "nombre": "Tortillas tostadas Bimbo 180 g",
-      "motivo": "Los catálogos consultados muestran otros productos Bimbo o tostadas de marcas distintas. Hace falta verificar el empaque Bimbo de 180 g."
+      "motivo": "Los catálogos consultados muestran otros productos Bimbo o tostadas de marcas distintas. Hace falta verificar el empaque Bimbo de 180 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://francosupermercado.com/index.php?cPath=6"
+        ],
+        "resultado": "La foto Bimbo de 180 g es de tostadas de pan integral, un producto distinto a tortillas tostadas. Hace falta verificar el frente del paquete local."
+      }
     },
     "23977": {
       "nombre": "Tozteca Max 45 g",
@@ -5078,11 +5582,26 @@
     },
     "24349": {
       "nombre": "Yumix tropical 31 g",
-      "motivo": "La ficha de 31 g no entrega una imagen del empaque. La ficha de Distribuidora Jirón muestra la bolsa de 200 g. Hace falta una foto de la bolsa de 31 g."
+      "motivo": "La ficha de 31 g no entrega una imagen del empaque. La ficha de Distribuidora Jirón muestra la bolsa de 200 g. Hace falta una foto de la bolsa de 31 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.cleosmarket.com/shop/boquitas-yummies-yum-mix-tropical-31-g-24879",
+          "https://sivarmarket.shop/tienda/yummix-sabor-tropical-31-g/"
+        ],
+        "resultado": "La ficha regional identifica el Yum Mix Tropical de 31 g, pero las imágenes recuperadas son un logotipo o un marcador vacío. Hace falta una foto legible de la bolsa."
+      }
     },
     "24357": {
       "nombre": "Zambos con chicharrón 19 g",
-      "motivo": "Las fuentes regionales listan Zambos picositas y chicharrón por separado. Hace falta comprobar el frente de la bolsa Zambos con chicharrón de 19 g."
+      "motivo": "Las fuentes regionales listan Zambos picositas y chicharrón por separado. Hace falta comprobar el frente de la bolsa Zambos con chicharrón de 19 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://dopals.com/shop/product/zambos-con-chicharron-del-rancho-19g-57063"
+        ],
+        "resultado": "El distribuidor identifica Zambos con Chicharrón Del Rancho de 19 g, pero no se pudo abrir el archivo de la foto. Hace falta una imagen frontal legible de 19 g."
+      }
     },
     "24365": {
       "nombre": "Zambos yuquitas Yummies (unidad)",
@@ -5102,11 +5621,14 @@
     },
     "24462": {
       "nombre": "Galleta Chiky vainilla (unidad)",
-      "motivo": "Se hallaron paquetes múltiples de Chiky vainilla. Hace falta una foto donde se identifique la unidad que vende la tienda."
-    },
-    "24522": {
-      "nombre": "Takis original 49 g",
-      "motivo": "Se encontró una tienda que lista Takis Original de 49 g. Las fotos legibles revisadas son de otros pesos. Falta la foto del empaque de 49 g."
+      "motivo": "Se hallaron paquetes múltiples de Chiky vainilla. Hace falta una foto donde se identifique la unidad que vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://unimarket.ca/products/chiky-galletas-de-vainilla-vanilla-cookies-16-9oz"
+        ],
+        "resultado": "La foto alternativa muestra el paquete múltiple de Chiky Vainilla. Hace falta un frente legible del envoltorio vendido por unidad."
+      }
     },
     "24580": {
       "nombre": "Detergente Irex floral 125 g",
@@ -5118,7 +5640,14 @@
     },
     "24691": {
       "nombre": "Apagador tortuga Ragely",
-      "motivo": "Las fuentes locales muestran otros apagadores y no identifican el modelo tortuga Ragely. Hace falta una foto del artículo o de su empaque."
+      "motivo": "Las fuentes locales muestran otros apagadores y no identifican el modelo tortuga Ragely. Hace falta una foto del artículo o de su empaque.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://materialesestrada.com/product/apagador-tortuga-suki"
+        ],
+        "resultado": "La foto del apagador tortuga es de marca Suki. Hace falta una foto del apagador Ragely o de su empaque."
+      }
     },
     "24702": {
       "nombre": "Café instantáneo Coex (sobre)",
@@ -5153,7 +5682,15 @@
     },
     "24804": {
       "nombre": "Chocolate Sprinter",
-      "motivo": "Los listados identifican Sprinter de ANi, pero falta una foto legible del chocolate individual con el sabor y el empaque de la tienda."
+      "motivo": "Los listados identifican Sprinter de ANi, pero falta una foto legible del chocolate individual con el sabor y el empaque de la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.tfo.lk/product/ani-sprinter-chocolate-30g-24-packs-3388",
+          "https://www.anibiskuvi.com.tr/assets/dosyalar/Katalog.pdf"
+        ],
+        "resultado": "La imagen regional muestra la caja Sprinter de 24 barras. Hace falta el frente del envoltorio individual y confirmar su peso."
+      }
     },
     "24829": {
       "nombre": "Aceite Ambar 180 ml",
@@ -5169,7 +5706,15 @@
     },
     "24833": {
       "nombre": "Torta de res de la casa 454 g",
-      "motivo": "Producto de la casa. Hace falta foto de la porción de 454 g del negocio."
+      "motivo": "Producto de la casa. Hace falta foto de la porción de 454 g del negocio.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://distribuidorajiron.com.ni/es/res/919-torta-de-hamburguesa-sm-4-uni-de-14-de-libra-cu.html",
+          "https://www.walmart.com.ni/torta-hamburguesa-de-res-delmor-454-gr/p"
+        ],
+        "resultado": "Jirón y Walmart muestran tortas de res de fabricante en 454 g. Para esta torta de la casa hace falta una foto de la porción real del negocio."
+      }
     },
     "24865": {
       "nombre": "Cuaderno cosido Smarty rayado 100 páginas",
@@ -5177,7 +5722,14 @@
     },
     "24887": {
       "nombre": "Hueso especial (libra)",
-      "motivo": "El nombre Hueso especial no permite verificar el tipo de carne ni el corte de la foto."
+      "motivo": "El nombre Hueso especial no permite verificar el tipo de carne ni el corte de la foto.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/hueso-rojo-especial-1lb/p"
+        ],
+        "resultado": "El catálogo de La Unión llama Hueso Rojo Especial a un corte de res. El POS solo dice Hueso especial. Confirmar especie y corte antes de elegir la referencia."
+      }
     },
     "24891": {
       "nombre": "Delisoya 3+ sin lactosa 360 g",
@@ -5197,11 +5749,27 @@
     },
     "24949": {
       "nombre": "Hielo (bolsa 5 lb)",
-      "motivo": "Se encontró hielo de 5 lb de una marca específica, pero el POS no identifica la marca. Las fotos reutilizables revisadas muestran moldes o paquetes de otro formato. Hace falta una foto de la bolsa que vende la tienda."
+      "motivo": "Se encontró hielo de 5 lb de una marca específica, pero el POS no identifica la marca. Las fotos reutilizables revisadas muestran moldes o paquetes de otro formato. Hace falta una foto de la bolsa que vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/hielo-glacial-5lb/p",
+          "https://lacolonia.com.ni/categoria/Hielo"
+        ],
+        "resultado": "La foto verificable de 5 lb es de Hielo Glacial. Falta una foto de la bolsa de 5 lb que despacha MiMarket o confirmar si corresponde a Glacial."
+      }
     },
     "24957": {
       "nombre": "Victoria Selección Maestro 350 ml",
-      "motivo": "Una ficha de Victoria Selección Maestro de 350 ml muestra el cartón de 24. La botella individual disponible en otra ficha figura como 355 ml. Hace falta confirmar el volumen del envase individual."
+      "motivo": "Una ficha de Victoria Selección Maestro de 350 ml muestra el cartón de 24. La botella individual disponible en otra ficha figura como 355 ml. Hace falta confirmar el volumen del envase individual.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/victoria",
+          "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?view=productdetails&virtuemart_category_id=817&virtuemart_product_id=13565"
+        ],
+        "resultado": "La Unión muestra un paquete de seis botellas de 350 ml y Tu Nicaragua muestra un cartón. Hace falta un frente nítido de la botella individual."
+      }
     },
     "24965": {
       "nombre": "Sponch navideño 90 g",
@@ -5215,17 +5783,20 @@
         "resultado": "La ficha de Auto Pulpe identifica el Sponch navideño de 90 g, pero el archivo de la foto no abre. Maxi Despensa muestra 240 g. Hace falta una foto legible del empaque de 90 g."
       }
     },
-    "24969": {
-      "nombre": "Merendina fresa (unidad)",
-      "motivo": "Las fichas locales muestran el paquete Pozuelo de 240 g. Hace falta una foto del envoltorio de la Merendina fresa vendida por unidad."
-    },
     "24972": {
       "nombre": "Malvavisco osito (unidad)",
       "motivo": "Las búsquedas muestran malvaviscos en otras formas y presentaciones. Hace falta una foto del osito vendido por unidad."
     },
     "24974": {
       "nombre": "Lepo piña 375 ml",
-      "motivo": "No apareció una foto verificable de Lepo piña en botella de 375 ml. Las fuentes alternativas muestran otras marcas o volúmenes."
+      "motivo": "No apareció una foto verificable de Lepo piña en botella de 375 ml. Las fuentes alternativas muestran otras marcas o volúmenes.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.tunicaragua.com/index.php/es/recargas?language=es-ES&manage=0&start=60&view=category&virtuemart_category_id=843"
+        ],
+        "resultado": "La foto regional que apareció es de Leyde, no de Lepo. Hace falta el frente de la botella Lepo Piña de 375 ml."
+      }
     },
     "24994": {
       "nombre": "Café Agapito Díaz 1 libra",
