@@ -388,6 +388,10 @@
       "motivo": "Confirmar si la porción es achiote en pasta, molido o en semilla.",
       "nombre": "Achiote (porción de C$ 5)"
     },
+    "16555": {
+      "nombre": "Carne molida de res Tip Top",
+      "motivo": "El nombre del POS indica res Tip Top, pero las coincidencias verificadas de Tip Top son de pollo. Confirmar especie y marca en la etiqueta."
+    },
     "19851": {
       "motivo": "Confirmar la variedad local que se registra como limón castillo.",
       "nombre": "Limón castillo (unidad)"
@@ -400,6 +404,22 @@
       "motivo": "Confirmar si la porción corresponde a manzanilla seca o fresca.",
       "nombre": "Manzanilla (porción de C$ 20)"
     },
+    "20028": {
+      "nombre": "Jamón de pavo ahumado 250 g",
+      "motivo": "Se encontraron presentaciones de pavo ahumado de 250 g de FUD y Cinta Azul. Confirmar la marca del producto."
+    },
+    "20901": {
+      "nombre": "Mortadela tubo chiltoma",
+      "motivo": "Se encontró mortadela con chiltoma a granel, pero falta una foto legible que confirme la presentación en tubo."
+    },
+    "20902": {
+      "nombre": "Mortadela tubo de pollo (libra)",
+      "motivo": "Se encontraron mortadelas de pollo en distintos tamaños y marcas. Falta foto del tubo que se vende por libra."
+    },
+    "20912": {
+      "nombre": "Papas para freír Tip Top (libra)",
+      "motivo": "Se encontraron papas para freír de otras marcas. Confirmar el fabricante o conseguir foto del empaque Tip Top."
+    },
     "20977": {
       "motivo": "Verificar qué empaque corresponde al código indicado como bolsa nueva.",
       "nombre": "Maruchan pollo (bolsa, nuevo)"
@@ -407,6 +427,30 @@
     "21384": {
       "motivo": "Pendiente de una foto identificable del Pan Norlan.",
       "nombre": "Pan Norlan"
+    },
+    "21801": {
+      "nombre": "Piezas mixtas marinadas Kimby (libra)",
+      "motivo": "El catálogo de Kimby muestra una mezcla de piernas y muslos, pero falta verificar que sea la mezcla marinada que se vende por libra."
+    },
+    "22629": {
+      "nombre": "Salchichón manguera picante (libra)",
+      "motivo": "Falta confirmar marca y foto de la presentación picante en manguera."
+    },
+    "22630": {
+      "nombre": "Salchichón manguera sin chile (libra)",
+      "motivo": "Falta una foto identificable del salchichón en manguera sin chile que se vende por libra."
+    },
+    "22634": {
+      "nombre": "Salchichón sin chile (unidad)",
+      "motivo": "Falta confirmar la marca y el tamaño de la unidad sin chile."
+    },
+    "24833": {
+      "nombre": "Torta de res de la casa 454 g",
+      "motivo": "Producto de la casa. Hace falta foto de la porción de 454 g del negocio."
+    },
+    "24887": {
+      "nombre": "Hueso especial (libra)",
+      "motivo": "El nombre Hueso especial no permite verificar el tipo de carne ni el corte de la foto."
     }
   }
 }
