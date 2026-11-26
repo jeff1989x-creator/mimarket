@@ -144,6 +144,60 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "15680": {
+      "nombre": "Adán y Eva frutos rojos lata",
+      "archivo": "img/catalogo/15680.webp",
+      "fuente": "https://www.walmart.com.ni/seltzer-adan-y-eva-frutos-rojos-lata-355ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15683": {
+      "nombre": "Adán y Eva maracuya y piña lata",
+      "archivo": "img/catalogo/15683.webp",
+      "fuente": "https://www.walmart.com.ni/brandy-adan-y-eva-seltzer-maracuya-pina-355ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15688": {
+      "nombre": "Bamboo Daiquiri lata",
+      "archivo": "img/catalogo/15688.webp",
+      "fuente": "https://bamboolat.com/flavors/daiquiri-fresa/",
+      "autor": "Bamboo / FIFCO",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15689": {
+      "nombre": "Bamboo frutos mixtos 473 ml",
+      "archivo": "img/catalogo/15689.webp",
+      "fuente": "https://www.walmart.com.ni/bamboo-frutos-473-ml-0/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15693": {
+      "nombre": "Bamboo Mojito lata",
+      "archivo": "img/catalogo/15693.webp",
+      "fuente": "https://www.launion.com.ni/bebida-bamboo-mojito-lata-350ml/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15695": {
+      "nombre": "Bamboo sandía 473 ml",
+      "archivo": "img/catalogo/15695.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-bamboo-sabor-a-sandia-473ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "15753": {
       "nombre": "Aceite Clover 3 L",
       "archivo": "img/catalogo/15753.webp",
@@ -509,6 +563,15 @@
       "archivo": "img/catalogo/16553.webp",
       "fuente": "https://tanbuenoquesenota.com/ni/product/carne-molida-de-pollo-congelada/",
       "autor": "Tip Top Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "16574": {
+      "nombre": "Cerveza Sol (botella)",
+      "archivo": "img/catalogo/16574.webp",
+      "fuente": "https://www.walmart.com.ni/cerveza-sol-unidad-botella-355ml/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1314,6 +1377,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "19207": {
+      "nombre": "Heineken botella",
+      "archivo": "img/catalogo/19207.webp",
+      "fuente": "https://www.walmart.com.ni/cerveza-heineken-pura-de-malta-con-5-vol-355-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19325": {
       "nombre": "Fresco de cacao La Perfecta 473 ml",
       "archivo": "img/catalogo/19325.webp",
@@ -1575,6 +1647,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "20195": {
+      "nombre": "Joyita 950 ml",
+      "archivo": "img/catalogo/20195.webp",
+      "fuente": "https://distribuidoracln.com/wp-content/uploads/2024/06/Catalogo-CLN2024_1505_compressed.pdf#page=4",
+      "autor": "Distribuidora Compañía Licorera de Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "20216": {
       "nombre": "Jugo Kerns frutas (lata)",
       "archivo": "img/catalogo/20216.webp",
@@ -1805,6 +1886,15 @@
       "archivo": "img/catalogo/20910.webp",
       "fuente": "https://tanbuenoquesenota.com/ni/product/nuggis-de-pollo/",
       "autor": "Tip Top Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20917": {
+      "nombre": "Miller Lite lata",
+      "archivo": "img/catalogo/20917.webp",
+      "fuente": "https://www.walmart.com.ni/miller-lite-lata-354ml/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2106,6 +2196,15 @@
       "nombre": "Piernas con muslos (libra)",
       "referencia": true
     },
+    "21835": {
+      "nombre": "Ron Plata suave 360 ml",
+      "archivo": "img/catalogo/21835.webp",
+      "fuente": "https://lacolonia.com.ni/producto/1620111",
+      "autor": "Supermercados La Colonia Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "21846": {
       "archivo": "img/catalogo/21846.webp",
       "autor": "Arias Supermercado",
@@ -2230,6 +2329,60 @@
       "licencia": "",
       "licenciaUrl": "",
       "nombre": "Seltzer limón hierbabuena lata",
+      "referencia": false
+    },
+    "22665": {
+      "nombre": "Seltzer Rebel citrus 350 ml",
+      "archivo": "img/catalogo/22665.webp",
+      "fuente": "https://www.launion.com.ni/spark-rebel-citrus-350-ml-4/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22666": {
+      "nombre": "Seltzer Watermelon lata",
+      "archivo": "img/catalogo/22666.webp",
+      "fuente": "https://www.walmart.com.ni/watermelon-spark-lata-350ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22667": {
+      "nombre": "Seltzer Wilberries 350 ml",
+      "archivo": "img/catalogo/22667.webp",
+      "fuente": "https://www.walmart.com.ni/spark-wberries-350ml-3/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22668": {
+      "nombre": "Seltzer mandarina lata",
+      "archivo": "img/catalogo/22668.webp",
+      "fuente": "https://www.walmart.com.ni/seltzer-spark-mandarina-lata-350ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22669": {
+      "nombre": "Seltzer manzana verde lata",
+      "archivo": "img/catalogo/22669.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-hard-seltzer-spark-manzana-verde-350ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22675": {
+      "nombre": "Smirnoff original 355 ml",
+      "archivo": "img/catalogo/22675.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-saborizada-a-base-de-vodka-smirnoff-ice-original-botella-355-ml-1/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
       "referencia": false
     },
     "22766": {
@@ -2412,6 +2565,15 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "23587": {
+      "nombre": "Toña lata Michelada 350 ml",
+      "archivo": "img/catalogo/23587.webp",
+      "fuente": "https://www.walmart.com.ni/tona-michelada-mix-350ml-5/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "23588": {
       "archivo": "img/destacados/tona-350.webp",
       "autor": "Walmart Nicaragua",
@@ -2419,6 +2581,60 @@
       "licencia": "",
       "licenciaUrl": "",
       "nombre": "Toña lata 350 ml",
+      "referencia": false
+    },
+    "23590": {
+      "nombre": "Toña latón 473 ml",
+      "archivo": "img/catalogo/23590.webp",
+      "fuente": "https://www.walmart.com.ni/cerveza-tona-lata-473-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23594": {
+      "nombre": "Toña Ultra lata 350 ml",
+      "archivo": "img/catalogo/23594.webp",
+      "fuente": "https://www.walmart.com.ni/cerveza-tona-ultra-350ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23596": {
+      "nombre": "Victoria Clásica lata 473 ml",
+      "archivo": "img/catalogo/23596.webp",
+      "fuente": "https://www.walmart.com.ni/cerveza-victoria-clasica-lata-473-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23597": {
+      "nombre": "Victoria Clásica 350 ml (botella)",
+      "archivo": "img/catalogo/23597.webp",
+      "fuente": "https://www.walmart.com.ni/cerveza-victoria-clasic-botella-350ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23598": {
+      "nombre": "Victoria Frost 350 ml (botella)",
+      "archivo": "img/catalogo/23598.webp",
+      "fuente": "https://www.walmart.com.ni/cerveza-victoria-frost-botella-350ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23599": {
+      "nombre": "Victoria Frost 473 ml",
+      "archivo": "img/catalogo/23599.webp",
+      "fuente": "https://www.walmart.com.ni/cerveza-victoria-frost-lata-473ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
       "referencia": false
     },
     "23610": {
@@ -2651,6 +2867,15 @@
       "archivo": "img/catalogo/24893.webp",
       "fuente": "https://www.launion.com.ni/te-verde-tropical-manzana-350ml/p",
       "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24926": {
+      "nombre": "Toña Light desechable 350 ml",
+      "archivo": "img/catalogo/24926.webp",
+      "fuente": "https://www.walmart.com.ni/cerveza-tona-light-botella-oneway-350ml/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3064,6 +3289,14 @@
       "nombre": "Jamón de pavo ahumado 250 g",
       "motivo": "Se encontraron presentaciones de pavo ahumado de 250 g de FUD y Cinta Azul. Confirmar la marca del producto."
     },
+    "20196": {
+      "nombre": "Joyita Fina 1.75 L",
+      "motivo": "El catálogo de CLN lista Joyita en 1.75 L, pero usa una sola foto para cuatro tamaños. Hace falta una imagen donde se lea 1.75 L en el envase."
+    },
+    "20197": {
+      "nombre": "Joyita Fina 360 ml (pacha)",
+      "motivo": "CLN lista Joyita y Joyita Suave en 360 ml. Hace falta ver qué variante y qué envase corresponden a la pacha de la tienda."
+    },
     "20224": {
       "nombre": "Jugo Petit manzana 200 ml (cajita)",
       "motivo": "Se localizaron cajitas de manzana de 200 ml de otra marca y Petit de manzana de 330 ml. Falta una foto de Petit manzana en cajita de 200 ml."
@@ -3123,6 +3356,10 @@
     "20912": {
       "nombre": "Papas para freír Tip Top (libra)",
       "motivo": "Se encontraron papas para freír de otras marcas. Confirmar el fabricante o conseguir foto del empaque Tip Top."
+    },
+    "20916": {
+      "nombre": "Miller Lite botella",
+      "motivo": "La ficha vende Miller Lite en botella, pero indica 330 ml en el título y 355 ml en la imagen. CCN también lista botella retornable y desechable. Hace falta confirmar la botella de este código."
     },
     "20977": {
       "motivo": "Verificar qué empaque corresponde al código indicado como bolsa nueva.",
@@ -3240,6 +3477,18 @@
       "nombre": "Salchichón sin chile (unidad)",
       "motivo": "Falta confirmar la marca y el tamaño de la unidad sin chile."
     },
+    "22670": {
+      "nombre": "Seltzer Spark Raspbex 350 ml",
+      "motivo": "Las fichas dicen Raspberry de 350 ml, pero la imagen comercial rotula el sabor como fresa y el nombre de la lata no se lee con claridad. Hace falta un frente legible de la variante del POS."
+    },
+    "22671": {
+      "nombre": "Seltzer Spark Raspbex naked 350 ml",
+      "motivo": "El catálogo comercial muestra Spark Naked sin sabor, con 350 ml en la foto y 355 ml en el título. Hace falta confirmar si el código del POS corresponde a Naked sin sabor o a Raspberry."
+    },
+    "22672": {
+      "nombre": "Seltzer Triple Berry 350 ml",
+      "motivo": "La Gaceta identifica la marca Spark Triple Berry. Falta una foto verificable de la lata de 350 ml."
+    },
     "22748": {
       "nombre": "Salsa pico de gallo Kerns 385 g",
       "motivo": "Se encontraron salsa de tomate Kern’s de 385 g y salsa Chunky en otras medidas. Falta verificar una foto de pico de gallo Kern’s de 385 g."
@@ -3283,6 +3532,26 @@
     "23486": {
       "nombre": "Tang guayaba 13 g",
       "motivo": "La variante de Nicaragua que se localizó dice piña y guayaba. Falta confirmar si coincide con el sobre registrado como guayaba."
+    },
+    "23586": {
+      "nombre": "Toña botella 350 ml",
+      "motivo": "Hay fotos de Toña de 350 ml desechable y fichas de 12 oz retornable. Hace falta distinguir qué botella corresponde a este código."
+    },
+    "23589": {
+      "nombre": "Toña lata Chelada 350 ml",
+      "motivo": "La foto local muestra Chelada Limón y Sal bajo una ficha titulada Michelada. Las fuentes alternas no confirman de forma legible el volumen de esta lata. Hace falta confirmar el envase de 350 ml."
+    },
+    "23591": {
+      "nombre": "Toña Light 350 ml",
+      "motivo": "Se encontró Toña Light en botella de 350 ml, pero la fuente no permite distinguirla de la presentación desechable con código separado. Hace falta confirmar si esta es retornable o en lata."
+    },
+    "23595": {
+      "nombre": "Victoria Clásica botella",
+      "motivo": "La Colonia muestra Victoria Clásica en botella de 12 oz y hay otro código para Victoria Clásica de 350 ml. Hace falta confirmar el volumen y si este código corresponde a la retornable."
+    },
+    "23600": {
+      "nombre": "Victoria Frost lata 350 ml",
+      "motivo": "CCN confirma Victoria Frost en lata de 350 ml. La foto frontal del comercio agrega una etiqueta errónea de 125 g. Hace falta una toma frontal donde se pueda verificar el volumen correcto."
     },
     "23950": {
       "nombre": "Torti Chips chile 16 g",
@@ -3359,6 +3628,10 @@
     "24949": {
       "nombre": "Hielo (bolsa 5 lb)",
       "motivo": "Se encontró hielo de 5 lb de una marca específica, pero el POS no identifica la marca. Las fotos reutilizables revisadas muestran moldes o paquetes de otro formato. Hace falta una foto de la bolsa que vende la tienda."
+    },
+    "24957": {
+      "nombre": "Victoria Selección Maestro 350 ml",
+      "motivo": "Una ficha de Victoria Selección Maestro de 350 ml muestra el cartón de 24. La botella individual disponible en otra ficha figura como 355 ml. Hace falta confirmar el volumen del envase individual."
     },
     "24969": {
       "nombre": "Merendina fresa (unidad)",
