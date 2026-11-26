@@ -1,5 +1,5 @@
 // Pedidos MiMarket valida el catálogo al abrir y guarda una copia para cuando se pierde la conexión.
-const CACHE = 'mimarket-202611252159';
+const CACHE = 'mimarket-202611252212';
 const BASE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './destacados.css', './destacados.js', './img/catalogo/fotos.json'];
 
 self.addEventListener('install', event => {
@@ -19,7 +19,7 @@ self.addEventListener('activate', event => {
 
 self.addEventListener('fetch', event => {
   const request = event.request;
-  if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin) return;
+  if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin || new URL(request.url).searchParams.has('v')) return;
 
   const navigation = request.mode === 'navigate';
   const revalidate = navigation || ['script', 'style'].includes(request.destination);

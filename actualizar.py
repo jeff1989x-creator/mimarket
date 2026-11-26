@@ -24,7 +24,7 @@ self.addEventListener('activate', event => {{
 
 self.addEventListener('fetch', event => {{
   const request = event.request;
-  if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin) return;
+  if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin || new URL(request.url).searchParams.has('v')) return;
 
   const navigation = request.mode === 'navigate';
   const revalidate = navigation || ['script', 'style'].includes(request.destination);
