@@ -630,6 +630,24 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "17352": {
+      "nombre": "De La Granja 1 L",
+      "archivo": "img/catalogo/17352.webp",
+      "fuente": "https://www.walmart.com.ni/jugo-de-la-granja-naranja-pulp-1000ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17353": {
+      "nombre": "De La Granja 270 ml",
+      "archivo": "img/catalogo/17353.webp",
+      "fuente": "https://www.walmart.com.ni/jugo-de-la-granja-naranja-270ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17358": {
       "nombre": "Del Valle limón 500 ml",
       "archivo": "img/catalogo/17358.webp",
@@ -711,6 +729,42 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "18205": {
+      "nombre": "Ensa blanca 12 oz (vidrio)",
+      "archivo": "img/catalogo/18205.webp",
+      "fuente": "https://distribuidorajiron.com.ni/es/soda-gaseosa/445-ensa-12-oz.html",
+      "autor": "Distribuidora Jirón",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18211": {
+      "nombre": "Ensa toronja 2 L",
+      "archivo": "img/catalogo/18211.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-carnonatada-ensa-toronja-2000ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18214": {
+      "nombre": "Ensa toronja 500 ml",
+      "archivo": "img/catalogo/18214.webp",
+      "fuente": "https://www.launion.com.ni/bebida-gaseosa-ensa-sabor-toronja-el-experto-en-burbujas-500-ml/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18216": {
+      "nombre": "Ensa uva 355 ml",
+      "archivo": "img/catalogo/18216.webp",
+      "fuente": "https://www.launion.com.ni/bebida-carbonatada-ensa-uva-355-ml-1/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18220": {
       "nombre": "Fanta naranja 2 L",
       "archivo": "img/catalogo/18220.webp",
@@ -725,6 +779,60 @@
       "archivo": "img/catalogo/18221.webp",
       "fuente": "https://www.walmart.com.ni/refresco-gaseosa-fanta-naranja-3000ml/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18222": {
+      "nombre": "Fanta naranja 355 ml",
+      "archivo": "img/catalogo/18222.webp",
+      "fuente": "https://compreloadomicilio.com/ni/producto/refrescos/fanta-naranja-355-ml-86350",
+      "autor": "Súper Empalme (Cómprelo a Domicilio)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18224": {
+      "nombre": "Fanta naranja ½ L",
+      "archivo": "img/catalogo/18224.webp",
+      "fuente": "https://www.walmart.com.ni/fanta-naranja-500ml-pet-0/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18228": {
+      "nombre": "Fanta roja 3 L",
+      "archivo": "img/catalogo/18228.webp",
+      "fuente": "https://tunicaragua.com/index.php/es/component/virtuemart/?view=productdetails&virtuemart_category_id=842&virtuemart_product_id=12739",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18229": {
+      "nombre": "Fanta roja 355 ml",
+      "archivo": "img/catalogo/18229.webp",
+      "fuente": "https://www.tunicaragua.com/index.php/es/hogar?view=productdetails&virtuemart_category_id=842&virtuemart_product_id=12740",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18231": {
+      "nombre": "Fanta roja ½ L",
+      "archivo": "img/catalogo/18231.webp",
+      "fuente": "https://www.walmart.com.ni/refresco-fanta-roja-gaseoso-pet-500-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18233": {
+      "nombre": "Fanta uva 3 L",
+      "archivo": "img/catalogo/18233.webp",
+      "fuente": "https://www.masxmenos.cr/fanta-uva-3000ml-pet/p",
+      "autor": "Más x Menos Costa Rica",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -783,6 +891,24 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "18578": {
+      "nombre": "D'Frutta manzana 355 ml",
+      "archivo": "img/catalogo/18578.webp",
+      "fuente": "https://www.walmart.com.ni/dfrutta-jugo-de-manana-355ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18587": {
+      "nombre": "D'Frutta sandía 355 ml",
+      "archivo": "img/catalogo/18587.webp",
+      "fuente": "https://www.launion.com.ni/dfrutta-jugo-de-sandia-355ml/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18655": {
       "nombre": "Electrolit fresa 625 ml",
       "archivo": "img/catalogo/18655.webp",
@@ -837,6 +963,15 @@
       "nombre": "Guayaba (unidad)",
       "referencia": true
     },
+    "18985": {
+      "nombre": "Fresca toronja 2 L",
+      "archivo": "img/catalogo/18985.webp",
+      "fuente": "https://elgranvv.com/en-us/products/fresca-grapefruit-carbonated-beverage-2-l",
+      "autor": "El Gran Valle Verde",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18986": {
       "nombre": "Fresca toronja 3 L",
       "archivo": "img/catalogo/18986.webp",
@@ -854,6 +989,15 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": true
+    },
+    "19325": {
+      "nombre": "Fresco de cacao La Perfecta 473 ml",
+      "archivo": "img/catalogo/19325.webp",
+      "fuente": "https://www.walmart.com.ni/leche-la-perfecta-frescocacao-473ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "19335": {
       "nombre": "Frijol rojo volteado Natura 380 g",
@@ -918,6 +1062,15 @@
       "nombre": "Manzana roja (unidad)",
       "referencia": true
     },
+    "19875": {
+      "nombre": "Jugazzo manzana (lata)",
+      "archivo": "img/catalogo/19875.webp",
+      "fuente": "https://www.walmart.com.ni/jugazzo-petit-manzana-lata-330ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19960": {
       "nombre": "Leche Nido 1+ 1.6 kg",
       "archivo": "img/catalogo/19960.webp",
@@ -967,6 +1120,42 @@
       "nombre": "Leche Pinito 350 g",
       "archivo": "img/catalogo/20061.webp",
       "fuente": "https://www.walmart.com.ni/leche-en-polvo-pinito-de-350gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20216": {
+      "nombre": "Jugo Kerns frutas (lata)",
+      "archivo": "img/catalogo/20216.webp",
+      "fuente": "https://www.launion.com.ni/nectar-kerns-frutas-mixtas-lata-340ml/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20217": {
+      "nombre": "Jugo Kerns manzana 200 ml",
+      "archivo": "img/catalogo/20217.webp",
+      "fuente": "https://www.paiz.com.gt/nectar-kerns-junior-manzana-200ml/p",
+      "autor": "Paiz Guatemala",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20229": {
+      "nombre": "Jugo Tropical manzana (personal)",
+      "archivo": "img/catalogo/20229.webp",
+      "fuente": "https://www.walmart.com.ni/refresco-tropical-manzana-350ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20230": {
+      "nombre": "Jugo Tropical manzana 2.5 L",
+      "archivo": "img/catalogo/20230.webp",
+      "fuente": "https://www.walmart.com.ni/refresco-tropical-manzana-2-5lts/p",
       "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
@@ -1178,6 +1367,15 @@
       "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "nombre": "Repollo grande (unidad)",
       "referencia": true
+    },
+    "21645": {
+      "nombre": "Pepsi 2 L (retornable)",
+      "archivo": "img/catalogo/21645.webp",
+      "fuente": "https://compreloadomicilio.com/ni/producto/refrescos/pepsi-2-litros-retornable-5043",
+      "autor": "Miscelánea Xochilt (Cómprelo a Domicilio)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "21646": {
       "archivo": "img/catalogo/21646.webp",
@@ -1575,11 +1773,29 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24753": {
+      "nombre": "Raptor blueberry lata",
+      "archivo": "img/catalogo/24753.webp",
+      "fuente": "https://www.walmart.com.gt/raptor-tornad-mora-azul-blueberry-473-ml-2/p",
+      "autor": "Walmart Guatemala",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24831": {
       "nombre": "Empanizador rostizador Ya Está 3.5 oz",
       "archivo": "img/catalogo/24831.webp",
       "fuente": "https://www.instacart.com/products/3141916-yaesta-breading-seasoned-3-5-oz",
       "autor": "Instacart",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24893": {
+      "nombre": "Tropical té verde manzana 350 ml",
+      "archivo": "img/catalogo/24893.webp",
+      "fuente": "https://www.launion.com.ni/te-verde-tropical-manzana-350ml/p",
+      "autor": "La Unión Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1601,9 +1817,22 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
+    },
+    "24987": {
+      "nombre": "Café Let's Be cappuccino (lata) 240 ml",
+      "archivo": "img/catalogo/24987.webp",
+      "fuente": "https://zonatronik.com/producto/lotte-lets-be-cappuccino-240ml/",
+      "autor": "ZonaTronik",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     }
   },
   "porConfirmar": {
+    "15485": {
+      "nombre": "Azistin manzana 900 ml",
+      "motivo": "El catálogo ubica este código en Bebidas, pero dos fichas nicaragüenses identifican Azistín manzana de 900 ml como desinfectante multiusos. Hace falta revisar la clasificación antes de publicar su foto."
+    },
     "15499": {
       "nombre": "Aceite chorreado (bidón)",
       "motivo": "Falta una foto del bidón que se usa en tienda. Las fichas encontradas muestran bidones de marca y capacidades distintas."
@@ -1615,6 +1844,10 @@
     "15516": {
       "motivo": "Confirmar si la porción es achiote en pasta, molido o en semilla.",
       "nombre": "Achiote (porción de C$ 5)"
+    },
+    "15531": {
+      "nombre": "Adrenalina pequeña",
+      "motivo": "Se encontraron presentaciones locales de Adrenaline Rush de 296 ml y de 10,5 oz. Falta confirmar qué tamaño y envase vende la tienda como pequeña."
     },
     "15727": {
       "nombre": "Ablandador McCormick 6 g (sobre)",
@@ -1728,6 +1961,10 @@
       "nombre": "Coca Cola 2 L (retornable)",
       "motivo": "La ficha local distingue la presentación retornable de 2 L. Hace falta una foto abierta y legible en la que pueda verificarse el envase retornable."
     },
+    "17356": {
+      "nombre": "Del Valle Fresh 3 L",
+      "motivo": "El nombre del POS no indica sabor. Las fichas de 3 L muestran variantes como naranja, cítricos y ponche de frutas. Falta confirmar la variante vendida."
+    },
     "17830": {
       "nombre": "Crema criolla",
       "motivo": "Falta confirmar si la crema criolla se vende a granel o en un empaque específico y conseguir una foto de esa presentación."
@@ -1740,9 +1977,17 @@
       "nombre": "Deporade uva 360 ml",
       "motivo": "Las fichas encontradas alternan los nombres Deporade y Sporade. La foto disponible muestra un paquete que dificulta leer la botella individual. Falta confirmar etiqueta y presentación."
     },
+    "18225": {
+      "nombre": "Fanta 2 L (retornable)",
+      "motivo": "Las fichas locales de Fanta de 2 L no confirman si el envase es retornable. Falta verificar el envase y el sabor del producto de la tienda."
+    },
     "19004": {
       "nombre": "Hi-C pera (cajita) 250 ml",
       "motivo": "La foto que acompaña la ficha de Hi-C pera de 250 ml muestra una caja Del Valle Fresh. Hace falta una foto de la caja con la marca Hi-C."
+    },
+    "19320": {
+      "nombre": "Fresca toronja 355 ml",
+      "motivo": "Se encontraron versiones de Fresca toronja de 355 ml en lata y en botella. Falta confirmar qué envase corresponde al código del POS."
     },
     "19432": {
       "nombre": "Gelatina De La Familia fresa 450 g",
@@ -1756,6 +2001,10 @@
       "nombre": "Gelatina Nieve (paquete)",
       "motivo": "Se encontró gelatina líquida Nieve de Frutas en paquete de 32 unidades. El registro del POS no indica cuántas unidades trae el paquete de la tienda."
     },
+    "19843": {
+      "nombre": "Jugo naranja y zanahoria La Perfecta 473 ml",
+      "motivo": "Una ficha local lista la combinación de naranja y zanahoria de 473 ml. Las fotos que se pudieron abrir muestran otro sabor o tamaño. Falta verificar el frente del envase exacto."
+    },
     "19851": {
       "motivo": "Confirmar la variedad local que se registra como limón castillo.",
       "nombre": "Limón castillo (unidad)"
@@ -1768,6 +2017,10 @@
       "motivo": "Confirmar si la porción corresponde a manzanilla seca o fresca.",
       "nombre": "Manzanilla (porción de C$ 20)"
     },
+    "19891": {
+      "nombre": "Kola Shaler",
+      "motivo": "El POS indica 3.54 ml. El catálogo nicaragüense vende versiones de 354 ml y varios sabores. Falta confirmar el volumen y la variante."
+    },
     "20028": {
       "nombre": "Jamón de pavo ahumado 250 g",
       "motivo": "Se encontraron presentaciones de pavo ahumado de 250 g de FUD y Cinta Azul. Confirmar la marca del producto."
@@ -1779,6 +2032,10 @@
     "20707": {
       "nombre": "Mostaza McCormick 180 g",
       "motivo": "Hay varias variedades de mostaza McCormick de 180 g. Falta confirmar la variante asociada al código del POS."
+    },
+    "20792": {
+      "nombre": "Mirinda 1 L",
+      "motivo": "Los catálogos locales muestran Mirinda en otros volúmenes. Falta una foto legible de la presentación de 1 L que vende la tienda."
     },
     "20901": {
       "nombre": "Mortadela tubo chiltoma",
@@ -1811,6 +2068,14 @@
     "21384": {
       "motivo": "Pendiente de una foto identificable del Pan Norlan.",
       "nombre": "Pan Norlan"
+    },
+    "21643": {
+      "nombre": "Pepsi 12 oz",
+      "motivo": "La ficha local identifica Pepsi regular PET de 355 ml. La descarga de la foto devolvió un error y las demás fichas no aportaron un frente legible de esa presentación."
+    },
+    "21644": {
+      "nombre": "Pepsi 12 oz (vidrio)",
+      "motivo": "Se confirmó que una agencia local ofrece Pepsi en vidrio. La foto legible de 12 oz corresponde a Pepsi mexicana. Falta verificar visualmente la botella vendida en Nicaragua."
     },
     "21801": {
       "nombre": "Piezas mixtas marinadas Kimby (libra)",
@@ -1852,6 +2117,14 @@
       "nombre": "Sopa Laky camarón (vaso)",
       "motivo": "El fabricante distingue el vaso regular de 64 g del Jumbo de 75 g y del sabor camarón picante. Las fotos revisadas muestran el Jumbo o la variante picante. Falta verificar el vaso regular de camarón."
     },
+    "23159": {
+      "nombre": "Splash V8 fresa y mora 473 ml",
+      "motivo": "La foto del envase de 473 ml dice Berry Blend, mientras el POS indica fresa y mora. Falta confirmar que el código corresponde a esa mezcla y no a otra variante."
+    },
+    "23413": {
+      "nombre": "Tampico citrus punch ½ L",
+      "motivo": "Una ficha nicaragüense muestra 480 ml y un catálogo de otro país indica 500 ml. Falta confirmar el volumen impreso en la botella de la tienda."
+    },
     "23484": {
       "nombre": "Tang durazno 13 g",
       "motivo": "Las fichas locales encontradas indican té de durazno. Falta confirmar si esa variante corresponde al código de la tienda."
@@ -1879,6 +2152,10 @@
     "24891": {
       "nombre": "Delisoya 3+ sin lactosa 360 g",
       "motivo": "Falta una foto legible que confirme que la bolsa Delisoy 3+ de 360 g corresponde a la variante sin lactosa."
+    },
+    "24974": {
+      "nombre": "Lepo piña 375 ml",
+      "motivo": "No apareció una foto verificable de Lepo piña en botella de 375 ml. Las fuentes alternativas muestran otras marcas o volúmenes."
     },
     "24995": {
       "nombre": "Café Agapito Díaz (bolsita 25 g)",
