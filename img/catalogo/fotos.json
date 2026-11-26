@@ -9,6 +9,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "15445": {
+      "nombre": "Agua Luna 1 L",
+      "archivo": "img/catalogo/15445.webp",
+      "fuente": "https://www.walmart.com.ni/agua-purificada-luna-pep-1000ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "15466": {
       "nombre": "Aderezo Ana Belly 215 g",
       "archivo": "img/catalogo/15466.webp",
@@ -68,6 +77,15 @@
       "archivo": "img/catalogo/15537.webp",
       "fuente": "https://www.launion.com.ni/aloe-vera-del-monte-lata-240ml/p",
       "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15540": {
+      "nombre": "AMP gris 600 ml",
+      "archivo": "img/catalogo/15540.webp",
+      "fuente": "https://lacolonia.com.ni/producto/1150753",
+      "autor": "La Colonia Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -140,6 +158,33 @@
       "archivo": "img/catalogo/15755.webp",
       "fuente": "https://compreloadomicilio.com/NI/producto/abarrotes-y-viveres/aceite-clover-500ml-4873",
       "autor": "Comprelo a Domicilio Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15939": {
+      "nombre": "Agua Fuente Pura botellón (recarga)",
+      "archivo": "img/catalogo/15939.webp",
+      "fuente": "https://www.walmart.com.ni/agua-fuente-pura-bidon-5gal/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": true
+    },
+    "15940": {
+      "nombre": "Agua Alpina 1 L",
+      "archivo": "img/catalogo/15940.webp",
+      "fuente": "https://www.launion.com.ni/agua-alpina-purificada-botella-1000-ml-ni137/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "15941": {
+      "nombre": "Agua Alpina 2 L",
+      "archivo": "img/catalogo/15941.webp",
+      "fuente": "https://www.walmart.com.ni/agua-alpina-purificada-botella-2000-ml-ni138/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -495,6 +540,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "17005": {
+      "nombre": "Cappy Infladito familiar 70 g",
+      "archivo": "img/catalogo/17005.webp",
+      "fuente": "https://www.walmart.com.ni/cappy-infladitos-75gr-7/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17189": {
       "nombre": "Brisket de res Carnic (libra)",
       "archivo": "img/catalogo/17189.webp",
@@ -666,6 +720,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "17424": {
+      "nombre": "Choys arroz Boom 50 g",
+      "archivo": "img/catalogo/17424.webp",
+      "fuente": "https://www.walmart.com.ni/chocolate-choys-con-arroz-50-g-ni47/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17447": {
       "nombre": "Chincaca de pollo (libra)",
       "archivo": "img/catalogo/17447.webp",
@@ -674,6 +737,24 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": true
+    },
+    "17481": {
+      "nombre": "Chicharrón Picositos Yummies 100 g",
+      "archivo": "img/catalogo/17481.webp",
+      "fuente": "https://www.walmart.com.ni/boquita-yummies-chicharron-picante-100gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "17483": {
+      "nombre": "Chicharrones Auténticos 100 g",
+      "archivo": "img/catalogo/17483.webp",
+      "fuente": "https://tunicaragua.com/index.php/es/esteli?view=productdetails&virtuemart_category_id=1101&virtuemart_product_id=6639",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "17504": {
       "nombre": "Salsa Lizano",
@@ -900,6 +981,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "18586": {
+      "nombre": "D'Frutta sandía 3 L",
+      "archivo": "img/catalogo/18586.webp",
+      "fuente": "https://maxipali.com.ni/accion-comercial/aqui-si-te-alcanzan-tus-reales/aqui-si-te-alcanzan-tus-reales-26-jugos-y-bebidas/sku-refresco-d-frutta-sabor-a-sandia-3000ml-743200230130",
+      "autor": "Maxi Palí Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "18587": {
       "nombre": "D'Frutta sandía 355 ml",
       "archivo": "img/catalogo/18587.webp",
@@ -981,6 +1071,33 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "18992": {
+      "nombre": "Fury Energy",
+      "archivo": "img/catalogo/18992.webp",
+      "fuente": "https://www.lacolonia.com.ni/Product/Detail/1150177/bebida-energizante-500-ml-und-fury",
+      "autor": "La Colonia Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19005": {
+      "nombre": "Hi-C té de limón 330 ml",
+      "archivo": "img/catalogo/19005.webp",
+      "fuente": "https://www.walmart.com.ni/refrescos-hi-c-te-limon-330-ml-ni103/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19007": {
+      "nombre": "Hi-C uva (cajita) 250 ml",
+      "archivo": "img/catalogo/19007.webp",
+      "fuente": "https://www.walmart.com.ni/refresco-hi-c-uva-tetra-brick-250-ml-ni99/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19065": {
       "nombre": "Hígado de pollo Tip Top (libra)",
       "archivo": "img/catalogo/19065.webp",
@@ -989,6 +1106,33 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": true
+    },
+    "19094": {
+      "nombre": "Galleta Chips Ahoy 57 g (unidad)",
+      "archivo": "img/catalogo/19094.webp",
+      "fuente": "https://www.elmachetazo.com/galleta-chips-ahoy-nabisco-57g-10011071/p",
+      "autor": "El Machetazo",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19135": {
+      "nombre": "Galleta María Pozuelo 252 g",
+      "archivo": "img/catalogo/19135.webp",
+      "fuente": "https://www.walmart.com.ni/galleta-pozuelo-maria-12-unidades-252gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19169": {
+      "nombre": "Galleta Ritz con queso 34 g",
+      "archivo": "img/catalogo/19169.webp",
+      "fuente": "https://www.doitcenter.com.pa/productos/ritz-queso-galletas-saladas-re-ritz-confiteria-md534-439md349",
+      "autor": "Do it Center Panamá",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
     },
     "19325": {
       "nombre": "Fresco de cacao La Perfecta 473 ml",
@@ -1179,6 +1323,15 @@
       "nombre": "Papa (libra)",
       "referencia": true
     },
+    "20794": {
+      "nombre": "Mirinda 12 oz",
+      "archivo": "img/catalogo/20794.webp",
+      "fuente": "https://www.maxidespensa.com.gt/gaseosa-mirinda-pet-355ml-0/p",
+      "autor": "Maxi Despensa Guatemala",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "20803": {
       "nombre": "Monster Energy 473 ml",
       "archivo": "img/catalogo/20803.webp",
@@ -1229,6 +1382,15 @@
       "archivo": "img/catalogo/20910.webp",
       "fuente": "https://tanbuenoquesenota.com/ni/product/nuggis-de-pollo/",
       "autor": "Tip Top Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20960": {
+      "nombre": "Marinero almeja 250 ml",
+      "archivo": "img/catalogo/20960.webp",
+      "fuente": "https://www.launion.com.ni/coctel-marinero-de-vegetales-con-almejas-250-ml/p",
+      "autor": "La Unión Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1368,6 +1530,15 @@
       "nombre": "Repollo grande (unidad)",
       "referencia": true
     },
+    "21643": {
+      "nombre": "Pepsi 12 oz",
+      "archivo": "img/catalogo/21643.webp",
+      "fuente": "https://www.walmart.com.ni/refresco-gaseoso-pepsi-regular-pet-355ml-8/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "21645": {
       "nombre": "Pepsi 2 L (retornable)",
       "archivo": "img/catalogo/21645.webp",
@@ -1384,6 +1555,24 @@
       "licencia": "",
       "licenciaUrl": "",
       "nombre": "Pepsi 3 L",
+      "referencia": false
+    },
+    "21654": {
+      "nombre": "Power celeste 600 ml",
+      "archivo": "img/catalogo/21654.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-hidratante-powerade-avalancha-azul-600-ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21659": {
+      "nombre": "Pulp manzana 145 ml",
+      "archivo": "img/catalogo/21659.webp",
+      "fuente": "https://www.walmart.com.ni/pulp-manzana-tetra-pack-manzana-145ml-7/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
       "referencia": false
     },
     "21666": {
@@ -1409,6 +1598,15 @@
       "archivo": "img/catalogo/21671.webp",
       "fuente": "https://www.walmart.com.ni/raptor-bebida-energetica-lava-lata-473ml-8/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21673": {
+      "nombre": "Revive narandina 600 ml",
+      "archivo": "img/catalogo/21673.webp",
+      "fuente": "https://www.walmart.com.sv/bebida-revive-isotonica-mandarina-600ml/p",
+      "autor": "Walmart El Salvador",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1454,6 +1652,15 @@
       "archivo": "img/catalogo/22090.webp",
       "fuente": "https://www.tunicaragua.com/index.php/es/component/virtuemart/?view=productdetails&virtuemart_category_id=871&virtuemart_product_id=7460",
       "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22299": {
+      "nombre": "Ranchitas nachos Yummies 150 g",
+      "archivo": "img/catalogo/22299.webp",
+      "fuente": "https://www.walmart.com.ni/boquitas-yummies-nacho-exitante-150gr/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1602,6 +1809,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "23165": {
+      "nombre": "Sponch fresa 90 g",
+      "archivo": "img/catalogo/23165.webp",
+      "fuente": "https://www.walmart.com.ni/galleta-marinela-sponch-fresa-90-g/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "23393": {
       "archivo": "img/destacados/tomate.webp",
       "autor": "Glenda Green",
@@ -1625,6 +1841,15 @@
       "archivo": "img/catalogo/23396.webp",
       "fuente": "https://www.walmart.com.ni/bebida-en-polvo-tang-ponche-frutas-13gr/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23427": {
+      "nombre": "Volt ponche de frutas 625 ml",
+      "archivo": "img/catalogo/23427.webp",
+      "fuente": "https://www.ajedelivery.ni/p/volt-fruit-punch-pet-no-retornable-625-ml-12-522563",
+      "autor": "AJE Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1889,6 +2114,10 @@
       "nombre": "Big Cola roja 3 L",
       "motivo": "El fabricante en Nicaragua muestra Big Roja de 3.030 ml. Falta confirmar si el código registrado como 3 litros corresponde a esa botella."
     },
+    "16465": {
+      "nombre": "Bio Aloe uva 360 ml",
+      "motivo": "Las fichas del fabricante en Nicaragua muestran Bio Aloe natural de 360 ml. Las fuentes de uva muestran otros volúmenes. Falta confirmar una botella de uva de 360 ml."
+    },
     "16475": {
       "nombre": "Campestre 2 L",
       "motivo": "Las fichas de distribuidores muestran Campestre de 3 L y de medio galón. Hace falta verificar la botella de 2 L y su sabor."
@@ -1945,6 +2174,10 @@
       "nombre": "Sabor y Color + cúrcuma 10 g (sobre)",
       "motivo": "La ficha de Walmart muestra 5 sobres de 10 g. Falta verificar una foto legible del sobre individual de la versión con cúrcuma."
     },
+    "17297": {
+      "nombre": "Chocolate con almendras Hershey's 43 g",
+      "motivo": "La barra Hershey’s con almendras verificable es de 41 g. La barra Hershey’s de 43 g que se encontró es de chocolate con leche. Falta confirmar la presentación de 43 g con almendras."
+    },
     "17333": {
       "nombre": "Coca Cola 12 oz (vidrio)",
       "motivo": "Falta una foto que confirme en la misma botella el envase de vidrio y el contenido de 12 oz. Las fichas locales abiertas muestran botella PET o lata."
@@ -1969,6 +2202,10 @@
       "nombre": "Crema criolla",
       "motivo": "Falta confirmar si la crema criolla se vende a granel o en un empaque específico y conseguir una foto de esa presentación."
     },
+    "18086": {
+      "nombre": "Elotito con piquete 21 g",
+      "motivo": "Las fichas abiertas muestran Elotitos con Piquete de un peso mayor. Falta una foto legible de la bolsa de 21 g."
+    },
     "18094": {
       "nombre": "Empanizador Sol Maya 150 g",
       "motivo": "La foto identificable de empanizador Sol Maya corresponde a la bolsa de 100 g. Falta una imagen de la de 150 g."
@@ -1984,6 +2221,14 @@
     "19004": {
       "nombre": "Hi-C pera (cajita) 250 ml",
       "motivo": "La foto que acompaña la ficha de Hi-C pera de 250 ml muestra una caja Del Valle Fresh. Hace falta una foto de la caja con la marca Hi-C."
+    },
+    "19136": {
+      "nombre": "Galleta María (tubo) 135 g",
+      "motivo": "Hay varios tubos de galletas María de 135 g de marcas distintas. Falta confirmar cuál vende la tienda."
+    },
+    "19145": {
+      "nombre": "Galleta Oreo (paquete de 12)",
+      "motivo": "Las fichas indican 12 unidades, pero una imagen muestra un sobre individual. Falta confirmar el tamaño de cada sobre y el empaque exterior del paquete de la tienda."
     },
     "19320": {
       "nombre": "Fresca toronja 355 ml",
@@ -2065,13 +2310,21 @@
       "nombre": "Mayonesa Regia reducida en lípidos 175 g",
       "motivo": "Hay fichas de mayonesa Regia de 175 g sin una etiqueta legible que confirme que es la reducida en lípidos."
     },
+    "21367": {
+      "nombre": "Palomitas queso Yummies 30 g",
+      "motivo": "Las fichas disponibles muestran palomitas Yummies de queso de 120 g. Falta verificar la bolsa de 30 g."
+    },
     "21384": {
       "motivo": "Pendiente de una foto identificable del Pan Norlan.",
       "nombre": "Pan Norlan"
     },
-    "21643": {
-      "nombre": "Pepsi 12 oz",
-      "motivo": "La ficha local identifica Pepsi regular PET de 355 ml. La descarga de la foto devolvió un error y las demás fichas no aportaron un frente legible de esa presentación."
+    "21583": {
+      "nombre": "Ranchitas nacho queso 25 g",
+      "motivo": "El fabricante enumera Ranchitas Nacho Queso de 25 g. Las fotos abiertas muestran bolsas de otro peso. Falta una imagen legible del empaque de 25 g."
+    },
+    "21586": {
+      "nombre": "Pasas Sol Maya 45 g",
+      "motivo": "Los catálogos de Sol Maya muestran pasas de 70 g, 150 g y otros pesos. Falta una foto verificable del empaque de 45 g."
     },
     "21644": {
       "nombre": "Pepsi 12 oz (vidrio)",
@@ -2121,6 +2374,10 @@
       "nombre": "Splash V8 fresa y mora 473 ml",
       "motivo": "La foto del envase de 473 ml dice Berry Blend, mientras el POS indica fresa y mora. Falta confirmar que el código corresponde a esa mezcla y no a otra variante."
     },
+    "23164": {
+      "nombre": "Sponch chocolate 90 g",
+      "motivo": "La ficha local indica 90 g, pero el gráfico de la foto muestra 220 ml y no deja leer el peso del empaque. Falta comprobar el frente de la bolsa de 90 g."
+    },
     "23413": {
       "nombre": "Tampico citrus punch ½ L",
       "motivo": "Una ficha nicaragüense muestra 480 ml y un catálogo de otro país indica 500 ml. Falta confirmar el volumen impreso en la botella de la tienda."
@@ -2133,9 +2390,25 @@
       "nombre": "Tang guayaba 13 g",
       "motivo": "La variante de Nicaragua que se localizó dice piña y guayaba. Falta confirmar si coincide con el sobre registrado como guayaba."
     },
+    "23950": {
+      "nombre": "Torti Chips chile 16 g",
+      "motivo": "Las fotos de Torti Chips muestran otros gramajes. Falta confirmar el empaque de chile de 16 g."
+    },
+    "24185": {
+      "nombre": "Zambos ceviche Yummies 21 g",
+      "motivo": "El fabricante lista Zambos Ceviche de 21 g junto a otros pesos. En la foto abierta no se distingue el gramaje. Falta comprobar que corresponde a 21 g."
+    },
+    "24522": {
+      "nombre": "Takis original 49 g",
+      "motivo": "Se encontró una tienda que lista Takis Original de 49 g. Las fotos legibles revisadas son de otros pesos. Falta la foto del empaque de 49 g."
+    },
     "24702": {
       "nombre": "Café instantáneo Coex (sobre)",
       "motivo": "Hace falta confirmar el gramaje y la variante del sobre individual de café Coex."
+    },
+    "24731": {
+      "nombre": "Palomitas Pops chile Yummies 30 g",
+      "motivo": "Las fotos encontradas no permiten verificar que sea la bolsa Yummies Pops sabor chile de 30 g."
     },
     "24829": {
       "nombre": "Aceite Ambar 180 ml",
@@ -2152,6 +2425,10 @@
     "24891": {
       "nombre": "Delisoya 3+ sin lactosa 360 g",
       "motivo": "Falta una foto legible que confirme que la bolsa Delisoy 3+ de 360 g corresponde a la variante sin lactosa."
+    },
+    "24949": {
+      "nombre": "Hielo (bolsa 5 lb)",
+      "motivo": "Se encontró hielo de 5 lb de una marca específica, pero el POS no identifica la marca. Las fotos reutilizables revisadas muestran moldes o paquetes de otro formato. Hace falta una foto de la bolsa que vende la tienda."
     },
     "24974": {
       "nombre": "Lepo piña 375 ml",
