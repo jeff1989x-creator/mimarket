@@ -123,6 +123,8 @@ details.seg summary{cursor:pointer;font-weight:800;list-style:none}details.seg s
 .ofb{display:inline-block;background:var(--r);color:#fff;border-radius:6px;padding:0 6px;font-size:12px;font-weight:800;margin-left:4px;vertical-align:1px}
 #toast{position:fixed;left:50%;top:12px;transform:translate(-50%,-140%);z-index:90;background:#111;color:#fff;border-radius:12px;padding:10px 14px;font-weight:700;font-size:14px;box-shadow:0 8px 24px #0005;transition:transform .25s;max-width:92vw}
 #toast.on{transform:translate(-50%,0)}#toast button{min-height:34px;margin-left:8px;background:var(--o);color:#111;padding:0 10px}
+.prod.cmb{flex-wrap:wrap;row-gap:8px}.prod.cmb .n{flex:1 1 calc(100% - 60px)}.prod.cmb .price{margin-left:52px}
+.dcard .wt{display:block}
 @media(prefers-reduced-motion:reduce){.slip{transition:none!important}}
 </style>
 <link rel="manifest" href="manifest.webmanifest">
@@ -225,6 +227,12 @@ const P=[[15524, "Banano (unidad)", 4, "Verduras y frutas", "banano", false, fal
 const OFE={"21646": {"d": 9}, "20980": {"d": 10}, "22557": {"d": 10}, "16309": {"d": 8}, "20976": {"d": 10, "n": 3}, "20973": {"d": 10, "n": 3}, "20977": {"d": 10, "n": 3}, "16165": {"d": 14, "n": 2}, "16166": {"d": 14, "n": 2}, "21846": {"d": 10, "n": 4}},OFE_HASTA='2026-12-31';
 function aplicaOf(p){delete p.of;const hoy=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Managua'}).format(new Date());if(hoy>OFE_HASTA)return;const o=OFE[p.id];if(!o||p.w||!(o.d>0&&o.d<100))return;p.of=o}
 P.forEach(aplicaOf);
+const COMBOS=[{"id": "c1", "n": "Combo Desayuno nica", "d": 10, "it": [[21384, 1], [19802, 6], [17830, 1], [16921, 2]]}, {"id": "c2", "n": "Combo Almuerzo listo", "d": 10, "it": [[20888, 1], [16121, 2], [17241, 2], [17335, 1]]}, {"id": "c3", "n": "Combo Cervecero", "d": 13, "it": [[23588, 8], [24187, 4]]}, {"id": "c4", "n": "Combo Despensa", "d": 9, "it": [[16123, 1], [15583, 1], [15750, 1], [19335, 1], [21010, 1], [17241, 5]]}, {"id": "c5", "n": "Combo Limpieza", "d": 8, "it": [[18277, 1], [17263, 1], [19778, 1]]}];
+const C=COMBOS.map(c=>({...c,s:'Combos',combo:true,w:false}));
+function cRefresh(){for(const c of C){c.parts=c.it.map(([id,q])=>({p:P.find(x=>x.id===id),q}));c.o=c.parts.some(x=>!x.p||x.p.o);c.full=c.parts.reduce((a,x)=>a+(x.p?x.p.p*x.q:0),0);c.p=Math.round(c.full*(100-c.d))/100}}
+cRefresh();
+const getP=id=>P.find(x=>String(x.id)===String(id))||C.find(x=>x.id===id);
+const cTxt=c=>c.parts.map(x=>`${x.q} ${x.p?x.p.n.replace(/\s*\((unidad|sobre|sobrecito|empacado|botella|rollo)\)/,''):'?'}`).join(' · ');
 const ofP=p=>Math.round(p.p*(100-p.of.d))/100;
 const lt=i=>i.of&&i.c>=(i.of.n||1)?Math.round(i.p*i.c*(100-i.of.d))/100:i.p*i.c;
 const ok=p=>p&&!p.o;
@@ -234,24 +242,24 @@ const pq=(c,w)=>w?(Math.floor(c)?Math.floor(c):'')+(c%1?'½':'')+' lb':c;
 const DEST=[23588, 19802, 16098, 21796, 21384, 15524, 17335, 15969, 23393, 21798, 22664, 21667];
 const SECS=['Verduras y frutas','Carnes','Abarrotes','Panadería','Bebidas','Cervezas y licores','Helados y lácteos','Dulces y snacks','Farmacia','Limpieza y aseo','Hogar y mascotas','Otros'];
 const $=s=>document.querySelector(s);
-const SICON={'Todo':'🛒','Favoritos':'❤️','Ofertas':'🔥','Verduras y frutas':'🥬','Carnes':'🍗','Abarrotes':'🍚','Panadería':'🍞','Bebidas':'🥤','Cervezas y licores':'🍺','Helados y lácteos':'🍦','Dulces y snacks':'🍬','Farmacia':'💊','Limpieza y aseo':'🧼','Hogar y mascotas':'🐾','Otros':'🛍️'};
+const SICON={'Todo':'🛒','Favoritos':'❤️','Ofertas':'🔥','Combos':'🎁','Verduras y frutas':'🥬','Carnes':'🍗','Abarrotes':'🍚','Panadería':'🍞','Bebidas':'🥤','Cervezas y licores':'🍺','Helados y lácteos':'🍦','Dulces y snacks':'🍬','Farmacia':'💊','Limpieza y aseo':'🧼','Hogar y mascotas':'🐾','Otros':'🛍️'};
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
 const cs=n=>{n=Number(n||0);return 'C$ '+n.toLocaleString('es-NI',{minimumFractionDigits:n%1?2:0,maximumFractionDigits:2})};
 const ls={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch{}}};
 let LOC=ls.get('mm.loc',null),locMsg='';
 let cart=ls.get('mm.cart',{}),sec='Todo',vacArm=false,vacT=0,fav=ls.get('mm.fav',[]).filter(id=>P.some(p=>p.id===id)),editDat=false;
 P.sort((a,b)=>SECS.indexOf(a.s)-SECS.indexOf(b.s)||a.n.localeCompare(b.n));
-const items=()=>Object.entries(cart).map(([id,c])=>{const p=P.find(x=>String(x.id)===id);return ok(p)&&c>0?{...p,c}:null}).filter(Boolean);
+const items=()=>Object.entries(cart).map(([id,c])=>{const p=getP(id);return ok(p)&&c>0?{...p,c}:null}).filter(Boolean);
 const tot=it=>{const sub=Math.round(it.reduce((a,i)=>a+lt(i),0)*100)/100;const env=it.length&&!(GRATIS&&sub>=GRATIS)?ENVIO:0;return{sub,env,total:sub+env,aprox:it.some(i=>i.w)}};
-const prH=p=>p.of?(p.of.n>1?`${cs(p.p)}<span class="ofb">-${p.of.d}% llevando ${p.of.n}+</span>`:`<s class="old">${cs(p.p)}</s>${cs(ofP(p))}<span class="ofb">-${p.of.d}%</span>`):`${cs(p.p)}${p.w?'<small>/lb</small>':''}`;
-const card=(p,tag,cls)=>{const c=cart[p.id]||0;return `<div class="dcard"><div class="tag${cls}">${tag}</div><div class="nm">${esc(p.n)}${p.w?'<small class="wt">por libra</small>':''}</div><div class="ft"><span class="price">${prH(p)}</span><div class="step">${c?`<button class="m" data-dec="${p.id}" aria-label="Quitar uno">−</button><b>${pq(c,p.w)}</b>`:''}<button data-inc="${p.id}" aria-label="Agregar ${esc(p.n)}">+</button></div></div></div>`};
+const prH=p=>p.combo?`<s class="old">${cs(p.full)}</s>${cs(p.p)}<span class="ofb">-${p.d}%</span>`:p.of?(p.of.n>1?`${cs(p.p)}<span class="ofb">-${p.of.d}% llevando ${p.of.n}+</span>`:`<s class="old">${cs(p.p)}</s>${cs(ofP(p))}<span class="ofb">-${p.of.d}%</span>`):`${cs(p.p)}${p.w?'<small>/lb</small>':''}`;
+const card=(p,tag,cls)=>{const c=cart[p.id]||0;return `<div class="dcard"><div class="tag${cls}">${tag}</div><div class="nm">${esc(p.n)}${p.w?'<small class="wt">por libra</small>':''}${p.combo?`<small class="wt">${esc(cTxt(p))}</small>`:''}</div><div class="ft"><span class="price">${prH(p)}</span><div class="step">${c?`<button class="m" data-dec="${p.id}" aria-label="Quitar uno">−</button><b>${pq(c,p.w)}</b>`:''}<button data-inc="${p.id}" aria-label="Agregar ${esc(p.n)}">+</button></div></div></div>`};
 const railH=(k,t,l,tag,cls)=>l.length?`<div class="dhd"><h3>${t}</h3><div class="dnav"><button type="button" data-rail="-1" data-r="${k}" aria-label="Anteriores">‹</button><button type="button" data-rail="1" data-r="${k}" aria-label="Siguientes">›</button></div></div><div class="rail" data-k="${k}" tabindex="0" aria-label="${esc(t)}">${l.map(p=>card(p,tag,cls)).join('')}</div>`:'';
 function dest(){const show=!$('#q').value.trim()&&sec==='Todo';const box=$('#dest');if(!show){box.innerHTML='';return}
   const keep={};box.querySelectorAll('.rail').forEach(r=>keep[r.dataset.k]=r.scrollLeft);
   const fl=fav.map(id=>P.find(p=>p.id===id)).filter(ok),dl=DEST.map(id=>P.find(p=>p.id===id)).filter(ok);
-  const ol=P.filter(p=>p.of&&!p.o);box.innerHTML=railH('o','🔥 Ofertas',ol,'🔥 Oferta',' of')+railH('f','❤️ Mis favoritos',fl,'♥ Favorito',' fv')+railH('d','Destacados',dl,'★ Más vendido','');
+  const ol=P.filter(p=>p.of&&!p.o),cl=C.filter(c=>!c.o);box.innerHTML=railH('c','🎁 Combos',cl,'🎁 Combo',' of')+railH('o','🔥 Ofertas',ol,'🔥 Oferta',' of')+railH('f','❤️ Mis favoritos',fl,'♥ Favorito',' fv')+railH('d','Destacados',dl,'★ Más vendido','');
   box.querySelectorAll('.rail').forEach(r=>{r.scrollLeft=keep[r.dataset.k]||0;r.addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key==='ArrowLeft'){e.preventDefault();r.scrollBy({left:(e.key==='ArrowRight'?1:-1)*170,behavior:'smooth'})}})})}
-function chips(){const have=new Set(P.map(p=>p.s));if(sec==='Favoritos'&&!fav.length)sec='Todo';$('#chips').innerHTML=['Todo',...(P.some(p=>p.of)?['Ofertas']:[]),...(fav.length?['Favoritos']:[]),...SECS.filter(s=>have.has(s))].map(s=>`<button data-sec="${esc(s)}" aria-pressed="${s===sec}">${s==='Todo'?'🏠 Inicio':(SICON[s]||'')+' '+esc(s)}</button>`).join('')}
+function chips(){const have=new Set(P.map(p=>p.s));if(sec==='Favoritos'&&!fav.length)sec='Todo';$('#chips').innerHTML=['Todo',...(C.length?['Combos']:[]),...(P.some(p=>p.of)?['Ofertas']:[]),...(fav.length?['Favoritos']:[]),...SECS.filter(s=>have.has(s))].map(s=>`<button data-sec="${esc(s)}" aria-pressed="${s===sec}">${s==='Todo'?'🏠 Inicio':(SICON[s]||'')+' '+esc(s)}</button>`).join('')}
 const norm=t=>String(t).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
 const stem=w=>w.length>4&&w.endsWith('es')?w.slice(0,-2):w.length>3&&w.endsWith('s')?w.slice(0,-1):w;
 const TAGS={'Verduras y frutas':'verdura fruta vegetal','Carnes':'carne embutido','Abarrotes':'abarrote grano basico despensa','Panadería':'pan panaderia','Bebidas':'bebida refresco gaseosa soda jugo fresco','Cervezas y licores':'cerveza birra licor trago chela','Helados y lácteos':'lacteo leche helado','Dulces y snacks':'dulce golosina confite caramelo chicle snack','Farmacia':'farmacia medicina medicamento pastilla dolor fiebre','Limpieza y aseo':'limpieza aseo higiene bano lavar ropa','Hogar y mascotas':'hogar mascota perro gato','Otros':''};
@@ -262,15 +270,15 @@ function hl(name,toks){const nn=norm(name);const marks=[];for(const t of toks){c
   if(!marks.length)return esc(name);marks.sort((a,b)=>a[0]-b[0]);let out='',pos=0;for(const[a,b]of marks){if(a<pos)continue;out+=esc(name.slice(pos,a))+'<mark>'+esc(name.slice(a,b))+'</mark>';pos=b}return out+esc(name.slice(pos))}
 const POP=['Huevos','Arroz','Pollo','Toña','Coca Cola','Agua','Pan','Leche','Tomate','Azúcar'];
 function list(){const raw=$('#q').value.trim();const words=norm(raw).split(/\s+/).filter(Boolean);const toks=words.map(stem);$('#qx').hidden=!raw;
-  let l=P.filter(p=>toks.length?match(p,toks):(sec==='Todo'||(sec==='Favoritos'?fav.includes(p.id):sec==='Ofertas'?!!p.of:p.s===sec)));
+  let l=(!toks.length&&sec==='Combos')?[...C]:P.filter(p=>toks.length?match(p,toks):(sec==='Todo'||(sec==='Favoritos'?fav.includes(p.id):sec==='Ofertas'?!!p.of:p.s===sec)));
   if(toks.length){const sc=p=>{const nw=p.nn.split(/[^a-z0-9%ñ]+/).map(stem);return toks.reduce((a,q)=>a+(nw.some(w=>w.startsWith(q))?3:p.nn.includes(q)?1:0),0)};l=l.map(p=>[sc(p),p]).sort((a,b)=>b[0]-a[0]).map(x=>x[1])}
   const home=!toks.length&&sec==='Todo';$('#chips').hidden=home;
-  $('#tiles').innerHTML=home?`<div class="dhd"><h3>Secciones</h3></div><div class="tiles">${P.some(p=>p.of&&!p.o)?`<button type="button" class="tile" data-sec="Ofertas"><span>🔥</span>Ofertas<small>hasta el 31 de dic.</small></button>`:''}${SECS.filter(x=>SECN(x)).map(x=>`<button type="button" class="tile" data-sec="${esc(x)}"><span>${SICON[x]}</span>${esc(x)}<small>${SECN(x)} ${SECN(x)===1?'producto':'productos'}</small></button>`).join('')}</div>`:'';
+  $('#tiles').innerHTML=home?`<div class="dhd"><h3>Secciones</h3></div><div class="tiles">${C.some(c=>!c.o)?`<button type="button" class="tile" data-sec="Combos"><span>🎁</span>Combos<small>ahorra hasta 13 %</small></button>`:''}${P.some(p=>p.of&&!p.o)?`<button type="button" class="tile" data-sec="Ofertas"><span>🔥</span>Ofertas<small>hasta el 31 de dic.</small></button>`:''}${SECS.filter(x=>SECN(x)).map(x=>`<button type="button" class="tile" data-sec="${esc(x)}"><span>${SICON[x]}</span>${esc(x)}<small>${SECN(x)} ${SECN(x)===1?'producto':'productos'}</small></button>`).join('')}</div>`:'';
   if(home){$('#info').innerHTML='';$('#list').innerHTML='';dest();return}
   $('#info').innerHTML=toks.length?`<div class="info"><span>${l.length} ${l.length===1?'producto':'productos'} para “${esc(raw)}”</span><button type="button" data-clear="1">Borrar</button></div>`
-    :`<div class="info"><span>${sec==='Ofertas'?`🔥 Ofertas hasta el 31 de diciembre`:sec==='Favoritos'?'❤️ Mis favoritos':(SICON[sec]||'')+' '+esc(sec)} · ${l.length}</span><button type="button" data-sec="Todo">← Inicio</button></div>`;
+    :`<div class="info"><span>${sec==='Combos'?`🎁 Combos hasta el 31 de diciembre`:sec==='Ofertas'?`🔥 Ofertas hasta el 31 de diciembre`:sec==='Favoritos'?'❤️ Mis favoritos':(SICON[sec]||'')+' '+esc(sec)} · ${l.length}</span><button type="button" data-sec="Todo">← Inicio</button></div>`;
   l=[...l.filter(p=>!p.o),...l.filter(p=>p.o)];
-  dest();$('#list').innerHTML=l.length?l.map(p=>{if(p.o)return `<div class="prod off" aria-disabled="true"><span class="fav" aria-hidden="true"></span><div class="n">${toks.length?hl(p.n,toks):esc(p.n)}</div><span class="na">No disponible</span></div>`;const c=cart[p.id]||0;const f=fav.includes(p.id);return `<div class="prod"><button type="button" class="fav" data-fav="${p.id}" aria-pressed="${f}" aria-label="${f?'Quitar de favoritos':'Guardar en favoritos'}: ${esc(p.n)}">${f?'♥':'♡'}</button><div class="n">${toks.length?hl(p.n,toks):esc(p.n)}${p.w?'<small class="wt">por libra</small>':''}</div><span class="price">${prH(p)}</span><div class="step">${c?`<button class="m" data-dec="${p.id}" aria-label="Quitar uno">−</button><b>${pq(c,p.w)}</b>`:''}<button data-inc="${p.id}" aria-label="Agregar ${esc(p.n)}">+</button></div></div>`}).join(''):`<div class="empty">No encontramos “${esc(raw)}”.<br>Prueba con otra palabra o toca una de estas:<div class="sug" style="justify-content:center">${POP.slice(0,6).map(w=>`<button type="button" data-try="${esc(w)}">${esc(w)}</button>`).join('')}</div>Si no está en la lista, escríbelo en la <b>Nota</b> del pedido y te lo conseguimos.</div>`}
+  dest();$('#list').innerHTML=l.length?l.map(p=>{if(p.o)return `<div class="prod off" aria-disabled="true"><span class="fav" aria-hidden="true"></span><div class="n">${toks.length?hl(p.n,toks):esc(p.n)}</div><span class="na">No disponible</span></div>`;const c=cart[p.id]||0;const f=fav.includes(p.id);return `<div class="prod${p.combo?' cmb':''}">${p.combo?'<span class="fav" aria-hidden="true">🎁</span>':`<button type="button" class="fav" data-fav="${p.id}" aria-pressed="${f}" aria-label="${f?'Quitar de favoritos':'Guardar en favoritos'}: ${esc(p.n)}">${f?'♥':'♡'}</button>`}<div class="n">${toks.length?hl(p.n,toks):esc(p.n)}${p.w?'<small class="wt">por libra</small>':''}${p.combo?`<small class="wt">${esc(cTxt(p))}</small>`:''}</div><span class="price">${prH(p)}</span><div class="step">${c?`<button class="m" data-dec="${p.id}" aria-label="Quitar uno">−</button><b>${pq(c,p.w)}</b>`:''}<button data-inc="${p.id}" aria-label="Agregar ${esc(p.n)}">+</button></div></div>`}).join(''):`<div class="empty">No encontramos “${esc(raw)}”.<br>Prueba con otra palabra o toca una de estas:<div class="sug" style="justify-content:center">${POP.slice(0,6).map(w=>`<button type="button" data-try="${esc(w)}">${esc(w)}</button>`).join('')}</div>Si no está en la lista, escríbelo en la <b>Nota</b> del pedido y te lo conseguimos.</div>`}
 const mob=()=>matchMedia('(max-width:860px)').matches;
 function openSlip(on){const sl=$('#slip');if(!mob()){if(on)sl.scrollIntoView({behavior:'smooth'});return}
   sl.classList.toggle('open',on);document.body.classList.toggle('lock',on);$('#bar').style.visibility=on?'hidden':'';if(on){sl.scrollTop=0;setTimeout(()=>$('#slipClose').focus(),260)}}
@@ -284,7 +292,7 @@ function extras(){const it=items(),t=tot(it);
   $('#sugg').innerHTML=sp.length?`<div class="sgb"><b>¿Te falta algo?</b>${sp.map(p=>`<div class="sgi"><span>${esc(p.n)}</span><span class="price">${prH(p)}</span><button type="button" data-inc="${p.id}" aria-label="Agregar ${esc(p.n)}">+</button></div>`).join('')}</div>`:'';
   const pg=$('#pago').value==='Transferencia';$('#trf').hidden=!pg;$('#cambioW').hidden=pg;if(pg)$('#cambio').value='';$('#trf').textContent=BANCO?'Transfiere a: '+BANCO+'. Envía el comprobante por WhatsApp; despachamos al confirmarlo.':'Te enviaremos los datos para transferir por WhatsApp. Despachamos al recibir el comprobante.'}
 function repeatBox(){const last=ls.get('mm.last',null);const box=$('#rep');if(!last||items().length){box.innerHTML='';return}
-  const okk=Object.entries(last.cart||{}).filter(([id])=>P.some(p=>String(p.id)===id&&!p.o));if(!okk.length){box.innerHTML='';return}
+  const okk=Object.entries(last.cart||{}).filter(([id])=>(getP(id)&&!getP(id).o));if(!okk.length){box.innerHTML='';return}
   const tt=okk.reduce((a,[id,c])=>a+P.find(p=>String(p.id)===id).p*c,0);
   box.innerHTML=`<div class="repb"><div><b>¿Lo mismo de la vez pasada?</b><br><span class="note">${okk.length} productos · ${cs(tt)} a precios de hoy</span></div><button type="button" id="repBtn">Repetir pedido</button></div>`}
 function datos(){const n=$('#nom').value.trim(),d=$('#dir').value.trim(),r=$('#ref').value.trim();const card=!editDat&&n&&d;
@@ -297,12 +305,14 @@ function getLoc(){if(!navigator.geolocation){locMsg='Tu teléfono no permite com
     err=>{locMsg=err.code===1?'No diste permiso. Puedes mandarla por WhatsApp después de enviar el pedido.':'No pudimos encontrarte. Revisa que el GPS esté activado o mándala por WhatsApp.';locUI()},
     {enableHighAccuracy:true,timeout:15000,maximumAge:60000})}
 function slip(){const it=items(),t=tot(it);
-  const gone=Object.keys(cart).map(id=>P.find(p=>String(p.id)===id)).filter(p=>p&&p.o);
+  const gone=Object.keys(cart).map(id=>getP(id)).filter(p=>p&&p.o);
   $('#lines').innerHTML=it.length?`<div class="lines">${it.map(i=>`<div class="ln"><button type="button" class="rm" data-rm="${i.id}" aria-label="Quitar ${esc(i.n)} del pedido">✕</button><span class="lt">${pq(i.c,i.w)} × ${esc(i.n)}</span><span class="price">${cs(lt(i))}</span></div>`).join('')}<div class="note"><span>Envío</span><span class="price">${cs(t.env)}</span></div></div><div class="tot"><span>${t.aprox?'Total aproximado':'Total'}</span><span>${cs(t.total)}</span></div>${t.aprox?'<p class="note" style="margin:6px 0 0">Los productos por libra se pesan al despachar; el total final puede variar un poco. Te confirmamos el monto por WhatsApp.</p>':''}<button type="button" class="vac" id="vac">${vacArm?'¿Seguro? Toca otra vez para vaciar':'Vaciar pedido'}</button>`:'<div class="empty">Agrega productos con el botón +</div>';
   if(gone.length)$('#lines').insertAdjacentHTML('afterbegin',`<div class="msg" style="margin:0 0 8px">⚠️ Ya no está disponible: ${gone.map(p=>esc(p.n)).join(', ')}. No se incluirá en tu pedido.</div>`);
   $('#bar').classList.toggle('on',it.length>0);$('#barTxt').textContent=`${it.length} ${it.length===1?'producto':'productos'} · ${cs(t.total)}`;$('#barTxt').style.whiteSpace='nowrap';link();extras();repeatBox()}
 function msg(){const it=items(),t=tot(it);const L=['*Pedido MiMarket a domicilio*',''];
-  for(const i of it)L.push(`${i.c}${i.w?' lb':''} x ${i.n}${i.of&&i.c>=(i.of.n||1)?` (oferta -${i.of.d}%)`:''} — ${cs(lt(i))} (#${i.id})`);
+  for(const i of it){if(i.combo){const tt=Math.round(i.p*i.c*100)/100,f=i.p/i.full;let acc=0;L.push(`🎁 ${i.c} x ${i.n} (-${i.d}%): ${cs(tt)}`);
+    i.parts.forEach((x,k)=>{const q=x.q*i.c;const ln=k===i.parts.length-1?Math.round((tt-acc)*100)/100:Math.round(x.p.p*q*f*100)/100;acc+=ln;L.push(`   ${q} x ${x.p.n} (combo) — ${cs(ln)} (#${x.p.id})`)});continue}
+  L.push(`${i.c}${i.w?' lb':''} x ${i.n}${i.of&&i.c>=(i.of.n||1)?` (oferta -${i.of.d}%)`:''} — ${cs(lt(i))} (#${i.id})`)}
   L.push('',`Subtotal: ${cs(t.sub)}`,`Envío: ${cs(t.env)}`,(t.aprox?`*Total aproximado: ${cs(t.total)}*`:`*Total: ${cs(t.total)}*`),'',`Nombre: ${$('#nom').value.trim()}`,`Dirección: ${$('#dir').value.trim()}`,...($('#ref').value.trim()?[`Referencia: ${$('#ref').value.trim()}`]:[]),`Entrega: ${$('#hora').value}`,`Pago: ${$('#pago').value}`);if($('#pago').value==='Transferencia')L.push(BANCO?`(Transferir a: ${BANCO}. Envío el comprobante por aquí.)`:'(Por favor envíenme los datos para transferir.)');
   const c=Number($('#cambio').value);if(c)L.push(`Paga con: ${cs(c)}`);const n=$('#nota').value.trim();if(n)L.push(`Nota: ${n}`);if(t.aprox)L.push('','_Los productos por libra se pesan al despachar; el total final puede variar un poco._');L.push('',LOC?`📍 Mi ubicación: https://maps.google.com/?q=${LOC.lat},${LOC.lng}`:'📍 Ahora les comparto mi ubicación.');return L.join('\n')}
 function problem(){const it=items();if(!WA)return'El número de WhatsApp de la tienda aún no está configurado.';if(!it.length)return'Agrega al menos un producto.';
@@ -319,14 +329,14 @@ document.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)r
   if(b.id==='ayuda'){guia(true);return}
   if(b.id==='guiaOk'){guia(false);ls.set('mm.guia',1);return}
   if(b.id==='confNo'){conf(false);return}
-  if(b.id==='repBtn'){const last=ls.get('mm.last',null);cart={};for(const[id,c]of Object.entries(last?.cart||{}))if(P.some(p=>String(p.id)===id&&!p.o))cart[id]=c;ls.set('mm.cart',cart);list();slip();openSlip(true);return}
+  if(b.id==='repBtn'){const last=ls.get('mm.last',null);cart={};for(const[id,c]of Object.entries(last?.cart||{}))if((getP(id)&&!getP(id).o))cart[id]=c;ls.set('mm.cart',cart);list();slip();openSlip(true);return}
   if(d.rm){delete cart[d.rm];ls.set('mm.cart',cart);list();slip();return}
   if(b.id==='vac'){if(!vacArm){vacArm=true;slip();clearTimeout(vacT);vacT=setTimeout(()=>{vacArm=false;slip()},4000);return}vacArm=false;clearTimeout(vacT);cart={};ls.set('mm.cart',cart);list();slip();return}
   if(d.rail){const r=$(`#dest .rail[data-k="${d.r}"]`);if(r)r.scrollBy({left:Number(d.rail)*Math.max(170,r.clientWidth*0.8),behavior:'smooth'});return}
   if(d.sec){sec=d.sec;$('#q').value='';chips();list();const y=$('main').offsetTop-4;if(scrollY>y)scrollTo({top:y})}
   else if(d.try){$('#q').value=d.try;sec='Todo';chips();list();return}
   else if(d.clear||b.id==='qx'){$('#q').value='';list();$('#q').focus();return}
-  else if(d.inc){const pp=P.find(x=>String(x.id)===d.inc);if(!ok(pp))return;const w=pp.w;const c=cart[d.inc]||0;cart[d.inc]=w?(c?c+0.5:1):c+1}
+  else if(d.inc){const pp=getP(d.inc);if(!ok(pp))return;const w=pp.w;const c=cart[d.inc]||0;cart[d.inc]=w?(c?c+0.5:1):c+1}
   else if(d.dec){const w=P.find(x=>String(x.id)===d.dec)?.w;cart[d.dec]=Math.max(0,(cart[d.dec]||0)-(w?0.5:1));if(!cart[d.dec])delete cart[d.dec]}
   else if(b.id==='barBtn'){openSlip(true);return}
   else if(b.id==='slipClose'){openSlip(false);return}
@@ -374,7 +384,7 @@ async function revisar(){if(chk||document.hidden||!/^https?:/.test(location.prot
     let cambios=0,nuevos=0;
     for(const [id,n,pr,sc,ic,o] of rows){const p=P.find(x=>x.id===id);if(!p){nuevos++;continue}
       if(p.p!==pr||!!p.o!==!!o){p.p=pr;p.o=o;aplicaOf(p);cambios++}}
-    if(cambios){chips();list();slip();toast('🔄 Precios y disponibilidad actualizados')}
+    if(cambios){cRefresh();chips();list();slip();toast('🔄 Precios y disponibilidad actualizados')}
     if(sk!==baseSk||nuevos){const libre=!items().length&&!$('#slip').classList.contains('open')&&document.activeElement?.tagName!=='INPUT';
       if(libre)location.reload();else toast('✨ Hay una versión nueva de la tienda',true)}
   }catch(e){}finally{chk=false}}
