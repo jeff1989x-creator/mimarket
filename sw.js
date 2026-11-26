@@ -1,5 +1,5 @@
 // Pedidos MiMarket: siempre intenta traer precios nuevos; sin señal muestra la última copia.
-const C='mimarket-202611252037';
+const C='mimarket-202611252047';
 const BASE=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',e=>{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(BASE)).catch(()=>{}))});
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==C).map(x=>caches.delete(x)))).then(()=>self.clients.claim())));
