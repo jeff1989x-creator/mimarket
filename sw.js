@@ -1,6 +1,6 @@
 // Pedidos MiMarket valida el catálogo al abrir y guarda una copia para cuando se pierde la conexión.
-const CACHE = 'mimarket-202611252141';
-const BASE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './destacados.css', './destacados.js'];
+const CACHE = 'mimarket-202611252159';
+const BASE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './destacados.css', './destacados.js', './img/catalogo/fotos.json'];
 
 self.addEventListener('install', event => {
   const files = BASE.map(file => new Request(new URL(file, self.registration.scope), { cache: 'reload' }));

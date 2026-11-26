@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Créditos de fotos · Pedidos MiMarket</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { max-width: 42rem; margin: 2rem auto; padding: 0 1rem; font: 1rem/1.5 system-ui, sans-serif; }
+    h1 { line-height: 1.15; }
+    li { padding: .55rem 0; }
+  </style>
+</head>
+<body>
+  <a href="../../">Volver al catálogo</a>
+  <h1>Créditos de fotos</h1>
+  <p>Las fotos se recortaron y redimensionaron para el catálogo. Las adaptaciones de fotos con licencia CC BY-SA conservan su licencia original.</p>
+  <ul id="creditos"></ul>
+  <p id="estado" role="status">Cargando créditos de fotos…</p>
+  <script>
+    const creditos = document.getElementById('creditos');
+    const estado = document.getElementById('estado');
+
+    function agregarEnlace(fila, url, texto) {
+      if (!/^https:\/\//.test(url)) return;
+      const enlace = document.createElement('a');
+      enlace.href = url;
+      enlace.textContent = texto;
+      fila.append(' · ', enlace);
+    }
+
+    async function cargarCreditos() {
+      const respuesta = await fetch('fotos.json', { cache: 'no-cache' });
+      if (!respuesta.ok) throw new Error('Créditos no disponibles');
+      const { fotos } = await respuesta.json();
+      const registros = Object.values(fotos).sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
+      for (const foto of registros) {
+        const fila = document.createElement('li');
+        fila.textContent = [foto.nombre, foto.autor, foto.referencia ? 'Foto de referencia' : ''].filter(Boolean).join(' · ');
+        agregarEnlace(fila, foto.fuente, 'Fuente');
+        if (foto.licenciaUrl) agregarEnlace(fila, foto.licenciaUrl, foto.licencia);
+        else if (foto.licencia) fila.append(' · ', foto.licencia);
+        creditos.append(fila);
+      }
+      estado.hidden = true;
+    }
+
+    cargarCreditos().catch(() => { estado.textContent = 'No se pudieron cargar los créditos.'; });
+  </script>
+</body>
+</html>

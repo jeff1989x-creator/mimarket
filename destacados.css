@@ -18,6 +18,40 @@
   background: #fff;
 }
 
+.prod-photo {
+  display: grid;
+  place-items: center;
+  flex: 0 0 62px;
+  width: 62px;
+  aspect-ratio: 1;
+  border-radius: 10px;
+  background: #fff;
+  overflow: hidden;
+}
+
+.prod-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+@media (max-width: 600px) {
+  .prod:has(.prod-photo) {
+    display: grid;
+    grid-template-columns: 52px minmax(0, 1fr) auto;
+    grid-template-areas: 'foto nombre favorito' 'foto precio cantidad';
+    gap: 4px 8px;
+  }
+
+  .prod:has(.prod-photo) .prod-photo { grid-area: foto; width: 52px; }
+  .prod:has(.prod-photo) .n { grid-area: nombre; overflow-wrap: anywhere; }
+  .prod:has(.prod-photo) .fav { grid-area: favorito; justify-self: end; }
+  .prod:has(.prod-photo) .price { grid-area: precio; }
+  .prod:has(.prod-photo) .step { grid-area: cantidad; justify-self: end; }
+  .prod.off:has(.prod-photo) .fav { display: none; }
+  .prod.off:has(.prod-photo) .na { grid-area: precio; justify-self: start; }
+}
+
 .photo-credits {
   color: inherit;
 }

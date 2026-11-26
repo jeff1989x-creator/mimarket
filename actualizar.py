@@ -5,7 +5,7 @@ OUT='.'
 ver = time.strftime('%Y%m%d%H%M')
 open(f'{OUT}/sw.js', 'w').write(f"""// Pedidos MiMarket valida el catálogo al abrir y guarda una copia para cuando se pierde la conexión.
 const CACHE = 'mimarket-{ver}';
-const BASE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './destacados.css', './destacados.js'];
+const BASE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './destacados.css', './destacados.js', './img/catalogo/fotos.json'];
 
 self.addEventListener('install', event => {{
   const files = BASE.map(file => new Request(new URL(file, self.registration.scope), {{ cache: 'reload' }}));

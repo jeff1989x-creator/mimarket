@@ -1,0 +1,327 @@
+{
+  "fotos": {
+    "15518": {
+      "archivo": "img/catalogo/15518.webp",
+      "autor": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Avocado_Whole_and_Crossection.jpg",
+      "licencia": "CC BY-SA 2.5",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "nombre": "Aguacate (unidad)",
+      "referencia": true
+    },
+    "15520": {
+      "archivo": "img/catalogo/15520.webp",
+      "autor": "Donovan Govan.",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Garlic.jpg",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "nombre": "Ajo (libra)",
+      "referencia": true
+    },
+    "15521": {
+      "archivo": "img/catalogo/15521.webp",
+      "autor": "Renee Comet (Photographer)",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Celery_(1).jpg",
+      "licencia": "Public domain",
+      "licenciaUrl": "",
+      "nombre": "Apio (unidad)",
+      "referencia": true
+    },
+    "15524": {
+      "archivo": "img/destacados/banano.webp",
+      "autor": "Evan-Amos",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Banana-Single.jpg",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "nombre": "Banano (unidad)",
+      "referencia": true
+    },
+    "15969": {
+      "archivo": "img/destacados/fuente-pura-galon.webp",
+      "autor": "Walmart Nicaragua",
+      "fuente": "https://www.walmart.com.ni/fuente-pura",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Agua Fuente Pura galón",
+      "referencia": false
+    },
+    "16098": {
+      "archivo": "img/destacados/arroz-80-20.webp",
+      "autor": "Gaurav Dhwaj Khadka",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Long_grain_rice.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "nombre": "Arroz 80/20 (libra)",
+      "referencia": true
+    },
+    "16433": {
+      "archivo": "img/catalogo/16433.webp",
+      "autor": "Tahir mq",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Onion_White.jpg",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "nombre": "Cebolla (libra)",
+      "referencia": true
+    },
+    "16434": {
+      "archivo": "img/catalogo/16434.webp",
+      "autor": "Eric Polk",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Red_onion_bulb.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "nombre": "Cebolla morada (libra)",
+      "referencia": true
+    },
+    "16436": {
+      "archivo": "img/catalogo/16436.webp",
+      "autor": "Leslie Seaton",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Sechium_edule_Chayote_Mexico.jpg",
+      "licencia": "CC BY 2.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/2.0",
+      "nombre": "Chayote (unidad)",
+      "referencia": true
+    },
+    "17321": {
+      "archivo": "img/catalogo/17321.webp",
+      "autor": "HaJunkiyada",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Jalape%C3%B1o_Peppers.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "nombre": "Chile jalapeño (unidad)",
+      "referencia": true
+    },
+    "17326": {
+      "archivo": "img/catalogo/17326.webp",
+      "autor": "Evan-Amos",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Green-Bell-Pepper.jpg",
+      "licencia": "Public domain",
+      "licenciaUrl": "",
+      "nombre": "Chiltoma (unidad)",
+      "referencia": true
+    },
+    "17335": {
+      "archivo": "img/destacados/coca-cola-2l.webp",
+      "autor": "Walmart Nicaragua",
+      "fuente": "https://www.walmart.com.ni/refresco-coca-cola-original-2000ml/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Coca Cola 2 L",
+      "referencia": false
+    },
+    "18979": {
+      "archivo": "img/catalogo/18979.webp",
+      "autor": "V.Thamaraiselvi",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Green_Guava_Fruit.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "nombre": "Guayaba (unidad)",
+      "referencia": true
+    },
+    "19802": {
+      "archivo": "img/destacados/huevo-rojo.webp",
+      "autor": "Garitzko",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Brown_chicken_egg.jpg",
+      "licencia": "Dominio público",
+      "licenciaUrl": "",
+      "nombre": "Huevos rojos (unidad)",
+      "referencia": true
+    },
+    "19850": {
+      "archivo": "img/catalogo/19850.webp",
+      "autor": "SeanTwice",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Lettuce_iceberg.jpg",
+      "licencia": "CC0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "nombre": "Lechuga (unidad)",
+      "referencia": true
+    },
+    "19858": {
+      "archivo": "img/catalogo/19858.webp",
+      "autor": "Sprinno",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Red_apple_on_white_background.jpg",
+      "licencia": "CC0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "nombre": "Manzana roja (unidad)",
+      "referencia": true
+    },
+    "20779": {
+      "archivo": "img/catalogo/20779.webp",
+      "autor": "Petr Kratochvil",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Agriculture-72254.jpg",
+      "licencia": "CC0",
+      "licenciaUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "nombre": "Papa (libra)",
+      "referencia": true
+    },
+    "21624": {
+      "archivo": "img/catalogo/21624.webp",
+      "autor": "Beeyah15",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Fresh_cucumber.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "nombre": "Pepino (unidad)",
+      "referencia": true
+    },
+    "21625": {
+      "archivo": "img/catalogo/21625.webp",
+      "autor": "Renee Comet (Photographer)",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Pineapple.jpg",
+      "licencia": "Public domain",
+      "licenciaUrl": "",
+      "nombre": "Piña (unidad)",
+      "referencia": true
+    },
+    "21629": {
+      "archivo": "img/catalogo/21629.webp",
+      "autor": "Menyea",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Bunch_of_Plantain.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "nombre": "Plátano (unidad)",
+      "referencia": true
+    },
+    "21632": {
+      "archivo": "img/catalogo/21632.webp",
+      "autor": "Garitzko",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Rote_Bete.jpg",
+      "licencia": "Public domain",
+      "licenciaUrl": "",
+      "nombre": "Remolacha (libra)",
+      "referencia": true
+    },
+    "21633": {
+      "archivo": "img/catalogo/21633.webp",
+      "autor": "HaJunkiyada",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Green_Cabbage.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "nombre": "Repollo (unidad)",
+      "referencia": true
+    },
+    "21634": {
+      "archivo": "img/catalogo/21633.webp",
+      "autor": "HaJunkiyada",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Green_Cabbage.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "nombre": "Repollo grande (unidad)",
+      "referencia": true
+    },
+    "21667": {
+      "archivo": "img/destacados/raptor-600.webp",
+      "autor": "Walmart Nicaragua",
+      "fuente": "https://www.walmart.com.ni/bebida-energetica-raptor-original-600ml/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Raptor 600 ml",
+      "referencia": false
+    },
+    "21796": {
+      "archivo": "img/destacados/pechuga-con-ala.webp",
+      "autor": "Dennis Family Butchers",
+      "fuente": "https://www.philipdennis.co.uk/poul1184-chicken-breast-wing.html",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Pechuga con ala (libra)",
+      "referencia": true
+    },
+    "21798": {
+      "archivo": "img/destacados/pierna-con-muslo.webp",
+      "autor": "Walmart Nicaragua",
+      "fuente": "https://www.walmart.com.ni/pierna-con-muslo-fresco-1lb/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Piernas con muslos (libra)",
+      "referencia": true
+    },
+    "22559": {
+      "archivo": "img/catalogo/22559.webp",
+      "autor": "HaJunkiyada",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Watermelon_Cross_Section.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "nombre": "Sandía (unidad)",
+      "referencia": true
+    },
+    "22560": {
+      "archivo": "img/catalogo/22559.webp",
+      "autor": "HaJunkiyada",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Watermelon_Cross_Section.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "nombre": "Sandía pequeña (unidad)",
+      "referencia": true
+    },
+    "22664": {
+      "archivo": "img/destacados/spark-limon-hierbabuena.webp",
+      "autor": "Walmart Nicaragua",
+      "fuente": "https://www.walmart.com.ni/seltzer-spark-limon-hierbabuena-350ml/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Seltzer limón hierbabuena lata",
+      "referencia": false
+    },
+    "23393": {
+      "archivo": "img/destacados/tomate.webp",
+      "autor": "Glenda Green",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Ripe_Red_Tomatoes.jpg",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "nombre": "Tomate (libra)",
+      "referencia": true
+    },
+    "23394": {
+      "archivo": "img/catalogo/23394.webp",
+      "autor": "Scott Bauer, U.S. Department of Agriculture",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Green_and_red_grapes.jpg",
+      "licencia": "Public domain",
+      "licenciaUrl": "",
+      "nombre": "Uva (libra)",
+      "referencia": true
+    },
+    "23588": {
+      "archivo": "img/destacados/tona-350.webp",
+      "autor": "Walmart Nicaragua",
+      "fuente": "https://www.walmart.com.ni/cerveza-tona-lata-350ml/p",
+      "licencia": "",
+      "licenciaUrl": "",
+      "nombre": "Toña lata 350 ml",
+      "referencia": false
+    },
+    "24217": {
+      "archivo": "img/catalogo/24217.webp",
+      "autor": "Evan-Amos",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+      "licencia": "Public domain",
+      "licenciaUrl": "",
+      "nombre": "Zanahoria (libra)",
+      "referencia": true
+    }
+  },
+  "porConfirmar": {
+    "15515": {
+      "motivo": "Confirmar si la porción es achiote en pasta, molido o en semilla.",
+      "nombre": "Achiote (porción de C$ 10)"
+    },
+    "15516": {
+      "motivo": "Confirmar si la porción es achiote en pasta, molido o en semilla.",
+      "nombre": "Achiote (porción de C$ 5)"
+    },
+    "19851": {
+      "motivo": "Confirmar la variedad local que se registra como limón castillo.",
+      "nombre": "Limón castillo (unidad)"
+    },
+    "19852": {
+      "motivo": "Verificar una foto de la variedad local llamada limón mandarina.",
+      "nombre": "Limón mandarina (unidad)"
+    },
+    "19862": {
+      "motivo": "Confirmar si la porción corresponde a manzanilla seca o fresca.",
+      "nombre": "Manzanilla (porción de C$ 20)"
+    },
+    "21384": {
+      "motivo": "Pendiente de una foto identificable del Pan Norlan.",
+      "nombre": "Pan Norlan"
+    }
+  }
+}
