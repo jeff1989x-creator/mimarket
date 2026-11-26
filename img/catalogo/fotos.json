@@ -819,6 +819,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "17872": {
+      "nombre": "Crema La Perfecta 210 g",
+      "archivo": "img/catalogo/17872.webp",
+      "fuente": "https://www.walmart.com.ni/crema-acida-la-perfecta-210-gr-bol/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17962": {
       "nombre": "Cremora Seda (sobre)",
       "archivo": "img/catalogo/17962.webp",
@@ -827,6 +836,15 @@
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
+    },
+    "17987": {
+      "nombre": "Cuajada (libra)",
+      "archivo": "img/catalogo/17987.webp",
+      "fuente": "https://www.centropedidos.com/productoComida/cuajadas-frescas-1047",
+      "autor": "Vendedor de Cuajadas Frescas en CentroPedidos",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": true
     },
     "18091": {
       "nombre": "Empanizador McCormick pollo 60 g",
@@ -851,6 +869,15 @@
       "archivo": "img/catalogo/18096.webp",
       "fuente": "https://www.walmart.com.ni/consome-de-pollo-favora-frasco-200gr/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "18176": {
+      "nombre": "Eskimo Rolin Pin vainilla",
+      "archivo": "img/catalogo/18176.webp",
+      "fuente": "https://fliphtml5.com/tmisl/iito/CATALOGO1_Eskimo/4/",
+      "autor": "Eskimo (catálogo publicado por Distribuidora Jirón)",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1332,6 +1359,24 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "19723": {
+      "nombre": "Hojaldras Valdez",
+      "archivo": "img/catalogo/19723.webp",
+      "fuente": "https://www.rutanica.store/en/products/hojaldras-valdez-delicias-de-mi-tierra",
+      "autor": "Ruta Nica Market",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "19724": {
+      "nombre": "Hojaldritas Valdez",
+      "archivo": "img/catalogo/19724.webp",
+      "fuente": "https://tunicaragua.com/index.php/es/pagos-de-servicios?view=productdetails&virtuemart_category_id=796&virtuemart_product_id=15736",
+      "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19802": {
       "archivo": "img/destacados/huevo-rojo.webp",
       "autor": "Garitzko",
@@ -1602,6 +1647,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "20656": {
+      "nombre": "Mantequilla Eskimo barra",
+      "archivo": "img/catalogo/20656.webp",
+      "fuente": "https://www.launion.com.ni/mantequilla-eskimo-barra-100gr/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "20695": {
       "nombre": "Pachanga mix 30 g",
       "archivo": "img/catalogo/20695.webp",
@@ -1616,6 +1670,69 @@
       "archivo": "img/catalogo/20735.webp",
       "fuente": "https://mundoabras.com/index.php?id=2133&mod=1&page=single",
       "autor": "Mundo Abras",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20754": {
+      "nombre": "Paleta crema con galletas 70 g",
+      "archivo": "img/catalogo/20754.webp",
+      "fuente": "https://fliphtml5.com/tmisl/iito/CATALOGO1_Eskimo/2/",
+      "autor": "Eskimo (catálogo publicado por Distribuidora Jirón)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20756": {
+      "nombre": "Paleta Eskimo 2x1",
+      "archivo": "img/catalogo/20756.webp",
+      "fuente": "https://fliphtml5.com/tmisl/iito/CATALOGO1_Eskimo/5/",
+      "autor": "Eskimo (catálogo publicado por Distribuidora Jirón)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20759": {
+      "nombre": "Paleta Eskimo cocoa",
+      "archivo": "img/catalogo/20759.webp",
+      "fuente": "https://lacolonia.com.ni/producto/1510429",
+      "autor": "Supermercados La Colonia Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20761": {
+      "nombre": "Paleta Eskimo de chocolate",
+      "archivo": "img/catalogo/20761.webp",
+      "fuente": "https://www.walmart.com.ni/paleta-eskimo-chocolate-1-unidades/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20762": {
+      "nombre": "Paleta Eskimo de coco 83 g",
+      "archivo": "img/catalogo/20762.webp",
+      "fuente": "https://fliphtml5.com/tmisl/iito/CATALOGO1_Eskimo/4/",
+      "autor": "Eskimo (catálogo publicado por Distribuidora Jirón)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20763": {
+      "nombre": "Paleta Eskimo dulce de leche",
+      "archivo": "img/catalogo/20763.webp",
+      "fuente": "https://cdn6.f-cdn.com/files/download/1917242/j1XB9ESKIMO%204.pdf#page=22",
+      "autor": "Eskimo (diseño de empaque)",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20773": {
+      "nombre": "Paleta fruta rellena naranja",
+      "archivo": "img/catalogo/20773.webp",
+      "fuente": "https://www.walmart.com.ni/eskimo-fruta-rellena/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -1805,6 +1922,24 @@
       "archivo": "img/catalogo/21365.webp",
       "fuente": "https://www.jacks.co.cr/marcas/snacks/popi-jacks-mantequilla/",
       "autor": "Alimentos Jack’s",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21373": {
+      "nombre": "Pan blanco Monarca 440 g",
+      "archivo": "img/catalogo/21373.webp",
+      "fuente": "https://www.pedidosyani.com.ni/promociones",
+      "autor": "PedidosYa Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "21620": {
+      "nombre": "Rolin Pin fresa",
+      "archivo": "img/catalogo/21620.webp",
+      "fuente": "https://fliphtml5.com/tmisl/iito/CATALOGO1_Eskimo/4/",
+      "autor": "Eskimo (catálogo publicado por Distribuidora Jirón)",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2286,6 +2421,15 @@
       "nombre": "Toña lata 350 ml",
       "referencia": false
     },
+    "23610": {
+      "nombre": "Torta de naranja (unidad)",
+      "archivo": "img/catalogo/23610.webp",
+      "fuente": "https://commons.wikimedia.org/wiki/File:Orange_Cake.jpg",
+      "autor": "روتانا (Rotana)",
+      "licencia": "CC BY 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "referencia": true
+    },
     "23649": {
       "nombre": "Tang piña 13 g",
       "archivo": "img/catalogo/23649.webp",
@@ -2304,11 +2448,38 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "23988": {
+      "nombre": "Pastel tres leches",
+      "archivo": "img/catalogo/23988.webp",
+      "fuente": "https://commons.wikimedia.org/wiki/File:TresLechesCake.jpg",
+      "autor": "Lorelei Norman (Beau002)",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "referencia": true
+    },
     "24187": {
       "nombre": "Zambos Picositos Yummies (unidad)",
       "archivo": "img/catalogo/24187.webp",
       "fuente": "https://www.walmart.com.sv/zambos-platano-picositas-19-g/p",
       "autor": "Walmart El Salvador",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24197": {
+      "nombre": "Yogurt La Perfecta fresa 200 g",
+      "archivo": "img/catalogo/24197.webp",
+      "fuente": "https://www.walmart.com.ni/yogurt-la-perfecta-bebible-fresa-200gr/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24210": {
+      "nombre": "Yogurt La Perfecta manzana 750 g",
+      "archivo": "img/catalogo/24210.webp",
+      "fuente": "https://www.walmart.com.ni/yogurt-la-perfecta-manzana-750gr/p",
+      "autor": "Walmart Nicaragua",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2376,6 +2547,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24486": {
+      "nombre": "Leche Vidamas chocolate bolsa 400 ml",
+      "archivo": "img/catalogo/24486.webp",
+      "fuente": "https://www.walmart.com.ni/bebida-lactea-eskimo-vidamas-sabor-a-chocolate-400ml/p",
+      "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24540": {
       "nombre": "Sopa Cantonesa pollo (vaso)",
       "archivo": "img/catalogo/24540.webp",
@@ -2417,6 +2597,15 @@
       "archivo": "img/catalogo/24607.webp",
       "fuente": "https://www.walmart.com.ni/mayonesa-hellmanns-pura-en-doypack-380-g/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24646": {
+      "nombre": "Cremoleta fresa Dos Pinos",
+      "archivo": "img/catalogo/24646.webp",
+      "fuente": "https://www.lacolonia.com/paleta-dos-pinos-cremoleta-fresa-75-gr/p",
+      "autor": "La Colonia Honduras",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2484,6 +2673,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "24963": {
+      "nombre": "Choco Dúo Dos Pinos",
+      "archivo": "img/catalogo/24963.webp",
+      "fuente": "https://www.masxmenos.cr/paleta-choco-duo-dos-pinos-64-gr-0/p",
+      "autor": "Más x Menos Costa Rica",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "24987": {
       "nombre": "Café Let's Be cappuccino (lata) 240 ml",
       "archivo": "img/catalogo/24987.webp",
@@ -2498,6 +2696,24 @@
       "archivo": "img/catalogo/25011.webp",
       "fuente": "https://www.ladespensadedonjuan.com.sv/sv-zambo-yuquita-ajo-parmesano-130g-sv9140-5-8/p",
       "autor": "La Despensa de Don Juan El Salvador",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "25036": {
+      "nombre": "Costillas de guayaba Zarcereña 240 g",
+      "archivo": "img/catalogo/25036.webp",
+      "fuente": "https://precioscostarica.com/p/1ldcye3",
+      "autor": "GESSA, vía Precios Costa Rica",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "25037": {
+      "nombre": "Empanadas de piña Zarcereña 290 g",
+      "archivo": "img/catalogo/25037.webp",
+      "fuente": "https://www.efastonline.com/product/1026526",
+      "autor": "eFast Costa Rica",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2692,6 +2908,10 @@
       "nombre": "Chobix queso 11 g",
       "motivo": "Las fotos de Chobix disponibles muestran otras variantes o pesos. Hace falta una foto de la bolsa de queso de 11 g."
     },
+    "17818": {
+      "nombre": "Crema Chantilly",
+      "motivo": "Se encontraron fotos de crema Chantilly preparada y productos envasados para repostería. Hace falta confirmar si este código corresponde a crema preparada, aerosol, polvo u otro formato."
+    },
     "17830": {
       "nombre": "Crema criolla",
       "motivo": "Falta confirmar si la crema criolla se vende a granel o en un empaque específico y conseguir una foto de esa presentación."
@@ -2704,9 +2924,21 @@
       "nombre": "Empanizador Sol Maya 150 g",
       "motivo": "La foto identificable de empanizador Sol Maya corresponde a la bolsa de 100 g. Falta una imagen de la de 150 g."
     },
+    "18147": {
+      "nombre": "Eskimo chocolate ½ L",
+      "motivo": "Las fichas locales muestran otros sabores de Eskimo en tamaño cercano al medio litro y chocolate en otros tamaños o marcas. Hace falta una foto del envase Eskimo chocolate de ½ L."
+    },
     "18179": {
       "nombre": "Eskimo ron con pasas 1 L",
       "motivo": "La ficha y el gráfico de una misma referencia de ron con pasas alternan entre 965 y 970 g. Hace falta comprobar que el envase de la tienda corresponde a 1 L."
+    },
+    "18193": {
+      "nombre": "Eskimo vaso 8 oz napolitano",
+      "motivo": "Las fichas de Eskimo napolitano muestran tarrinas grandes o sándwiches. Hace falta identificar el vaso individual de 8 oz."
+    },
+    "18194": {
+      "nombre": "Eskimo vaso 8 oz ron con pasas",
+      "motivo": "Las fichas con imagen muestran tarrinas de ron con pasas de mayor tamaño. Hace falta una foto del vaso Eskimo de 8 oz."
     },
     "18204": {
       "nombre": "Deporade uva 360 ml",
@@ -2800,6 +3032,10 @@
       "nombre": "Galleta wafer vainilla (24 unidades)",
       "motivo": "Se encontraron wafer de vainilla de varias marcas y otros recuentos. Hace falta confirmar la marca y el paquete de 24 unidades."
     },
+    "19824": {
+      "nombre": "Leche Vidamas fresa bolsa 200 ml",
+      "motivo": "Se encontraron Lechelado Eskimo fresa de 200 ml, leche Eskimo fresa en bolsa y Vidamás fresa de 400 ml. Hace falta confirmar la bolsa con la marca Vidamás y 200 ml."
+    },
     "19843": {
       "nombre": "Jugo naranja y zanahoria La Perfecta 473 ml",
       "motivo": "Una ficha local lista la combinación de naranja y zanahoria de 473 ml. Las fotos que se pudieron abrir muestran otro sabor o tamaño. Falta verificar el frente del envase exacto."
@@ -2819,6 +3055,10 @@
     "19891": {
       "nombre": "Kola Shaler",
       "motivo": "El POS indica 3.54 ml. El catálogo nicaragüense vende versiones de 354 ml y varios sabores. Falta confirmar el volumen y la variante."
+    },
+    "19929": {
+      "nombre": "Leche Eskimo descremada 1 L",
+      "motivo": "Las fichas nicaragüenses muestran la variante Eskimo de 1 L descremada y deslactosada. Hay un código separado para esa variante. Hace falta identificar el envase del SKU descremado."
     },
     "20028": {
       "nombre": "Jamón de pavo ahumado 250 g",
@@ -2855,6 +3095,18 @@
     "20747": {
       "nombre": "Paletas BBW",
       "motivo": "La sigla BBW no identifica una paleta en las fichas consultadas. Hace falta la marca completa o una foto propia."
+    },
+    "20750": {
+      "nombre": "Pan Don Norlan (36)",
+      "motivo": "Las fuentes de panaderías locales no identifican el empaque Don Norlan de 36 unidades. Hace falta una foto propia del paquete."
+    },
+    "20757": {
+      "nombre": "Paleta Eskimo avena",
+      "motivo": "Los catálogos y directorios consultados no muestran una paleta Eskimo de avena identificable. Hace falta una foto propia del envoltorio."
+    },
+    "20760": {
+      "nombre": "Paleta Eskimo con frutas",
+      "motivo": "El catálogo Eskimo muestra paletas de fruta rellena, de agua y de fruta natural. Hace falta confirmar qué línea y qué sabor o surtido corresponde a este código."
     },
     "20792": {
       "nombre": "Mirinda 1 L",
@@ -2896,9 +3148,17 @@
       "nombre": "Palomitas queso Yummies 30 g",
       "motivo": "Las fichas disponibles muestran palomitas Yummies de queso de 120 g. Falta verificar la bolsa de 30 g."
     },
+    "21382": {
+      "nombre": "Pan Maryuri",
+      "motivo": "Se encontró una mención a la panadería Marjuri. Hace falta comprobar si corresponde al Pan Maryuri de la tienda y fotografiar la presentación."
+    },
     "21384": {
       "motivo": "Pendiente de una foto identificable del Pan Norlan.",
       "nombre": "Pan Norlan"
+    },
+    "21386": {
+      "nombre": "Pan San Miguel (24 unidades)",
+      "motivo": "Las fuentes encontradas no identifican un Pan San Miguel de 24 unidades que corresponda a este código. Hace falta una foto del empaque completo."
     },
     "21556": {
       "nombre": "Ranchitas nacho Cinema 35 g",
@@ -2916,6 +3176,10 @@
       "nombre": "Pasas Sol Maya 45 g",
       "motivo": "Los catálogos de Sol Maya muestran pasas de 70 g, 150 g y otros pesos. Falta una foto verificable del empaque de 45 g."
     },
+    "21613": {
+      "nombre": "Queso criollo (libra)",
+      "motivo": "Las fuentes locales muestran varios quesos frescos y secos de venta al corte. Hace falta confirmar si el queso criollo de la tienda es fresco, semiseco o seco para elegir una referencia del mismo tipo."
+    },
     "21644": {
       "nombre": "Pepsi 12 oz (vidrio)",
       "motivo": "Se confirmó que una agencia local ofrece Pepsi en vidrio. La foto legible de 12 oz corresponde a Pepsi mexicana. Falta verificar visualmente la botella vendida en Nicaragua."
@@ -2924,13 +3188,33 @@
       "nombre": "Piezas mixtas marinadas Kimby (libra)",
       "motivo": "El catálogo de Kimby muestra una mezcla de piernas y muslos, pero falta verificar que sea la mezcla marinada que se vende por libra."
     },
+    "21809": {
+      "nombre": "Queso mozzarella Tip Top 180 g",
+      "motivo": "Se halló mozzarella de 180 g de otra marca. Las fuentes locales no muestran una ficha con Tip Top, mozzarella y 180 g en el mismo empaque."
+    },
+    "21814": {
+      "nombre": "Rosquillas mixtas Valdez",
+      "motivo": "Se confirmó el nombre comercial Rosquillas Mixtas Valdez en una ficha nutricional sin foto. Hace falta una foto que distinga el surtido de las bolsas de otras variedades Valdez."
+    },
     "22079": {
       "nombre": "Pindi chocolate (paquete de 12)",
       "motivo": "El catálogo del distribuidor identifica Pindi chocolate. Hace falta una foto que muestre el empaque exterior y confirme las 12 unidades."
     },
+    "22173": {
+      "nombre": "Ponche de frutas Eskimo 1.89 L",
+      "motivo": "Las fichas consultadas nombran Ponche de Frutas Eskimo, pero ninguna foto verificable muestra el envase de 1.89 L."
+    },
     "22213": {
       "nombre": "Harina Prima 454 g",
       "motivo": "Se confirmó la marca Prima Harina, pero falta una foto legible del empaque de 454 g."
+    },
+    "22271": {
+      "nombre": "Queso fundido Papachente",
+      "motivo": "Los catálogos consultados no muestran un queso fundido identificado como Papachente. Hace falta ver el empaque o confirmar el nombre del fabricante."
+    },
+    "22273": {
+      "nombre": "Queso jalapeño Fiesta",
+      "motivo": "Las fichas encontradas muestran otros quesos con jalapeño o mezclas Fiesta de otras marcas. Hace falta identificar el empaque exacto."
     },
     "22447": {
       "nombre": "Sabor y Color Sol Maya 10 g (sobre)",
@@ -3004,6 +3288,10 @@
       "nombre": "Torti Chips chile 16 g",
       "motivo": "Las fotos de Torti Chips muestran otros gramajes. Falta confirmar el empaque de chile de 16 g."
     },
+    "23953": {
+      "nombre": "Tortillas tostadas Bimbo 180 g",
+      "motivo": "Los catálogos consultados muestran otros productos Bimbo o tostadas de marcas distintas. Hace falta verificar el empaque Bimbo de 180 g."
+    },
     "23977": {
       "nombre": "Tozteca Max 45 g",
       "motivo": "Las fichas de Toztecas Max no identifican el sabor de este SKU ni muestran una envoltura legible de 45 g."
@@ -3064,9 +3352,17 @@
       "nombre": "Delisoya 3+ sin lactosa 360 g",
       "motivo": "Falta una foto legible que confirme que la bolsa Delisoy 3+ de 360 g corresponde a la variante sin lactosa."
     },
+    "24903": {
+      "nombre": "Pan Norlan (bandeja)",
+      "motivo": "Las fuentes locales no muestran qué incluye la bandeja Pan Norlan. Hace falta una foto de la bandeja con el pan y su presentación de venta."
+    },
     "24949": {
       "nombre": "Hielo (bolsa 5 lb)",
       "motivo": "Se encontró hielo de 5 lb de una marca específica, pero el POS no identifica la marca. Las fotos reutilizables revisadas muestran moldes o paquetes de otro formato. Hace falta una foto de la bolsa que vende la tienda."
+    },
+    "24969": {
+      "nombre": "Merendina fresa (unidad)",
+      "motivo": "Las fichas locales muestran el paquete Pozuelo de 240 g. Hace falta una foto del envoltorio de la Merendina fresa vendida por unidad."
     },
     "24972": {
       "nombre": "Malvavisco osito (unidad)",
