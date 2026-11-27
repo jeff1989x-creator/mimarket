@@ -739,6 +739,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "17110": {
+      "nombre": "Cepillo dental Premier",
+      "archivo": "img/catalogo/17110.webp",
+      "fuente": "https://www.colgate.com/es-ni/products/toothbrush/colgate-premier-clean",
+      "autor": "Colgate-Palmolive Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "17189": {
       "nombre": "Brisket de res Carnic (libra)",
       "archivo": "img/catalogo/17189.webp",
@@ -1903,6 +1912,15 @@
       "nombre": "Huevos rojos (unidad)",
       "referencia": true
     },
+    "19824": {
+      "nombre": "Leche Vidamas fresa bolsa 200 ml",
+      "archivo": "img/catalogo/19824.webp",
+      "fuente": "https://www.launion.com.ni/bebida-lactea-eskimo-vidamas-sabor-a-fresa-200ml/p",
+      "autor": "La Unión Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "19831": {
       "nombre": "Jabón Marfil pequeño 275 g",
       "archivo": "img/catalogo/19831.webp",
@@ -2144,6 +2162,24 @@
       "archivo": "img/catalogo/20065.webp",
       "fuente": "https://www.walmart.com.ni/jabon-cremoso-original-75-gr/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20073": {
+      "nombre": "Jabón de baño Palmolive Fusion 100 g",
+      "archivo": "img/catalogo/20073.webp",
+      "fuente": "https://www.superxtra.com/jabon-de-aseo-corporal-en-barra-palmolive-100-gr-fusion-nutritiva-almendra-y-omega-3/p",
+      "autor": "Súper Xtra Panamá",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "20074": {
+      "nombre": "Jabón de baño Palmolive humectante 100 g",
+      "archivo": "img/catalogo/20074.webp",
+      "fuente": "https://www.sanborns.com.mx/producto/706883/jabon-en-barra-oliva-y-aloe-vera-100-g-palmolive",
+      "autor": "Sanborns México",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -2895,6 +2931,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "21849": {
+      "nombre": "Papel higiénico Encanto 1000 hojas (rollo)",
+      "archivo": "img/catalogo/21849.webp",
+      "fuente": "https://tiendaenlinea.supermercadoelexito.hn/shop/7416502200528-papel-encanto-1000-hjs-unidad-11508",
+      "autor": "Supermercado El Éxito Honduras",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "21904": {
       "nombre": "Pasta dental Colgate Máxima Protección 50 ml",
       "archivo": "img/catalogo/21904.webp",
@@ -2931,11 +2976,29 @@
       "licenciaUrl": "",
       "referencia": true
     },
+    "22079": {
+      "nombre": "Pindi chocolate (paquete de 12)",
+      "archivo": "img/catalogo/22079.webp",
+      "fuente": "https://cremimex.com/cremimex-products/",
+      "autor": "CremiMex",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "22090": {
       "nombre": "Pinolillo Sasa 1 kg",
       "archivo": "img/catalogo/22090.webp",
       "fuente": "https://www.tunicaragua.com/index.php/es/component/virtuemart/?view=productdetails&virtuemart_category_id=871&virtuemart_product_id=7460",
       "autor": "TuNicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "22210": {
+      "nombre": "Prestobarba Bic Confort",
+      "archivo": "img/catalogo/22210.webp",
+      "fuente": "https://despensa.bodegaaurrera.com.mx/ip/rastrillo-bic-comfort-2-verde/00007033074533",
+      "autor": "Bodega Aurrera México",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3319,6 +3382,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "23478": {
+      "nombre": "Toallitas húmedas Huggies limpieza (112)",
+      "archivo": "img/catalogo/23478.webp",
+      "fuente": "https://farmacorp.com/products/7702425632189",
+      "autor": "Farmacorp",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "23485": {
       "nombre": "Tang fresa 13 g",
       "archivo": "img/catalogo/23485.webp",
@@ -3490,6 +3562,15 @@
       "licenciaUrl": "",
       "referencia": false
     },
+    "23874": {
+      "nombre": "Toalla sanitaria Fiore sin alas",
+      "archivo": "img/catalogo/23874.webp",
+      "fuente": "https://www.yza.mx/fiore-toalla-fem-sa-reg-8-pzas/MXYZ_13117017830.html",
+      "autor": "Farmacias YZA",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
     "23881": {
       "nombre": "Toallitas húmedas Huggies (16)",
       "archivo": "img/catalogo/23881.webp",
@@ -3522,6 +3603,15 @@
       "archivo": "img/catalogo/23899.webp",
       "fuente": "https://wecarepharma.mx/products/toallas-kotex-naturals-manzanilla-con-alas-con-10",
       "autor": "WeCare Pharma México",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "23901": {
+      "nombre": "Kotex manzanilla sin alas",
+      "archivo": "img/catalogo/23901.webp",
+      "fuente": "https://www.claroshop.com/producto/1700925/kotex-natural-manzanilla-paquete-con-10-toallas-femeninas-anatomicas-sin-alas",
+      "autor": "Claro Shop México",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3603,6 +3693,15 @@
       "archivo": "img/catalogo/24210.webp",
       "fuente": "https://www.walmart.com.ni/yogurt-la-perfecta-manzana-750gr/p",
       "autor": "Walmart Nicaragua",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24215": {
+      "nombre": "Caramelo Zorritone (unidad)",
+      "archivo": "img/catalogo/24215.webp",
+      "fuente": "https://www.reinobotanico.com/products/Confites-Zorritone-p595900129",
+      "autor": "Reino Botánico",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3792,6 +3891,15 @@
       "archivo": "img/catalogo/24682.webp",
       "fuente": "https://www.maxidespensa.com.sv/agua-cielo-con-gas-sabor-fresa-kiwi650ml-1/p",
       "autor": "Maxi Despensa El Salvador",
+      "licencia": "",
+      "licenciaUrl": "",
+      "referencia": false
+    },
+    "24706": {
+      "nombre": "Jabón de baño Protex carbón 110 g",
+      "archivo": "img/catalogo/24706.webp",
+      "fuente": "https://www.protex-soap.com/es-co/products",
+      "autor": "Protex / Colgate-Palmolive",
       "licencia": "",
       "licenciaUrl": "",
       "referencia": false
@@ -3986,15 +4094,42 @@
     },
     "15495": {
       "nombre": "Barra masticable Colombina (unidad)",
-      "motivo": "Colombina ofrece varias barras masticables. Hace falta identificar la línea y el sabor del envoltorio que vende la tienda."
+      "motivo": "Colombina ofrece varias barras masticables. Hace falta identificar la línea y el sabor del envoltorio que vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.halloweencolombina.com/Catalogo_Halloween_2024.pdf",
+          "https://nicaragua.yaxa.co/brand/colombina",
+          "https://cdnc.heyzine.com/files/uploaded/v3/ad7fb84df1ee4d368568b6ac620cbdaf7e786251.pdf"
+        ],
+        "resultado": "Los catálogos Colombina muestran más de una barra masticable. Confirmar la línea y el sabor en el envoltorio que se vende."
+      }
     },
     "15496": {
       "nombre": "Shampoo Head & Shoulders 2 en 1, 90 ml",
-      "motivo": "Se encontraron envases Head & Shoulders de 90 ml de varias líneas. Hace falta confirmar cuál variante 2 en 1 vende la tienda."
+      "motivo": "Se encontraron envases Head & Shoulders de 90 ml de varias líneas. Hace falta confirmar cuál variante 2 en 1 vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/head-shoulders",
+          "https://www.launion.com.ni/head-shoulders",
+          "https://distribuidorajiron.com.ni/es/121-shampoo"
+        ],
+        "resultado": "Los catálogos de Head & Shoulders muestran varios shampoos 2 en 1. Confirmar la línea impresa junto a 90 ml."
+      }
     },
     "15497": {
       "nombre": "Shampoo Head & Shoulders limpieza profunda, 90 ml",
-      "motivo": "Las fichas locales muestran Limpieza Renovadora de 90 ml. Hace falta confirmar si Limpieza Profunda es el mismo producto o una variante distinta."
+      "motivo": "Las fichas locales muestran Limpieza Renovadora de 90 ml. Hace falta confirmar si Limpieza Profunda es el mismo producto o una variante distinta.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/head-shoulders",
+          "https://www.walmart.com.ni/shampoo-head-shoulders-limpieza-renovadora-control-caspa-90-ml-ni117/p",
+          "https://www.launion.com.ni/shampoo-head-shoulders-limpieza-renovadora-control-caspa-90-ml-ni117/p"
+        ],
+        "resultado": "Las fotos de 90 ml dicen Limpieza Renovadora. Confirmar si Limpieza Profunda es el nombre que usa el POS para esa variante."
+      }
     },
     "15499": {
       "nombre": "Aceite chorreado (bidón)",
@@ -4009,11 +4144,29 @@
     },
     "15515": {
       "motivo": "Confirmar si la porción es achiote en pasta, molido o en semilla.",
-      "nombre": "Achiote (porción de C$ 10)"
+      "nombre": "Achiote (porción de C$ 10)",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://ribuni.uni.edu.ni/1299/1/40023.pdf",
+          "https://www.economiafamiliar.gob.ni/backend/vistas/doc/cartilla/documento9340358.pdf",
+          "https://distribuidorajiron.com.ni/es/86-achiote"
+        ],
+        "resultado": "La revisión alternativa muestra achiote en varias formas. Confirmar si la porción del negocio se vende en semilla, molida o en pasta."
+      }
     },
     "15516": {
       "motivo": "Confirmar si la porción es achiote en pasta, molido o en semilla.",
-      "nombre": "Achiote (porción de C$ 5)"
+      "nombre": "Achiote (porción de C$ 5)",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://distribuidorajiron.com.ni/es/86-achiote",
+          "https://ribuni.uni.edu.ni/1299/1/40023.pdf",
+          "https://tunicaragua.com/index.php/es/hogar?view=category&virtuemart_category_id=288"
+        ],
+        "resultado": "El catálogo alternativo muestra varias presentaciones de achiote. Confirmar si la porción del negocio es semilla, molida o en pasta."
+      }
     },
     "15531": {
       "nombre": "Adrenalina pequeña",
@@ -4029,11 +4182,29 @@
     },
     "15546": {
       "nombre": "Desodorante Lady Speed Stick 10 g",
-      "motivo": "La foto local muestra sobres Lady Speed Stick Duo unidos. Hace falta confirmar qué variante y cuántos sobres corresponden al código de 10 g."
+      "motivo": "La foto local muestra sobres Lady Speed Stick Duo unidos. Hace falta confirmar qué variante y cuántos sobres corresponden al código de 10 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/lady-speed-stick",
+          "https://sumerlabs.com/catalogo/fonshop/producto/desodorante-lady-speed-stick-sobre-smr-94dbf73cbd923b3aa489f7ac1788f797507c2c6b",
+          "https://distribuidorajiron.com.ni/es/203-desodorante"
+        ],
+        "resultado": "La alternativa local identifica Lady Speed Stick en sobre. Sigue haciendo falta confirmar la fragancia y si se vende un sobre de 10 g o un dúo."
+      }
     },
     "15625": {
       "nombre": "Acetaminofén 500 mg (tableta)",
-      "motivo": "Hay tabletas de acetaminofén de 500 mg de varios laboratorios. Confirmar la marca y el blíster que se vende."
+      "motivo": "Hay tabletas de acetaminofén de 500 mg de varios laboratorios. Confirmar la marca y el blíster que se vende.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://ceguel.com.ni/productos/linea-genericos/acetaminofen/",
+          "https://www.minsa.gob.ni/sites/default/files/publicaciones/LISTA%20B%C3%81SICA%20DE%20MEDICAMENTOS%20ESENCIALES-2022.pdf",
+          "https://www.pharmainsa.com.ni/product-page/acetaminofen-tabletas"
+        ],
+        "resultado": "Ceguel y Pharmainsa ofrecen acetaminofén en tabletas. Confirmar el laboratorio y ver el blíster de 500 mg del negocio."
+      }
     },
     "15629": {
       "nombre": "Acetaminofén MK (tableta)",
@@ -4049,19 +4220,55 @@
     },
     "15630": {
       "nombre": "Acetaminofén niños (tableta)",
-      "motivo": "El POS no indica laboratorio ni miligramos por tableta. Confirmar ambos datos con una foto del frente y del blíster."
+      "motivo": "El POS no indica laboratorio ni miligramos por tableta. Confirmar ambos datos con una foto del frente y del blíster.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.pharmainsa.com.ni/product-page/acetaminofen-tabletas",
+          "https://ceguel.com.ni/productos/linea-genericos/acetaminofen/",
+          "https://www.minsa.gob.ni/sites/default/files/publicaciones/LISTA%20B%C3%81SICA%20DE%20MEDICAMENTOS%20ESENCIALES-2022.pdf"
+        ],
+        "resultado": "La presentación infantil no queda identificada. Confirmar laboratorio y concentración que indica el envoltorio o blíster."
+      }
     },
     "15646": {
       "nombre": "Alka-AD antidiarreico",
-      "motivo": "Las fuentes muestran un exhibidor de 72 tabletas, una caja de 60 o un blíster múltiple. Confirmar el formato vendido con este código."
+      "motivo": "Las fuentes muestran un exhibidor de 72 tabletas, una caja de 60 o un blíster múltiple. Confirmar el formato vendido con este código.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.mific.gob.ni/Portals/0/Documentos/DIPRODEC/DOCUMENTOS/LISTA%20DE%20PRECIOS%20MEDICAMENTOS/Marzo-Septiembre%202022.ashx.pdf",
+          "https://medco.online.com.ni/Product/Detail/6114494",
+          "https://jwcomercial.catalog.kyte.site/medicina"
+        ],
+        "resultado": "Medco muestra una caja de 72 tabletas con precio por unidad. Confirmar el formato vendido bajo este código y fotografiarlo."
+      }
     },
     "15647": {
       "nombre": "Alka-Seltzer",
-      "motivo": "Jirón y otras farmacias muestran cajas de distintos tamaños. Confirmar si el código corresponde a un sobre, una tableta o una caja."
+      "motivo": "Jirón y otras farmacias muestran cajas de distintos tamaños. Confirmar si el código corresponde a un sobre, una tableta o una caja.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://diinsa.com.ni/bayer/",
+          "https://www.walmart.com.ni/bayer",
+          "https://distribuidorajiron.com.ni/es/medicina-popular/2313-alka-seltzer-60-tablets.html"
+        ],
+        "resultado": "Jirón y Bayer muestran presentaciones de Alka-Seltzer. Hace falta identificar si MiMarket vende comprimido, sobre o caja con este código."
+      }
     },
     "15648": {
       "nombre": "Alka-Seltzer Black",
-      "motivo": "La imagen regional de empaque negro y naranja no permite identificar la variante que el POS llama Black. Hace falta foto del frente del empaque."
+      "motivo": "La imagen regional de empaque negro y naranja no permite identificar la variante que el POS llama Black. Hace falta foto del frente del empaque.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/alka-seltzer-extreme-boost-taef-50-gt-ni5688-2-5/p",
+          "https://www.sedisur.com/wp-content/uploads/2022/10/Catalogo-Productos-Bayer-WEB.pdf",
+          "https://diinsa.com.ni/bayer/"
+        ],
+        "resultado": "La alternativa muestra Alka-Seltzer Extreme Boost. Confirmar en el empaque si corresponde al nombre Black del POS."
+      }
     },
     "15727": {
       "nombre": "Ablandador McCormick 6 g (sobre)",
@@ -4134,7 +4341,16 @@
     },
     "16304": {
       "nombre": "Número inflable de 16\"",
-      "motivo": "Las fichas muestran globos de 16 pulgadas en varios números y colores. Hace falta confirmar si el código representa un número específico o un surtido."
+      "motivo": "Las fichas muestran globos de 16 pulgadas en varios números y colores. Hace falta confirmar si el código representa un número específico o un surtido.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.glartent.com/NI/Managua/400813949771546/Globo-Party",
+          "https://sumerlabs.com/catalogo/libreradami-cortezalberto240481g/producto/globos-numeros-cumpleanos-smr-7177f553d7b2e51b871e64255c8e48b5204bf56b",
+          "https://www.evepla.com/NI/Managua/517712288241295/La-Casa-del-Globo"
+        ],
+        "resultado": "Los catálogos locales muestran números inflables individuales de 16 pulgadas. Confirmar si el código es para un número específico o un surtido."
+      }
     },
     "16334": {
       "nombre": "Café Casa del Café molido 454 g",
@@ -4160,7 +4376,16 @@
     },
     "16358": {
       "nombre": "Bombón Colombina (unidad)",
-      "motivo": "Las fichas de Colombina muestran bolsas de distintos sabores. Hace falta identificar el sabor o surtido de los bombones vendidos por unidad."
+      "motivo": "Las fichas de Colombina muestran bolsas de distintos sabores. Hace falta identificar el sabor o surtido de los bombones vendidos por unidad.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://6777454.app.netsuite.com/core/media/media.nl?_xt=.pdf&c=6777454&h=jyZWLTuprx2sUFuPKIRU2A_CJ3M9hdRzNhHxC4b1WhPpXbY-&id=1402791",
+          "https://6777454.app.netsuite.com/core/media/media.nl?_xt=.pdf&c=6777454&h=VfSZXm34UhnkZuOxV7R2nk9U7y5DExI_jMbsWKFkCb8tkdSh&id=1450750",
+          "https://www.mincit.gov.co/mincomercioexterior/temas-de-interes/reduccion-arancelaria-materias-primas-y-bienes-de/registroproduccion-de-bienes-nacionales-05abr2021.aspx"
+        ],
+        "resultado": "El catálogo alternativo ofrece Bon Bon Bum surtido. Confirmar línea y sabor, o si se vende surtido, con el envoltorio de una unidad."
+      }
     },
     "16460": {
       "nombre": "Big Cola roja 3 L",
@@ -4244,31 +4469,94 @@
     },
     "16563": {
       "nombre": "Bolsas para helado 3½ x 8",
-      "motivo": "La medida 3½ x 8 se verificó en un paquete mayorista de 500 bolsas. Hace falta confirmar cuántas trae el paquete que vende la tienda."
+      "motivo": "La medida 3½ x 8 se verificó en un paquete mayorista de 500 bolsas. Hace falta confirmar cuántas trae el paquete que vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://distribuidorajiron.com.ni/es/bolsa-balanza/6054-bolsa-para-helado.html",
+          "https://distribuidorajiron.com.ni/es/59-bolsa-balanza",
+          "https://distribuidorajiron.com.ni/es/mas-vendidos?page=16"
+        ],
+        "resultado": "Jirón lista las bolsas de 3.5 × 8 en un paquete de 500. Confirmar cuántas trae el paquete de MiMarket."
+      }
     },
     "16686": {
       "nombre": "Biberón Tritan 4 oz",
-      "motivo": "Se encontraron biberones de 4 oz en otros materiales y varios modelos Tritan. Hace falta confirmar la marca y el modelo de la tienda."
+      "motivo": "Se encontraron biberones de 4 oz en otros materiales y varios modelos Tritan. Hace falta confirmar la marca y el modelo de la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/bebes-y-ni%C3%B1os/comida-para-bebe-y-lactancia/biberones-y-tetinas",
+          "https://www.suplidora.com.ni/wp-content/uploads/2023/10/CATALOGO-SUPLIDORA-INTERNACIONAL_compressed.pdf",
+          "https://www.walmart.com.ni/biberon-zoo-8-oz-para-bebe/p"
+        ],
+        "resultado": "Las fotos regionales muestran biberones en materiales, tamaños y marcas distintos. Hace falta ver el modelo Tritan de 4 oz que vende el negocio."
+      }
     },
     "16725": {
       "nombre": "Bolsa plástica 2 libras",
-      "motivo": "La ficha de 6 x 10 pulgadas muestra en la foto un paquete rotulado 3.5 x 8. Otra fuente usa 6 x 10 para bolsas de una libra. Hace falta una foto de las bolsas de dos libras."
+      "motivo": "La ficha de 6 x 10 pulgadas muestra en la foto un paquete rotulado 3.5 x 8. Otra fuente usa 6 x 10 para bolsas de una libra. Hace falta una foto de las bolsas de dos libras.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.paiz.com.hn/bolsa-clarita-lisa-b-d-6x10-124und/p",
+          "https://wildernic.wixsite.com/plastyvariedades/product-page/100-bolsas-6-x-8-2-libras-1",
+          "https://distribuidorajiron.com.ni/es/59-bolsa-balanza"
+        ],
+        "resultado": "Paiz muestra una bolsa de 6 × 10 en otro envase y la ficha de Plastyvariedades no muestra una medida coherente. Hace falta foto del paquete de 2 lb."
+      }
     },
     "16756": {
       "nombre": "Bolsas gabacha medianas (100)",
-      "motivo": "El distribuidor lista la mediana de 100 unidades, pero usa la misma imagen en la talla mini. Hace falta comprobar la medida en el empaque."
+      "motivo": "El distribuidor lista la mediana de 100 unidades, pero usa la misma imagen en la talla mini. Hace falta comprobar la medida en el empaque.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://innoplasticsv.com/products/",
+          "https://distribuidorajiron.com.ni/es/bolsa-balanza/6037-bolsa-gabacha-mediana.html",
+          "https://distribuidorajiron.com.ni/es/59-bolsa-balanza"
+        ],
+        "resultado": "Jirón lista 100 bolsas de 9.5 × 18 y el fabricante alternativo usa otra nomenclatura. Hace falta comprobar el tamaño impreso en el paquete."
+      }
     },
     "16757": {
       "nombre": "Bolsas gabacha mini",
-      "motivo": "La ficha de bolsa mini de 7 x 14 usa la misma imagen que la mediana. Hace falta una foto con la medida de la mini visible."
+      "motivo": "La ficha de bolsa mini de 7 x 14 usa la misma imagen que la mediana. Hace falta una foto con la medida de la mini visible.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://toto.com.sv/linea-de-consumo-popular/",
+          "https://distribuidorajiron.com.ni/es/bolsa-balanza/6797-bolsa-gabacha-mini-7-x-14-100-uni.html",
+          "https://distribuidorajiron.com.ni/es/mas-vendidos?page=31"
+        ],
+        "resultado": "Jirón identifica la mini de 7 × 14, pero la foto alternativa de Gabacha Mini no prueba la medida del paquete que vende MiMarket."
+      }
     },
     "16818": {
       "nombre": "Botoneta negra (unidad)",
-      "motivo": "Las fichas muestran Botonetas Best en empaques grandes. Hace falta identificar la variante llamada negra en el POS y su envoltorio individual."
+      "motivo": "Las fichas muestran Botonetas Best en empaques grandes. Hace falta identificar la variante llamada negra en el POS y su envoltorio individual.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/best",
+          "https://www.launion.com.ni/best",
+          "https://digesto.asamblea.gob.ni/consultas/util/pdf.php?rdd=iHVgvyXHFbc%3D&type=rdd"
+        ],
+        "resultado": "El catálogo Best no aclara cuál es la variante denominada negra ni su envoltorio unitario."
+      }
     },
     "16856": {
       "nombre": "Bubbaloo (unidad)",
-      "motivo": "La distribuidora muestra cajas de Bubbaloo. Hace falta confirmar los sabores vendidos por unidad y ver el envoltorio."
+      "motivo": "La distribuidora muestra cajas de Bubbaloo. Hace falta confirmar los sabores vendidos por unidad y ver el envoltorio.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://guatemala.yaxa.co/brand/bubbaloo",
+          "https://www.mayoreosuperalvarez.com/pdf/descargar.php",
+          "https://cadimportinc.com/wp-content/uploads/2026/02/Catalogo-2026.pdf"
+        ],
+        "resultado": "El catálogo regional ofrece varios sabores Bubbaloo. Hace falta el envoltorio de una unidad del negocio o confirmar el surtido."
+      }
     },
     "16901": {
       "nombre": "Café instantáneo 1820 (vaso) 50 g",
@@ -4332,11 +4620,16 @@
     },
     "17078": {
       "nombre": "Cepillo dental clásico duro",
-      "motivo": "La ficha de Jirón muestra cepillos clásicos de varias durezas. Falta una foto unitaria con la indicación duro y la marca del que vende MiMarket."
-    },
-    "17110": {
-      "nombre": "Cepillo dental Premier",
-      "motivo": "La ficha Premier Clean x6 de Medco muestra un cepillo Colgate. Hace falta una foto del empaque Premier Clean."
+      "motivo": "La ficha de Jirón muestra cepillos clásicos de varias durezas. Falta una foto unitaria con la indicación duro y la marca del que vende MiMarket.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/cepillo-dental-colgate-clasico-unidad/p",
+          "https://distribuidorajiron.com.ni/es/201-cepillo-dental",
+          "https://distribuidorajiron.com.ni/es/cepillo-dental/2587-cepillos-dental-colgate-clasico.html"
+        ],
+        "resultado": "La alternativa confirma Colgate Clásico en unidad, sin distinguir el modelo duro. Hace falta foto con marca y dureza visibles."
+      }
     },
     "17227": {
       "nombre": "Chicharrones Auténticos 18 g",
@@ -4399,11 +4692,29 @@
     },
     "17281": {
       "nombre": "Chiclín (unidad)",
-      "motivo": "Se verificó la bolsa Chiclín Mix. Hace falta confirmar si la unidad corresponde a un surtido o a un sabor específico."
+      "motivo": "Se verificó la bolsa Chiclín Mix. Hace falta confirmar si la unidad corresponde a un surtido o a un sabor específico.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.tunicaragua.com/index.php/es/recargas?language=es-ES&manage=0&orderby=product_sku&view=category&virtuemart_category_id=799&virtuemart_manufacturer_id=0",
+          "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?dir=ASC&language=es-ES&limit=40&manage=0&orderby=%60p%60.product_sku&start=48&view=category&virtuemart_category_id=1088&virtuemart_manufacturer_id=0",
+          "https://tunicaragua.com/index.php/es/supermercado-la-colonia?view=category&virtuemart_category_id=799"
+        ],
+        "resultado": "La revisión del catálogo local no permite distinguir la unidad Chiclín de la bolsa surtida. Hace falta una foto del envoltorio."
+      }
     },
     "17297": {
       "nombre": "Chocolate con almendras Hershey's 43 g",
-      "motivo": "La barra Hershey’s con almendras verificable es de 41 g. La barra Hershey’s de 43 g que se encontró es de chocolate con leche. Falta confirmar la presentación de 43 g con almendras."
+      "motivo": "La barra Hershey’s con almendras verificable es de 41 g. La barra Hershey’s de 43 g que se encontró es de chocolate con leche. Falta confirmar la presentación de 43 g con almendras.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.soriana.com/chocolate-hersheys-bites-con-leche-y-almendras-43-gr/1011435.html",
+          "https://debbiescornerhn.com/products/hersheys-milk-chocolate-with-almonds",
+          "https://debbiescornerhn.com/products/hersheys-milk-chocolate"
+        ],
+        "resultado": "La presentación de 43 g con almendras hallada es Hershey’s Bites. Confirmar si MiMarket vende esa bolsa o una barra."
+      }
     },
     "17341": {
       "nombre": "Coca Cola 1 L (vidrio)",
@@ -4431,19 +4742,51 @@
     },
     "17405": {
       "nombre": "Purina pollo inicio (libra)",
-      "motivo": "Se encontraron varias fórmulas Purina de inicio para pollos en la región. Hace falta identificar el nombre del saco del que se vende por libra."
+      "motivo": "Se encontraron varias fórmulas Purina de inicio para pollos en la región. Hace falta identificar el nombre del saco del que se vende por libra.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.findglocal.com/NI/Managua/1921350131227262/Nutrimentos-Purina-Distribuidora-%22La-Espiga%22."
+        ],
+        "resultado": "El catálogo alternativo no identifica qué fórmula Purina se vende fraccionada como pollo inicio. Hace falta foto del saco y su fórmula."
+      }
     },
     "17431": {
       "nombre": "Cigarro Fisher rojo (cajetilla)",
-      "motivo": "Los listados consultados no muestran una foto legible de la cajetilla Fisher roja. Hace falta foto del negocio."
+      "motivo": "Los listados consultados no muestran una foto legible de la cajetilla Fisher roja. Hace falta foto del negocio.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?language=es-ES&manage=0&orderby=ordering&view=category&virtuemart_category_id=327"
+        ],
+        "resultado": "Los listados alternativos no muestran una foto identificable de la cajetilla Fisher roja. Hace falta foto del frente."
+      }
     },
     "17484": {
       "nombre": "Chicharrones limón y sal 20 g",
-      "motivo": "Las búsquedas muestran chicharrones con limón en otras marcas o tamaños. Hace falta identificar la marca y el frente de la bolsa de 20 g."
+      "motivo": "Las búsquedas muestran chicharrones con limón en otras marcas o tamaños. Hace falta identificar la marca y el frente de la bolsa de 20 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://fitia.app/calories-nutritional-information/slug-F7549lsigg/",
+          "https://www.dinant.com/ecs-productos/chicharrones-limon/",
+          "https://www.productosdiana.com/productos/chicharrones-con-limon"
+        ],
+        "resultado": "La búsqueda identifica chicharrones limón y sal de Kitty y otras marcas. Confirmar la marca y fotografiar el frente de la bolsa de 20 g."
+      }
     },
     "17485": {
       "nombre": "Chicharrones limón y sal 60 g",
-      "motivo": "Las fichas locales no permiten verificar la marca y la bolsa de chicharrones limón y sal de 60 g."
+      "motivo": "Las fichas locales no permiten verificar la marca y la bolsa de chicharrones limón y sal de 60 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/kitty-chicharon-60gr/p",
+          "https://fitia.app/calories-nutritional-information/slug-F7549lsigg/",
+          "https://distribuidorajiron.com.ni/es/171-chicharron"
+        ],
+        "resultado": "La ficha local identifica Kitty de 60 g, pero el POS no indica la marca. Confirmar marca y variante de limón y sal."
+      }
     },
     "17486": {
       "nombre": "Chicharrones Picositos Yummies (unidad)",
@@ -4470,15 +4813,42 @@
     },
     "17565": {
       "nombre": "Cigarro Belmont rojo (medio paquete)",
-      "motivo": "Las fichas de Belmont rojo muestran cajetillas completas. Confirmar qué cantidad y formato corresponden al medio paquete."
+      "motivo": "Las fichas de Belmont rojo muestran cajetillas completas. Confirmar qué cantidad y formato corresponden al medio paquete.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://tunicaragua.com/index.php/es/automotriz?dir=ASC&language=es-ES&manage=0&view=category&virtuemart_category_id=327&virtuemart_manufacturer_id=0",
+          "https://deliverymovil.com/sanjuandelsur/daily-stop/",
+          "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?language=es-ES&manage=0&orderby=ordering&view=category&virtuemart_category_id=327&virtuemart_manufacturer_id=0"
+        ],
+        "resultado": "El catálogo presenta cajetillas Belmont. Hace falta confirmar la cantidad y el tipo de empaque del medio paquete vendido."
+      }
     },
     "17575": {
       "nombre": "Cigarro Pall Mall tropical (10)",
-      "motivo": "La foto regional disponible muestra Pall Mall Mykonos de 10. Confirmar si el empaque vendido dice Mykonos o identifica otra variante tropical."
+      "motivo": "La foto regional disponible muestra Pall Mall Mykonos de 10. Confirmar si el empaque vendido dice Mykonos o identifica otra variante tropical.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://ribuni.uni.edu.ni/6516/1/200081.pdf",
+          "https://www.distribuidoramorazan.com/shop/product/1323-pall-mall-mykonos-10-s-4228",
+          "https://zmdcomercial.com/"
+        ],
+        "resultado": "El distribuidor regional identifica Pall Mall Mykonos de diez. Confirmar si corresponde al tropical del POS y fotografiar el frente."
+      }
     },
     "17818": {
       "nombre": "Crema Chantilly",
-      "motivo": "Se encontraron fotos de crema Chantilly preparada y productos envasados para repostería. Hace falta confirmar si este código corresponde a crema preparada, aerosol, polvo u otro formato."
+      "motivo": "Se encontraron fotos de crema Chantilly preparada y productos envasados para repostería. Hace falta confirmar si este código corresponde a crema preparada, aerosol, polvo u otro formato.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://agricorp.com.ni/wp-content/uploads/2023/04/Catalogo-Agricorp-2023.pdf",
+          "https://www.agricorp.com.ni/wp-content/uploads/2021/07/CompressedCatalog2021.pdf",
+          "https://www.pricesmart.com/es-ni/busqueda?q=Crema+de"
+        ],
+        "resultado": "Los catálogos de repostería muestran distintas presentaciones de chantilly. Confirmar si el código es crema preparada, polvo, aerosol u otro formato."
+      }
     },
     "17830": {
       "nombre": "Crema criolla",
@@ -4517,7 +4887,16 @@
     },
     "18179": {
       "nombre": "Eskimo ron con pasas 1 L",
-      "motivo": "La ficha y el gráfico de una misma referencia de ron con pasas alternan entre 965 y 970 g. Hace falta comprobar que el envase de la tienda corresponde a 1 L."
+      "motivo": "La ficha y el gráfico de una misma referencia de ron con pasas alternan entre 965 y 970 g. Hace falta comprobar que el envase de la tienda corresponde a 1 L.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/helado-ron-con-pasas-eskimo-lt-484gr/p",
+          "https://repositorio.unan.edu.ni/id/eprint/10759/1/99979.pdf",
+          "https://www.launion.com.ni/helado-eskimo-ron-conpasa-piching-1980ml/p"
+        ],
+        "resultado": "Las fichas muestran tarrinas de distintos tamaños. Hace falta verificar el envase rotulado 1 L."
+      }
     },
     "18193": {
       "nombre": "Eskimo vaso 8 oz napolitano",
@@ -4567,55 +4946,172 @@
     },
     "18273": {
       "nombre": "Detergente Espumil 1 kg",
-      "motivo": "La ficha localizada muestra Espumil Explosión Frescura de 1 kg. Hace falta confirmar que ese es el Espumil de 1 kg de este código."
+      "motivo": "La ficha localizada muestra Espumil Explosión Frescura de 1 kg. Hace falta confirmar que ese es el Espumil de 1 kg de este código.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/espumil",
+          "https://www.launion.com.ni/espumil",
+          "https://www.walmart.com.ni/detergente-en-polvo-espumil-explosion-frescura-1000gr-4/p"
+        ],
+        "resultado": "La ficha de 1 kg dice Espumil Explosión Frescura. Confirmar si corresponde al código genérico o a otra variante vendida."
+      }
     },
     "18295": {
       "nombre": "Detergente Xedex 115 g",
-      "motivo": "Distribuidora Jirón lista Xedex de 115 g, pero su foto muestra varios sobres sin distinguir claramente la variante Máximo Poder. Hace falta una foto del sobre exacto."
+      "motivo": "Distribuidora Jirón lista Xedex de 115 g, pero su foto muestra varios sobres sin distinguir claramente la variante Máximo Poder. Hace falta una foto del sobre exacto.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/det-polvo-xedex-max-poder-frutos-2-3-kg-8/p",
+          "https://www.launion.com.ni/xedex",
+          "https://www.walmart.com.ni/xedex"
+        ],
+        "resultado": "La foto regional de 115 g dice Poder Extremo Multiacción. Hace falta confirmar el frente del sobre Máximo Poder de MiMarket."
+      }
     },
     "18376": {
       "nombre": "Dolofin (tableta)",
-      "motivo": "Medco muestra la caja mayorista de Dolofin. Hace falta una foto del blíster o empaque de la tableta vendida."
+      "motivo": "Medco muestra la caja mayorista de Dolofin. Hace falta una foto del blíster o empaque de la tableta vendida.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://sv.siman.com/dolofin-rapida-accion-x-100-tabletas-823468923/p",
+          "https://medco.online.com.ni/Product/Detail/5901400",
+          "https://www.mific.gob.ni/Portals/0/Documentos/DIPRODEC/DOCUMENTOS/LISTA%20DE%20PRECIOS%20MEDICAMENTOS/Precios%20de%20Medicamentos%20de%20Consumo%20Humano%2009022024_.pdf"
+        ],
+        "resultado": "Medco y Siman muestran la caja de 100 tabletas de Dolofin. Hace falta una foto de la tableta o de su empaque de venta."
+      }
     },
     "18538": {
       "nombre": "Detergente Blancanieves 100 g",
-      "motivo": "Las fichas locales muestran Blanca Nieves de 250 g. Hace falta una foto con 100 g legible."
+      "motivo": "Las fichas locales muestran Blanca Nieves de 250 g. Hace falta una foto con 100 g legible.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.tiendalacorona.com/compra/blanca-nieves-detergente-en-polvo-caja-con-100-bolsas-de-100-g-84",
+          "https://multimedia.corprensa.com/multimedia/ediciones/la_prensa/2018-03-02/files/assets/common/downloads/edicion_20180302.pdf",
+          "https://www.tiendalacorona.com/catalog/detergente-en-polvo-2"
+        ],
+        "resultado": "La fábrica lista Blanca Nieves en bolsitas de 100 g, pero el archivo de la foto frontal no abrió. Hace falta una imagen legible del sobre de 100 g."
+      }
     },
     "18550": {
       "nombre": "Detergente Lariansa 500 g",
-      "motivo": "Las fotos identificables muestran Lariansa en bolsas de 1 kg u otros tamaños. Hace falta confirmar una bolsa de 500 g."
+      "motivo": "Las fotos identificables muestran Lariansa en bolsas de 1 kg u otros tamaños. Hace falta confirmar una bolsa de 500 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.maxidespensa.com.gt/detergente-polvo-lariansa-bolsa-1kg/p",
+          "https://distribuidorajiron.com.ni/es/267-detergentes",
+          "https://www.walmart.com.ni/lariansa"
+        ],
+        "resultado": "La foto Lariansa que se encontró es de 1 kg. Hace falta una foto de la bolsa de 500 g."
+      }
     },
     "18651": {
       "nombre": "Colorante para ropa El Caballito azul",
-      "motivo": "El fabricante y Jirón muestran varios azules El Caballito, como profundo, cielo y mezclilla. Confirmar el tono impreso del sobre."
+      "motivo": "El fabricante y Jirón muestran varios azules El Caballito, como profundo, cielo y mezclilla. Confirmar el tono impreso del sobre.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-a2bfa0ec-46eb-4cc9-9d80-5f3a9e570d84/8306217a-6e1e-4f3c-a266-31c47a81bd09.pdf",
+          "https://distribuidorajiron.com.ni/es/154-tinte-de-ropa",
+          "https://coloranteselcaballito.com/collections/el-caballito/products/el-caballito-jeans-colorante-para-ropa-azul-mezclilla-20g"
+        ],
+        "resultado": "El fabricante muestra tonos azul mezclilla y otras variantes. Hace falta confirmar el azul impreso en el sobre."
+      }
     },
     "18652": {
       "nombre": "Colorante para ropa El Caballito negro",
-      "motivo": "Jirón muestra Negro Elegante y Negro Mezclilla El Caballito. Confirmar la variante del sobre."
+      "motivo": "Jirón muestra Negro Elegante y Negro Mezclilla El Caballito. Confirmar la variante del sobre.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-a2bfa0ec-46eb-4cc9-9d80-5f3a9e570d84/8306217a-6e1e-4f3c-a266-31c47a81bd09.pdf",
+          "https://coloranteselcaballito.com/collections/el-caballito",
+          "https://coloranteselcaballito.com/collections/el-caballito/products/el-caballito-colorante-para-ropa-negro-elegante-20g"
+        ],
+        "resultado": "El fabricante y Jirón ofrecen negros distintos. Hace falta confirmar el nombre impreso en el sobre."
+      }
     },
     "19056": {
       "nombre": "Ibuprofeno 400 mg gel (cápsula)",
-      "motivo": "La foto de Fenodol Max de 400 mg muestra una caja de 30 cápsulas. Confirmar el laboratorio y el blíster de la cápsula que se vende."
+      "motivo": "La foto de Fenodol Max de 400 mg muestra una caja de 30 cápsulas. Confirmar el laboratorio y el blíster de la cápsula que se vende.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/fenodol-max-ibuprofeno-400mg-30gelcap/p",
+          "https://fenodolmax.com/producto/",
+          "https://www.ramos.com.ni/linea-farmaceutica/24-analgesico/202-ibuprofeno-400-600-mg-tabletas.html"
+        ],
+        "resultado": "La ficha de Fenodol Max muestra una caja de 30 cápsulas. Confirmar marca y blíster de la cápsula de gel de 400 mg."
+      }
     },
     "19058": {
       "nombre": "Ibuprofeno 600 mg (tableta)",
-      "motivo": "Las fuentes muestran tabletas de ibuprofeno de varios laboratorios. Confirmar fabricante y blíster de la tableta de 600 mg."
+      "motivo": "Las fuentes muestran tabletas de ibuprofeno de varios laboratorios. Confirmar fabricante y blíster de la tableta de 600 mg.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.minsa.gob.ni/sites/default/files/2022-10/productos_farmaceutico_cancelados.2668.pdf",
+          "https://www.ramos.com.ni/linea-farmaceutica/24-analgesico/202-ibuprofeno-400-600-mg-tabletas.html",
+          "https://labbengoechea.com.ni/producto/ibuprofeno-600mg/"
+        ],
+        "resultado": "Fabricantes locales muestran varias tabletas de ibuprofeno de 600 mg. Hace falta confirmar fabricante y blíster."
+      }
     },
     "19059": {
       "nombre": "Ibuprofeno 600 mg gel (cápsula)",
-      "motivo": "Las fichas de MK Liqui-Gels 600 mg muestran un empaque de 50 cápsulas. Confirmar si es el fabricante y empaque que corresponde a este código."
+      "motivo": "Las fichas de MK Liqui-Gels 600 mg muestran un empaque de 50 cápsulas. Confirmar si es el fabricante y empaque que corresponde a este código.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://medco.online.com.ni/Product/Detail/6652589",
+          "https://www.launion.com.ni/ibuprofeno-mk-liqui-gels-600mg-x-50cap-ni2695-2-8/p",
+          "https://www.walmart.com.ni/ibuprofeno-mk-liqui-gels-600mg-x-50cap-ni2695-2-8/p"
+        ],
+        "resultado": "Medco lista MK Liqui-Gels de 600 mg por cápsula en caja de 50. Hace falta confirmar si ese es el producto del negocio."
+      }
     },
     "19060": {
       "nombre": "Ibuprofeno 800 mg gel (cápsula)",
-      "motivo": "Las fichas de ibuprofeno de 800 mg encontradas no confirman una cápsula de gel. Hace falta una foto del blíster o del empaque."
+      "motivo": "Las fichas de ibuprofeno de 800 mg encontradas no confirman una cápsula de gel. Hace falta una foto del blíster o del empaque.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://web.farcosa.com.ni/producto/ibuprofeno-800mg/",
+          "https://mallenlab.com/producto/ibufar-800/",
+          "https://sumerlabs.com/catalogo/farmarostran-jonnyrostrany/producto/rufen-smr-32423cce0882e96bbb4df035a2cc2f7a28b86bbe"
+        ],
+        "resultado": "Las fichas de ibuprofeno de 800 mg no comprueban la cápsula de gel de este código. Hace falta el frente y el blíster de la unidad vendida."
+      }
     },
     "19061": {
       "nombre": "Ibuprofeno 800 mg (tableta)",
-      "motivo": "Se encontraron fabricantes distintos para el ibuprofeno en tabletas de 800 mg. Confirmar cuál vende MiMarket."
+      "motivo": "Se encontraron fabricantes distintos para el ibuprofeno en tabletas de 800 mg. Confirmar cuál vende MiMarket.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.pharmainsa.com.ni/product-page/ibuprofeno-tabletas",
+          "https://web.farcosa.com.ni/producto/ibuprofeno-800mg/",
+          "https://www.minsa.gob.ni/sites/default/files/2022-10/productos_farmaceutico_cancelados.2668.pdf"
+        ],
+        "resultado": "Se encontraron varios laboratorios que fabrican tabletas de ibuprofeno de 800 mg. Confirmar el blíster que vende el negocio."
+      }
     },
     "19071": {
       "nombre": "Galleta Best con maní (unidad)",
-      "motivo": "La ficha de Best muestra el paquete exterior con 12 unidades. Hace falta una foto legible del envoltorio individual de la galleta de maní."
+      "motivo": "La ficha de Best muestra el paquete exterior con 12 unidades. Hace falta una foto legible del envoltorio individual de la galleta de maní.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.hn/galleta-de-mani-marca-best-20gr/p",
+          "https://www.walmart.com.ni/best",
+          "https://www.walmart.com.ni/galleta-best-crema-de-mani-240-g/p"
+        ],
+        "resultado": "La ficha de Honduras identifica el envoltorio individual Best de 20 g. Hace falta comprobar que corresponde a la unidad del negocio y obtener una foto que abra."
+      }
     },
     "19074": {
       "nombre": "Galleta Bridge fresa (paquete)",
@@ -4712,7 +5208,16 @@
     },
     "19136": {
       "nombre": "Galleta María (tubo) 135 g",
-      "motivo": "Hay varios tubos de galletas María de 135 g de marcas distintas. Falta confirmar cuál vende la tienda."
+      "motivo": "Hay varios tubos de galletas María de 135 g de marcas distintas. Falta confirmar cuál vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://compreloadomicilio.com/ni/tienda/xochilt/categoria/galletas",
+          "https://www.walmart.com.ni/abarrotes/galletas?page=5",
+          "https://ribuni.uni.edu.ni/5131/1/16416.pdf"
+        ],
+        "resultado": "Una tienda muestra una María de 135 g. Hace falta confirmar que la marca sea la del tubo que vende MiMarket."
+      }
     },
     "19152": {
       "nombre": "Galleta Pindi chocolate (unidad)",
@@ -4738,7 +5243,16 @@
     },
     "19161": {
       "nombre": "Galleta Recreo (unidad)",
-      "motivo": "Las fichas de Galleta Recreo muestran un paquete de ocho y un tubo de 167 g. Hace falta confirmar el formato individual de la tienda."
+      "motivo": "Las fichas de Galleta Recreo muestran un paquete de ocho y un tubo de 167 g. Hace falta confirmar el formato individual de la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://lacolonia.com.ni/producto/1240011",
+          "https://www.volza.com/p/biscuits/hsn-code-190531/import-data/imports-in-nicaragua/origin-costa-rica/",
+          "https://www.walmart.com.ni/abarrotes/galletas?page=5"
+        ],
+        "resultado": "La Colonia muestra el tubo de 167 g y Walmart otra presentación. Hace falta confirmar cómo viene la unidad."
+      }
     },
     "19185": {
       "nombre": "Galletas Del Carmen avena con chocolate",
@@ -4800,15 +5314,29 @@
     },
     "19800": {
       "nombre": "Galleta wafer vainilla (24 unidades)",
-      "motivo": "Se encontraron wafer de vainilla de varias marcas y otros recuentos. Hace falta confirmar la marca y el paquete de 24 unidades."
-    },
-    "19824": {
-      "nombre": "Leche Vidamas fresa bolsa 200 ml",
-      "motivo": "Se encontraron Lechelado Eskimo fresa de 200 ml, leche Eskimo fresa en bolsa y Vidamás fresa de 400 ml. Hace falta confirmar la bolsa con la marca Vidamás y 200 ml."
+      "motivo": "Se encontraron wafer de vainilla de varias marcas y otros recuentos. Hace falta confirmar la marca y el paquete de 24 unidades.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://agricorp.com.ni/wp-content/uploads/2023/04/Catalogo-Agricorp-2023.pdf",
+          "https://tunicaragua.com/index.php/es/component/virtuemart/?view=category&virtuemart_category_id=796",
+          "https://tunicaragua.com/index.php/es/hogar?view=category&virtuemart_category_id=1099"
+        ],
+        "resultado": "Las fichas de wafer no permiten identificar la marca ni el frente del paquete de vainilla de 24 unidades."
+      }
     },
     "19833": {
       "nombre": "Jabón de lavar Sol grande 400 g",
-      "motivo": "Las fotos encontradas de barras de 400 g corresponden a marcas distintas. Hace falta una foto del empaque Sol."
+      "motivo": "Las fotos encontradas de barras de 400 g corresponden a marcas distintas. Hace falta una foto del empaque Sol.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.casadopapel.com.br/sabao-em-barra-400g-tradicional-girando-sol-p148471-p1277728",
+          "https://www.walmart.com.ni/solenti-jab-tocador-revitaliza-4pk-440gr-4/p",
+          "https://lacolonia.com.ni/categoria/CuidadoDelHogar"
+        ],
+        "resultado": "La alternativa de 400 g es Girando Sol. Hace falta una foto del frente del jabón Sol que vende MiMarket."
+      }
     },
     "19843": {
       "nombre": "Jugo naranja y zanahoria La Perfecta 473 ml",
@@ -4835,11 +5363,29 @@
     },
     "19862": {
       "motivo": "Confirmar si la porción corresponde a manzanilla seca o fresca.",
-      "nombre": "Manzanilla (porción de C$ 20)"
+      "nombre": "Manzanilla (porción de C$ 20)",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://portal.amelica.org/ameli/journal/230/2301351006/",
+          "https://www.economiafamiliar.gob.ni/backend/vistas/doc/cartilla/documento5256436.pdf",
+          "https://ribuni.uni.edu.ni/5082/1/35196.pdf"
+        ],
+        "resultado": "Las fuentes de Nicaragua identifican la manzanilla, pero no muestran si la porción del negocio usa flores frescas o secas."
+      }
     },
     "19873": {
       "nombre": "Jabón Zixx grande",
-      "motivo": "Se encontraron presentaciones Zixx de 400 g en distintos colores y formatos. Confirmar color y si se vende la unidad o el fardo."
+      "motivo": "Se encontraron presentaciones Zixx de 400 g en distintos colores y formatos. Confirmar color y si se vende la unidad o el fardo.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/zixx",
+          "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?view=category&virtuemart_category_id=808",
+          "https://www.walmart.com.ni/zixx"
+        ],
+        "resultado": "La línea Zixx incluye distintas barras y fardos. Confirmar color, peso y si se vende una barra individual."
+      }
     },
     "19891": {
       "nombre": "Kola Shaler",
@@ -4855,7 +5401,15 @@
     },
     "19929": {
       "nombre": "Leche Eskimo descremada 1 L",
-      "motivo": "Las fichas nicaragüenses muestran la variante Eskimo de 1 L descremada y deslactosada. Hay un código separado para esa variante. Hace falta identificar el envase del SKU descremado."
+      "motivo": "Las fichas nicaragüenses muestran la variante Eskimo de 1 L descremada y deslactosada. Hay un código separado para esa variante. Hace falta identificar el envase del SKU descremado.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/eskimo-leche-uht-descremada-0-porc-1lt/p",
+          "https://www.launion.com.ni/leche-eskimo-uht-deslactosada-0-grasa-1-litro/p"
+        ],
+        "resultado": "La foto de Eskimo Descremada de 1 L identifica el costado del envase. No se pudo abrir una foto frontal de esa variante que se distinga de la deslactosada. Hace falta el frente."
+      }
     },
     "20028": {
       "nombre": "Jamón de pavo ahumado 250 g",
@@ -4871,15 +5425,15 @@
     },
     "20072": {
       "nombre": "Jabón de baño Palmolive avena y azúcar 100 g",
-      "motivo": "Las fichas muestran distintos productos Palmolive con avena. Hace falta una foto de la barra de 100 g que identifique también el azúcar."
-    },
-    "20073": {
-      "nombre": "Jabón de baño Palmolive Fusion 100 g",
-      "motivo": "Se encontraron presentaciones Palmolive Fusion de otros pesos y distintas variantes. Hace falta confirmar el envase de 100 g de la tienda."
-    },
-    "20074": {
-      "nombre": "Jabón de baño Palmolive humectante 100 g",
-      "motivo": "Las fichas locales de Oliva y Aloe muestran paquetes de 3 o 6 barras o una barra sin envoltorio. Hace falta confirmar el frente del empaque individual de 100 g."
+      "motivo": "Las fichas muestran distintos productos Palmolive con avena. Hace falta una foto de la barra de 100 g que identifique también el azúcar.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.super99.com/20133077-jabon-avena-azucar-100g",
+          "https://www.walmart.com.ni/jabon-protex-bs-pon-oats-n-brown-sugar-3x100gr/p"
+        ],
+        "resultado": "El catálogo externo muestra una barra de 110 g y Super 99 muestra un paquete de tres barras de 100 g. Hace falta una foto del envoltorio individual de 100 g."
+      }
     },
     "20196": {
       "nombre": "Joyita Fina 1.75 L",
@@ -4907,7 +5461,16 @@
     },
     "20514": {
       "nombre": "Lima de metal Lola",
-      "motivo": "Las fotos de artículos similares muestran otras marcas. Hace falta una foto del producto Lola."
+      "motivo": "Las fotos de artículos similares muestran otras marcas. Hace falta una foto del producto Lola.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.oechsle.pe/lima-de-metal-boreal-para-u%C3%B1as-caja-1un-1000211334/p",
+          "https://www.tiendaslola.com/",
+          "https://tiendaslola.com/contactus"
+        ],
+        "resultado": "La imagen alternativa es de una lima Boreal. Hace falta foto de la lima de metal Lola del negocio."
+      }
     },
     "20638": {
       "nombre": "Maní limón Pro 18 g",
@@ -4923,7 +5486,16 @@
     },
     "20642": {
       "nombre": "Maní picante Pro 80 g",
-      "motivo": "Distribuidora Jirón muestra Maní Pro japonés con jalapeño picante en 80 g. Hace falta confirmar si el SKU de la tienda corresponde a la variedad japonesa."
+      "motivo": "Distribuidora Jirón muestra Maní Pro japonés con jalapeño picante en 80 g. Hace falta confirmar si el SKU de la tienda corresponde a la variedad japonesa.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://distribuidorajiron.com.ni/es/mani-y-nueces/3623-pro-mani-japones-jalapeno-picante-80-gr.html",
+          "https://distribuidorajiron.com.ni/es/mani-y-nueces/3626-pro-semilla-de-maranon-salado-80-gr.html",
+          "https://distribuidoracln.com/wp-content/uploads/2024/06/Catalogo-CLN2024_1505_compressed.pdf"
+        ],
+        "resultado": "Jirón muestra Maní Pro japonés jalapeño de 80 g. Confirmar si coincide con la variante picante del código."
+      }
     },
     "20699": {
       "nombre": "Palito Diana chilimón 40 g",
@@ -4962,23 +5534,66 @@
     },
     "20743": {
       "nombre": "Paleta Beny (unidad)",
-      "motivo": "Beny tiene paletas de sandía, tamarindo y otros sabores. Hace falta confirmar la variante o el surtido de la unidad vendida."
+      "motivo": "Beny tiene paletas de sandía, tamarindo y otros sabores. Hace falta confirmar la variante o el surtido de la unidad vendida.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://cdnc.heyzine.com/files/uploaded/v3/fd8001c97c98699c68f100cec039078909653c00.pdf",
+          "https://dulcesbeny.com/",
+          "https://helpmybusinesspos.info/tag/catalago-de-claves-de-productos-de-abarrotes/"
+        ],
+        "resultado": "Dulces Beny ofrece varias paletas. Hace falta confirmar la variante y ver el envoltorio individual."
+      }
     },
     "20747": {
       "nombre": "Paletas BBW",
-      "motivo": "La sigla BBW no identifica una paleta en las fichas consultadas. Hace falta la marca completa o una foto propia."
+      "motivo": "La sigla BBW no identifica una paleta en las fichas consultadas. Hace falta la marca completa o una foto propia.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?view=category&virtuemart_category_id=719"
+        ],
+        "resultado": "La sigla BBW no identifica el producto en la búsqueda alternativa. Hace falta el nombre de marca o una foto de la paleta."
+      }
     },
     "20750": {
       "nombre": "Pan Don Norlan (36)",
-      "motivo": "Las fuentes de panaderías locales no identifican el empaque Don Norlan de 36 unidades. Hace falta una foto propia del paquete."
+      "motivo": "Las fuentes de panaderías locales no identifican el empaque Don Norlan de 36 unidades. Hace falta una foto propia del paquete.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://donpan.com.ni/",
+          "https://www.launion.com.ni/don-pan",
+          "https://distribuidorajiron.com.ni/es/295-panaderia"
+        ],
+        "resultado": "La revisión alternativa muestra Don Pan, una marca distinta. Hace falta una foto del paquete Don Norlan de 36."
+      }
     },
     "20757": {
       "nombre": "Paleta Eskimo avena",
-      "motivo": "Los catálogos y directorios consultados no muestran una paleta Eskimo de avena identificable. Hace falta una foto propia del envoltorio."
+      "motivo": "Los catálogos y directorios consultados no muestran una paleta Eskimo de avena identificable. Hace falta una foto propia del envoltorio.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://cdn6.f-cdn.com/files/download/1917242/j1XB9ESKIMO%204.pdf",
+          "https://lacolonia.com.ni/producto/1510429",
+          "https://repositorio.unan.edu.ni/id/eprint/15909/1/15909.pdf"
+        ],
+        "resultado": "La referencia alternativa muestra otros helados Eskimo. Hace falta una foto propia del envoltorio de la paleta de avena."
+      }
     },
     "20760": {
       "nombre": "Paleta Eskimo con frutas",
-      "motivo": "El catálogo Eskimo muestra paletas de fruta rellena, de agua y de fruta natural. Hace falta confirmar qué línea y qué sabor o surtido corresponde a este código."
+      "motivo": "El catálogo Eskimo muestra paletas de fruta rellena, de agua y de fruta natural. Hace falta confirmar qué línea y qué sabor o surtido corresponde a este código.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/paletas-eskimo-12pk-fruta-rell-900gr/p",
+          "https://ribuni.uni.edu.ni/496/1/25943.pdf",
+          "https://www.tunicaragua.com/index.php/es/pastelerias?view=productdetails&virtuemart_category_id=1849&virtuemart_product_id=15022"
+        ],
+        "resultado": "Los catálogos muestran fruta rellena en paquete de 12. Confirmar si esa línea, una de agua o una de fruta natural corresponde a la paleta de MiMarket."
+      }
     },
     "20792": {
       "nombre": "Mirinda 1 L",
@@ -4994,7 +5609,16 @@
     },
     "20874": {
       "nombre": "Omeprazol 20 mg (cápsula)",
-      "motivo": "Hay cápsulas de omeprazol de 20 mg de varios laboratorios. Confirmar marca y empaque del producto del negocio."
+      "motivo": "Hay cápsulas de omeprazol de 20 mg de varios laboratorios. Confirmar marca y empaque del producto del negocio.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.minsa.gob.ni/sites/default/files/publicaciones/LISTA%20B%C3%81SICA%20DE%20MEDICAMENTOS%20ESENCIALES-2022.pdf",
+          "https://www.minsa.gob.ni/sites/default/files/2023-02/N%20-%20026%20Lista%20B%C3%A1sica%20de%20Medicamentos%20Esenciales%20%28Segunda%20Edici%C3%B3n%29.pdf",
+          "https://www.minsa.gob.ni/sites/default/files/2023-02/N%2520-%2520026%2520Lista%2520B%25C3%25A1sica%2520de%2520Medicamentos%2520Esenciales%2520%2528Segunda%2520Edici%25C3%25B3n%2529.pdf"
+        ],
+        "resultado": "Ceguel y Medco muestran omeprazol en distintas presentaciones. Confirmar el laboratorio y el blíster del código de 20 mg."
+      }
     },
     "20912": {
       "nombre": "Papas para freír Tip Top (libra)",
@@ -5066,15 +5690,42 @@
     },
     "21075": {
       "nombre": "Marcador permanente Pelikan azul",
-      "motivo": "La ficha local muestra Artline 109 y Pelikan ofrece varios marcadores permanentes azules. Confirmar el número de modelo o la punta."
+      "motivo": "La ficha local muestra Artline 109 y Pelikan ofrece varios marcadores permanentes azules. Confirmar el número de modelo o la punta.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://mayoreo.joinet.com/marca-productos-pagina.php?marca=PELIK",
+          "https://www.pelikan.com/mx/productos/escritura/2149-marcadores-permanentes/1475-permanent-440.html",
+          "https://www.surtiventas.cl/files_manual/Catalogo_Surtiventas_Libreria_10-06-22.pdf"
+        ],
+        "resultado": "Pelikan tiene distintos marcadores permanentes. Confirmar modelo o tipo de punta y ver el marcador azul que vende MiMarket."
+      }
     },
     "21223": {
       "nombre": "Papel higiénico Nevax rendidor (4 rollos)",
-      "motivo": "Las fichas de cuatro rollos muestran ExtraMás y EconoMax. Hace falta la foto del paquete Rendidor."
+      "motivo": "Las fichas de cuatro rollos muestran ExtraMás y EconoMax. Hace falta la foto del paquete Rendidor.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.maxipali.co.cr/nevax",
+          "https://www.launion.com.ni/nevax",
+          "https://maxipali.com.ni/accion-comercial/aqui-si-te-alcanzan-tus-reales/aqui-si-te-alcanzan-tus-reales-26-limpieza-y-mascotas/sku-papel-higinico-nevax-extrams-4-rollos-744105726582"
+        ],
+        "resultado": "La ficha local muestra Nevax ExtraMás de cuatro rollos. Hace falta confirmar el paquete rotulado Rendidor."
+      }
     },
     "21319": {
       "nombre": "Paleta Suave (40 unidades)",
-      "motivo": "Las búsquedas mostraron bolsas de 40 paletas de otras líneas. Hace falta confirmar la marca y el frente de Paleta Suave."
+      "motivo": "Las búsquedas mostraron bolsas de 40 paletas de otras líneas. Hace falta confirmar la marca y el frente de Paleta Suave.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.ladespensadedonjuan.com.sv/paleta-de-caramelo-venus-suave-sabor-a-frutas-320-g-5/p",
+          "https://ximple.co/wp-content/uploads/2025/01/Novaventa-C01-2025.pdf",
+          "https://tunicaragua.com/index.php/es/supermercado-la-colonia?view=category&virtuemart_category_id=719"
+        ],
+        "resultado": "La alternativa muestra Paleta Venus Suave de 320 g. Confirmar si corresponde a la marca y bolsa de 40 unidades de la tienda."
+      }
     },
     "21367": {
       "nombre": "Palomitas queso Yummies 30 g",
@@ -5090,19 +5741,55 @@
     },
     "21382": {
       "nombre": "Pan Maryuri",
-      "motivo": "Se encontró una mención a la panadería Marjuri. Hace falta comprobar si corresponde al Pan Maryuri de la tienda y fotografiar la presentación."
+      "motivo": "Se encontró una mención a la panadería Marjuri. Hace falta comprobar si corresponde al Pan Maryuri de la tienda y fotografiar la presentación.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://repositorio.unan.edu.ni/id/eprint/4957/1/93848.pdf",
+          "https://callejero-nicaragua.openalfa.com/managua/comercio",
+          "https://repositorio.unan.edu.ni/4957/1/93848.pdf"
+        ],
+        "resultado": "El documento identifica Panadería Marjuri S.A., pero no confirma el producto vendido por MiMarket. Hace falta foto de su bolsa o etiqueta."
+      }
     },
     "21384": {
       "motivo": "Pendiente de una foto identificable del Pan Norlan.",
-      "nombre": "Pan Norlan"
+      "nombre": "Pan Norlan",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.archivobiz.com/NI/don-norlan",
+          "https://www.tn8.tv/departamentos/530949-salen-adelante-con-pan-caliente-y-hecho-con-amor-rio-san-juan/",
+          "https://www.inide.gob.ni/docs/CensoEconomico/DirectorioCEU/DCEURSJ.pdf"
+        ],
+        "resultado": "El directorio identifica Don Norlan, pero no proporciona una foto del pan que vende MiMarket."
+      }
     },
     "21386": {
       "nombre": "Pan San Miguel (24 unidades)",
-      "motivo": "Las fuentes encontradas no identifican un Pan San Miguel de 24 unidades que corresponda a este código. Hace falta una foto del empaque completo."
+      "motivo": "Las fuentes encontradas no identifican un Pan San Miguel de 24 unidades que corresponda a este código. Hace falta una foto del empaque completo.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.pricesmart.com/es-ni/categoria/Alimentos-G10D03/Panaderia-y-reposteria-Fresh_Bakery/Fresh_Bakery?insEmail=1&insNltCmpId=11149&insNltSldt=1440&insPnName=pricesmarton&insTrackId=8&ins_iid=YTQ4NTQ2OWUtNjAzMy00ZjlkLTg3NDgtNTEyZjgyZmE5OGQ1&isIns=1&isInsNltCmp=1",
+          "https://buscani.com/restaurantes/panaderias",
+          "https://www.walmart.com.ni/pan-mi-pancito-cena-paquete-24-unidades/p"
+        ],
+        "resultado": "La alternativa de 24 unidades corresponde a Mi Pancito. Hace falta ver el paquete de 24 de San Miguel."
+      }
     },
     "21567": {
       "nombre": "Porta cepillo",
-      "motivo": "Las fuentes muestran estuches completos y tapas para el cabezal. Confirmar cuál se vende y su marca."
+      "motivo": "Las fuentes muestran estuches completos y tapas para el cabezal. Confirmar cuál se vende y su marca.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.sinsa.com.ni/porta-accesorios-pcabello-plastico-trans-interdesign-154634583/p",
+          "https://fetesa.com.ni/catalogos_2025/catalogo%20febrero_.pdf",
+          "https://ni.ebay.com/b/Plastic-Bathroom-Tumblers-Toothbrush-Holders/25453/bn_3230035"
+        ],
+        "resultado": "La alternativa muestra un soporte con tapa para varios cepillos. Confirmar si MiMarket vende ese formato, un estuche completo o una tapa individual."
+      }
     },
     "21580": {
       "nombre": "Quesitos Max 35 g",
@@ -5128,15 +5815,42 @@
     },
     "21589": {
       "nombre": "Papel higiénico Nevax rendidor (6 rollos)",
-      "motivo": "Las fichas de seis rollos muestran variantes como ExtraMás y Maxi Resist. Confirmar el nombre exacto impreso en el paquete del negocio."
+      "motivo": "Las fichas de seis rollos muestran variantes como ExtraMás y Maxi Resist. Confirmar el nombre exacto impreso en el paquete del negocio.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.efastonline.com/product/1012797",
+          "https://www.pgr.gob.ni/PDF/2023/GACETA/GACETA_21_07_2023.pdf",
+          "https://www.walmart.com.ni/limpieza/papel-higienico/6-rollos"
+        ],
+        "resultado": "La foto alternativa muestra Nevax ExtraMás de seis rollos. Confirmar si coincide con el artículo que el POS registra como Rendidor."
+      }
     },
     "21613": {
       "nombre": "Queso criollo (libra)",
-      "motivo": "Las fuentes locales muestran varios quesos frescos y secos de venta al corte. Hace falta confirmar si el queso criollo de la tienda es fresco, semiseco o seco para elegir una referencia del mismo tipo."
+      "motivo": "Las fuentes locales muestran varios quesos frescos y secos de venta al corte. Hace falta confirmar si el queso criollo de la tienda es fresco, semiseco o seco para elegir una referencia del mismo tipo.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://nicaragua.justia.com/nacionales/normas-tecnicas/norma-de-quesos-frescos-no-madurados-jan-21-2000/gdoc/",
+          "https://www.launion.com.ni/lacteos/queso/queso-fresco",
+          "https://ipsa.gob.ni/Portals/0/1%20Inocuidad%20Alimentaria/Normativas%20Generales/ACTUALIZACION%20051217/Secci%C3%B3n%20Inocuidad%20L%C3%A1cteos/NTON%2003%20022%20%E2%80%93%2099%20%20Especificaciones%20de%20Quesos%20frescos%20o%20no%20madurados-1.pdf"
+        ],
+        "resultado": "El catálogo local muestra varios quesos frescos al corte. Confirmar si el queso criollo del negocio es fresco, semiseco o seco."
+      }
     },
     "21743": {
       "nombre": "Pasta dental Colgate Kids 50 ml",
-      "motivo": "Se encontraron varias presentaciones Colgate Kids. Hace falta confirmar el sabor y la presentación de 50 ml."
+      "motivo": "Se encontraron varias presentaciones Colgate Kids. Hace falta confirmar el sabor y la presentación de 50 ml.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/colgate",
+          "https://www.launion.com.ni/pasta-dental-colgate-ninos-tandy-50g-4/p",
+          "https://www.walmart.com.ni/colgate"
+        ],
+        "resultado": "La ficha de Tandy indica 50 g. Hace falta confirmar el sabor y si el empaque de tienda declara 50 ml."
+      }
     },
     "21801": {
       "nombre": "Piezas mixtas marinadas Kimby (libra)",
@@ -5173,33 +5887,69 @@
         "resultado": "La foto de rosquillas mixtas que se pudo localizar es de Alondra. La ficha nutricional de Valdez confirma el nombre sin una foto del empaque."
       }
     },
-    "21849": {
-      "nombre": "Papel higiénico Encanto 1000 hojas (rollo)",
-      "motivo": "Las fichas consultadas no muestran un rollo Encanto de 1000 hojas con marca y cantidad legibles. Hace falta una foto del rollo."
-    },
     "21888": {
       "nombre": "Pañal desechable (paquete de 5)",
-      "motivo": "Los catálogos muestran paquetes de pañales de otras cantidades. Hace falta confirmar la marca, talla y empaque del paquete de cinco."
+      "motivo": "Los catálogos muestran paquetes de pañales de otras cantidades. Hace falta confirmar la marca, talla y empaque del paquete de cinco.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/bebes-y-ninos/panales/panales---etapa-5",
+          "https://maxipali.com.ni/precio-bajo-siempre-pali-y-maxi-pali-nicaragua/bebes-y-ninos/panales-y-toallitas-humedas",
+          "https://www.tunicaragua.com/index.php/es/esteli?dir=ASC&language=es-ES&manage=0&view=category&virtuemart_category_id=354&virtuemart_manufacturer_id=0"
+        ],
+        "resultado": "La oferta local de pañales no identifica el paquete de cinco del negocio. Confirmar marca y talla."
+      }
     },
     "21889": {
       "nombre": "Pañal desechable XXG (paquete de 5)",
-      "motivo": "Se encontraron pañales XXG en paquetes mayores. Hace falta una foto del paquete de cinco y confirmar la marca."
+      "motivo": "Se encontraron pañales XXG en paquetes mayores. Hace falta una foto del paquete de cinco y confirmar la marca.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://agricorp.com.ni/wp-content/uploads/2023/04/Catalogo-Agricorp-2023.pdf",
+          "https://www.launion.com.ni/bebes-y-ninos/panales/panales---etapa-2",
+          "https://www.agricorp.com.ni/wp-content/uploads/2021/07/CompressedCatalog2021.pdf"
+        ],
+        "resultado": "La oferta de pañales revisada no permite identificar un paquete XXG de cinco. Hace falta foto del frente y marca."
+      }
     },
     "21903": {
       "nombre": "Pasta dental Colgate Máxima Protección 100 ml",
-      "motivo": "La ficha local de 100 ml identifica la versión Doble Frescura. El fabricante muestra también Máxima Protección Anticaries original. Hace falta confirmar cuál corresponde al código."
+      "motivo": "La ficha local de 100 ml identifica la versión Doble Frescura. El fabricante muestra también Máxima Protección Anticaries original. Hace falta confirmar cuál corresponde al código.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/colgate-tp-doble-freshness-100-ml/p",
+          "https://www.launion.com.ni/colgate-total",
+          "https://www.colgate.com/es-ni/products/toothpaste/colgate-maxima-proteccion-anticaries"
+        ],
+        "resultado": "Colgate muestra Máxima Protección Anticaries y Walmart la variante Doble Frescura. Confirmar qué variante de 100 ml vende MiMarket."
+      }
     },
     "21919": {
       "nombre": "Pasta dental Doble Frescura 75 ml",
-      "motivo": "La ficha local de Colgate Doble Frescura muestra 100 ml. Hace falta una foto identificable de la caja de 75 ml."
+      "motivo": "La ficha local de Colgate Doble Frescura muestra 100 ml. Hace falta una foto identificable de la caja de 75 ml.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.maxipali.co.cr/crema-dental-colgate-doble-frescura-75ml-4/p",
+          "https://www.colgate.com/es-ni/products/toothpaste/colgate-doble-frescura"
+        ],
+        "resultado": "La ficha de Costa Rica lista 75 ml, pero esa foto no abrió. La foto oficial que abrió declara 150 ml. Hace falta una foto legible de la caja de 75 ml."
+      }
     },
     "21923": {
       "nombre": "Pasta de lustrar Nugget negra 12 g",
-      "motivo": "Las fuentes muestran betún en latas más grandes o sin peso visible. Hace falta una foto de la lata de 12 g."
-    },
-    "22079": {
-      "nombre": "Pindi chocolate (paquete de 12)",
-      "motivo": "El catálogo del distribuidor identifica Pindi chocolate. Hace falta una foto que muestre el empaque exterior y confirme las 12 unidades."
+      "motivo": "Las fuentes muestran betún en latas más grandes o sin peso visible. Hace falta una foto de la lata de 12 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.maxidespensa.com.sv/betun-en-pasta-nugget-color-negro-maximo-brillo-y-tratamiento-30-g/p",
+          "https://contesa.com.ni/products/?id=32",
+          "https://www.launion.com.ni/nugget"
+        ],
+        "resultado": "La foto de betún Nugget negro encontrada es de 30 g. Hace falta ver la lata de 12 g."
+      }
     },
     "22173": {
       "nombre": "Ponche de frutas Eskimo 1.89 L",
@@ -5211,10 +5961,6 @@
         ],
         "resultado": "PriceSmart muestra Eskimo Fruit Punch de 3.78 L. Hace falta una foto del envase de 1.89 L."
       }
-    },
-    "22210": {
-      "nombre": "Prestobarba Bic Confort",
-      "motivo": "Se encontró BIC Comfort 3 en azul y Comfort 2 verde en paquete doble. Confirmar modelo y presentación de la rasuradora verde."
     },
     "22213": {
       "nombre": "Harina Prima 454 g",
@@ -5230,11 +5976,27 @@
     },
     "22271": {
       "nombre": "Queso fundido Papachente",
-      "motivo": "Los catálogos consultados no muestran un queso fundido identificado como Papachente. Hace falta ver el empaque o confirmar el nombre del fabricante."
+      "motivo": "Los catálogos consultados no muestran un queso fundido identificado como Papachente. Hace falta ver el empaque o confirmar el nombre del fabricante.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://repositorio.ucc.edu.ni/1165/1/Propuesta%20Manual%20Pol%C3%ADticas%20Contables%20NIIF%20Pymes%20Cooproleche%20R.L.pdf"
+        ],
+        "resultado": "Las fuentes alternativas no identifican el queso fundido Papachente. Hace falta foto del frente o el nombre del fabricante."
+      }
     },
     "22273": {
       "nombre": "Queso jalapeño Fiesta",
-      "motivo": "Las fichas encontradas muestran otros quesos con jalapeño o mezclas Fiesta de otras marcas. Hace falta identificar el empaque exacto."
+      "motivo": "Las fichas encontradas muestran otros quesos con jalapeño o mezclas Fiesta de otras marcas. Hace falta identificar el empaque exacto.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://demipais.com/products/queso-jalapeno-jalapeno-cheese-12oz",
+          "https://dmpcatalogo.com/product/cheese-with-jalapeno-queso-con-jalapeno/?print-products=pdf",
+          "https://repositorio.unan.edu.ni/id/eprint/18532/1/18532.pdf"
+        ],
+        "resultado": "La alternativa muestra queso con jalapeño de otra marca. Hace falta una foto del frente de Fiesta."
+      }
     },
     "22311": {
       "nombre": "Rastrillo plástico económico",
@@ -5390,7 +6152,16 @@
     },
     "23333": {
       "nombre": "Torti Chip 30 g",
-      "motivo": "Las fichas consultadas no identifican la marca ni el empaque de Torti Chip de 30 g. Hace falta una foto propia."
+      "motivo": "Las fichas consultadas no identifican la marca ni el empaque de Torti Chip de 30 g. Hace falta una foto propia.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/tortichips-limon-150-gr/p",
+          "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?view=category&virtuemart_category_id=192",
+          "https://www.tunicaragua.com/index.php/es/supermercado-la-colonia?language=es-ES&manage=0&orderby=ordering&view=category&virtuemart_category_id=1101&virtuemart_manufacturer_id=0"
+        ],
+        "resultado": "La foto local muestra Tortichips de limón de 150 g. Hace falta confirmar la marca y el sabor del empaque de 30 g."
+      }
     },
     "23340": {
       "nombre": "Toztecas moradas picantes Max 30 g",
@@ -5418,7 +6189,16 @@
     },
     "23390": {
       "nombre": "Tumix (unidad)",
-      "motivo": "Se encontraron cajas de Tumix de varios sabores. Hace falta confirmar si la tienda vende un sabor fijo o un surtido y ver la unidad."
+      "motivo": "Se encontraron cajas de Tumix de varios sabores. Hace falta confirmar si la tienda vende un sabor fijo o un surtido y ver la unidad.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.supermaxi.com/marca/tumix",
+          "https://www.farmaexpress.com/tumix",
+          "https://fundafarma.com/producto/chicle-tumix/"
+        ],
+        "resultado": "Se venden distintos sabores Tumix. Confirmar el sabor o surtido y ver una unidad."
+      }
     },
     "23413": {
       "nombre": "Tampico citrus punch ½ L",
@@ -5431,10 +6211,6 @@
         ],
         "resultado": "La Colonia declara 480 ml para Citrus Punch. La ficha alternativa de 500 ml es de otro mercado. Confirmar el volumen de la botella del negocio."
       }
-    },
-    "23478": {
-      "nombre": "Toallitas húmedas Huggies limpieza (112)",
-      "motivo": "Las fichas locales muestran Huggies Limpieza Diaria de 80 unidades. Se encontró una ficha extranjera de 112 sin foto verificable del frente. Hace falta confirmar la presentación de 112."
     },
     "23484": {
       "nombre": "Tang durazno 13 g",
@@ -5462,7 +6238,16 @@
     },
     "23562": {
       "nombre": "Vitaflenaco (sobre)",
-      "motivo": "Las fuentes muestran cajas o cápsulas en otras cantidades. Hace falta una foto legible del sobre Vitaflenaco."
+      "motivo": "Las fuentes muestran cajas o cápsulas en otras cantidades. Hace falta una foto legible del sobre Vitaflenaco.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.walmart.com.ni/vitaflenaco-15-capsulas/p",
+          "https://mayaprin.com/wp-content/uploads/2022/11/catalogo-de-empaques.pdf",
+          "https://www.launion.com.ni/vitaflenaco"
+        ],
+        "resultado": "Walmart muestra Vitaflenaco en caja de 15 cápsulas. Hace falta una foto del sobre que vende MiMarket."
+      }
     },
     "23586": {
       "nombre": "Toña botella 350 ml",
@@ -5513,19 +6298,29 @@
     },
     "23873": {
       "nombre": "Toalla sanitaria Fiore con alas",
-      "motivo": "Se encontraron Fiore con alas nocturnas y de flujo moderado. Hace falta confirmar la línea y la cantidad de la presentación local."
-    },
-    "23874": {
-      "nombre": "Toalla sanitaria Fiore sin alas",
-      "motivo": "Se identificó una ficha Fiore Anatómica sin alas de 8 unidades. Hace falta una foto de la presentación local que muestre que es sin alas."
+      "motivo": "Se encontraron Fiore con alas nocturnas y de flujo moderado. Hace falta confirmar la línea y la cantidad de la presentación local.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://fiore.com.mx/productos/",
+          "https://distribuidoraojodeagua.com/products/3280",
+          "https://distribuidorajiron.com.ni/es/214-toalla-sanitaria"
+        ],
+        "resultado": "El fabricante ofrece varias toallas Fiore con alas. Confirmar línea, nivel de flujo y cantidad en el paquete del negocio."
+      }
     },
     "23883": {
       "nombre": "Toallitas húmedas Huggies (80)",
-      "motivo": "Huggies ofrece varios paquetes de 80 unidades, incluidos Limpieza Diaria, Cuidado 4 en 1 y Manitos y Carita. Hace falta confirmar cuál vende la tienda."
-    },
-    "23901": {
-      "nombre": "Kotex manzanilla sin alas",
-      "motivo": "Las fichas de Kotex Naturals Manzanilla muestran principalmente la presentación con alas. Hace falta una foto que verifique la versión sin alas."
+      "motivo": "Huggies ofrece varios paquetes de 80 unidades, incluidos Limpieza Diaria, Cuidado 4 en 1 y Manitos y Carita. Hace falta confirmar cuál vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launion.com.ni/toallas-humedas-marca-huggies-manitos-y-carita-ftop-80gr/p",
+          "https://www.walmart.com.ni/toa-hum-hug-limpie-cotidiana-softp80ea/p",
+          "https://www.launion.com.ni/bebes-y-ninos/toallitas-humedas"
+        ],
+        "resultado": "Walmart y La Unión muestran variantes distintas de 80 toallitas. Confirmar el nombre exacto en la tapa o en el frente."
+      }
     },
     "23950": {
       "nombre": "Torti Chips chile 16 g",
@@ -5551,7 +6346,16 @@
     },
     "23977": {
       "nombre": "Tozteca Max 45 g",
-      "motivo": "Las fichas de Toztecas Max no identifican el sabor de este SKU ni muestran una envoltura legible de 45 g."
+      "motivo": "Las fichas de Toztecas Max no identifican el sabor de este SKU ni muestran una envoltura legible de 45 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.productosdiana.com/productos/toztecas-max",
+          "https://www.productosdiana.com/productos/marca/toztecas",
+          "https://www.productosdiana.com/Toztecas"
+        ],
+        "resultado": "Diana muestra distintas variantes Toztecas Max. Hace falta identificar el sabor y ver 45 g en el empaque."
+      }
     },
     "24125": {
       "nombre": "Veladora pequeña",
@@ -5575,10 +6379,6 @@
         ],
         "resultado": "Tapón Verde lista 21 g, pero su foto no muestra el peso. Hace falta una imagen con 21 g impreso en la bolsa Zambos Ceviche."
       }
-    },
-    "24215": {
-      "nombre": "Caramelo Zorritone (unidad)",
-      "motivo": "Ancalmo tiene caramelos Zorritone tradicionales y Menthol Power. Hace falta confirmar qué envoltorio se vende por unidad."
     },
     "24349": {
       "nombre": "Yumix tropical 31 g",
@@ -5605,7 +6405,16 @@
     },
     "24365": {
       "nombre": "Zambos yuquitas Yummies (unidad)",
-      "motivo": "El fabricante confirma Zambos Yuquitas Originales y advierte que el tamaño varía por país. Hace falta confirmar el peso de la bolsa individual del negocio."
+      "motivo": "El fabricante confirma Zambos Yuquitas Originales y advierte que el tamaño varía por país. Hace falta confirmar el peso de la bolsa individual del negocio.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://mundicash.com/index.php?product_id=1643&route=product%2Fproduct",
+          "https://wp-zambos.yummiespromociones.com/producto/zambos-yuquitas/",
+          "https://www.walmart.com.ni/yummies"
+        ],
+        "resultado": "La marca confirma Zambos Yuquitas Originales en varios tamaños. Hace falta una foto de la bolsa unitaria o el peso."
+      }
     },
     "24393": {
       "nombre": "Barra Nutrix",
@@ -5632,11 +6441,29 @@
     },
     "24580": {
       "nombre": "Detergente Irex floral 125 g",
-      "motivo": "El distribuidor local muestra ORIX Floral en 125 g. El fabricante de Irex no lista ese peso en su línea floral actual. Hace falta confirmar la marca impresa en el sobre."
+      "motivo": "El distribuidor local muestra ORIX Floral en 125 g. El fabricante de Irex no lista ese peso en su línea floral actual. Hace falta confirmar la marca impresa en el sobre.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://cimberton.com/productos/irex-detergente-irex-evolution-acond-125gx30it",
+          "https://www.suplidora.com.ni/wp-content/uploads/2023/10/CATALOGO-SUPLIDORA-INTERNACIONAL_compressed.pdf",
+          "https://nuevaya.com.ni/economicas-ya/irex-te-trae-innovadores-productos-para-lavar-mejor-la-ropa-y-los-utensilios-del-hogar/"
+        ],
+        "resultado": "La alternativa Irex confirma Evolution Acondicionador de 125 g, no Floral. Hace falta confirmar si el sobre Floral de MiMarket es Irex u Orix."
+      }
     },
     "24622": {
       "nombre": "Detergente en barra Espumil cítrico 450 g",
-      "motivo": "La foto de la barra Espumil Explosión Cítrica localizada muestra 425 g. Hace falta una foto donde se lea 450 g."
+      "motivo": "La foto de la barra Espumil Explosión Cítrica localizada muestra 425 g. Hace falta una foto donde se lea 450 g.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.maxidespensa.com.gt/jabon-espumil-barra-explo-citrica-425gr/p",
+          "https://www.walmart.com.ni/espumil-explos-citri/p",
+          "https://www.pgr.gob.ni/PDF/2026/GACETA/GACETA_17_03_2026.pdf"
+        ],
+        "resultado": "La barra Espumil Cítrica de la ficha alternativa declara 425 g. Hace falta el frente de la barra de 450 g."
+      }
     },
     "24691": {
       "nombre": "Apagador tortuga Ragely",
@@ -5661,10 +6488,6 @@
         "resultado": "La ficha de Coex instantáneo muestra la caja de sobres de 1.8 g. Hace falta confirmar el gramaje y ver el sobre individual."
       }
     },
-    "24706": {
-      "nombre": "Jabón de baño Protex carbón 110 g",
-      "motivo": "Las fotos verificadas muestran el paquete de tres Protex Carbón Detox de 110 g por barra. Hace falta una foto de la unidad con el peso visible."
-    },
     "24731": {
       "nombre": "Palomitas Pops chile Yummies 30 g",
       "motivo": "Las fotos encontradas no permiten verificar que sea la bolsa Yummies Pops sabor chile de 30 g.",
@@ -5678,7 +6501,16 @@
     },
     "24791": {
       "nombre": "Pasta dental Crest 170 ml",
-      "motivo": "Se encontró Crest Complete de 170 ml, pero el POS no especifica la línea ni el sabor. Hace falta confirmar el tubo que vende la tienda."
+      "motivo": "Se encontró Crest Complete de 170 ml, pero el POS no especifica la línea ni el sabor. Hace falta confirmar el tubo que vende la tienda.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.pricesmart.com/es-ni/busqueda?page=1&q=pasta+dental",
+          "https://repositorio.unan.edu.ni/id/eprint/14574/1/14574.pdf",
+          "https://nicaragua.yaxa.co/brand/crest"
+        ],
+        "resultado": "El catálogo Crest ofrece varias líneas. Confirmar cuál tubo de 170 ml vende el negocio y su sabor."
+      }
     },
     "24804": {
       "nombre": "Chocolate Sprinter",
@@ -5718,7 +6550,16 @@
     },
     "24865": {
       "nombre": "Cuaderno cosido Smarty rayado 100 páginas",
-      "motivo": "Un listado nicaragüense confirma el cuaderno Smarty cosido rayado, pero no incluye foto del cuaderno de 100 páginas. Hace falta foto de la portada."
+      "motivo": "Un listado nicaragüense confirma el cuaderno Smarty cosido rayado, pero no incluye foto del cuaderno de 100 páginas. Hace falta foto de la portada.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.launiversal.com.ni/categoria/cuadernos-cosidos",
+          "https://compreloadomicilio.com/ni/producto/kits-escolares/cuaderno-cosido-grande-smarty-rayado-48282",
+          "https://www.walmart.com.ni/articulos-para-el-hogar/papeleria/cuadernos-y-carpetas"
+        ],
+        "resultado": "La ficha local reúne diseños Smarty, pero no hace legible el número de páginas y la ficha mexicana ofrece 100 hojas. Confirmar el conteo de la libreta rayada."
+      }
     },
     "24887": {
       "nombre": "Hueso especial (libra)",
@@ -5745,7 +6586,16 @@
     },
     "24903": {
       "nombre": "Pan Norlan (bandeja)",
-      "motivo": "Las fuentes locales no muestran qué incluye la bandeja Pan Norlan. Hace falta una foto de la bandeja con el pan y su presentación de venta."
+      "motivo": "Las fuentes locales no muestran qué incluye la bandeja Pan Norlan. Hace falta una foto de la bandeja con el pan y su presentación de venta.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://donpan.com.ni/",
+          "https://www.walmart.com.ni/panaderia-y-tortiller%C3%ADa/pan-salado",
+          "https://tunicaragua.com/index.php/es/supermercado-la-colonia?view=category&virtuemart_category_id=608"
+        ],
+        "resultado": "El catálogo alternativo muestra pan artesanal genérico. Hace falta una foto de la bandeja Don Norlan real."
+      }
     },
     "24949": {
       "nombre": "Hielo (bolsa 5 lb)",
@@ -5785,7 +6635,16 @@
     },
     "24972": {
       "nombre": "Malvavisco osito (unidad)",
-      "motivo": "Las búsquedas muestran malvaviscos en otras formas y presentaciones. Hace falta una foto del osito vendido por unidad."
+      "motivo": "Las búsquedas muestran malvaviscos en otras formas y presentaciones. Hace falta una foto del osito vendido por unidad.",
+      "segundaRevision": {
+        "fecha": "2026-11-26",
+        "fuentes": [
+          "https://www.frecuento.com/marshmallows-millows-individuales-de-osos-250g/954547/",
+          "https://www.walmart.com.ni/guandy",
+          "https://dulcestinajita.com/wp-content/uploads/2025/02/CatalogoDT25-02.pdf"
+        ],
+        "resultado": "Se encontraron ositos Millows en una bolsa de 250 g. Hace falta una foto de la unidad y confirmar la marca vendida."
+      }
     },
     "24974": {
       "nombre": "Lepo piña 375 ml",
